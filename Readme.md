@@ -4,22 +4,23 @@ The aim for the project is to model three types of public transport (Trains, Met
 
 
 ## Repository Structure
-├── Data
-|
-├── Extraction
-│ ├── dist
-│ ├── node_modules
-│ ├── src
-│ │ └── main.ts
-│ ├── package-lock.json
-│ ├── package.json
-│ └── tsconfig.json
+├─ Data/
 │
-├── Modeling
-│ ├── .ipynb_checkpoints
-│ ├── discovery.ipynb
-│ └── main.py
+├─ Extraction/
+│  ├─ dist/
+│  ├─ node_modules/
+│  ├─ src/
+│  │  └─ main.ts
+│  ├─ package-lock.json
+│  ├─ package.json
+│  └─ tsconfig.json
 │
-├── .env
-├── .gitignore
-└── Readme.md
+├─ Modeling/
+│  ├─ .ipynb_checkpoints/
+│  ├─ discovery.ipynb
+│  └─ main.py
+│
+├─ .env
+├─ .gitignore
+└─ Readme.md
+
