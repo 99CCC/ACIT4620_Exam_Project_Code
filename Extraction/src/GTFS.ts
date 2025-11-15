@@ -4,8 +4,6 @@ import StreamZip from "node-stream-zip";
 import Papa from "papaparse";
 
 import {
-    //AGENCY_ALLOW,
-    inOslo,
     hmsToSec,
     routeTypeToMode,
     median,
@@ -13,9 +11,172 @@ import {
     streamCsv,
 } from "./gtfsUtils.js";
 
+import { loadGeometry, pointInGeom } from "./polyMapping.js";
+
 // config
-const GTFS_URL = "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_norway-aggregated-gtfs.zip";
-const OUT_DIR = "out";
+const GTFS_URL =
+    "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_norway-aggregated-gtfs.zip";
+
+export const OUT_DIR = "out";
+
+// Oslo only
+const OSLO_FYLKE = "03";
+
+// Greater Oslo / all fylker you care about
+const FYLKER = ["03", "32", "33", "31"]; // Oslo, Akershus, Buskerud, Østfold
+
+async function buildRegion(
+    label: "OSLO" | "ALL_FYLKER",
+    geoms: any[],
+    zip: any,
+    routes: Map<string, any>,
+    trips: Map<string, any>,
+    agencyName: Map<string, string>
+) {
+    console.log(`\n=== Building region: ${label} ===`);
+
+    // --- stops (clipped by region polygons) ---
+    const stops = new Map<string, any>();
+    await streamCsv(zip, "stops.txt", r => {
+        const id = r["stop_id"];
+        if (!id) return;
+        const lat = +r["stop_lat"];
+        const lon = +r["stop_lon"];
+        if (Number.isNaN(lat) || Number.isNaN(lon)) return;
+
+        // Keep only stops inside at least one of the fylke polygons
+        const inside = geoms.some(geom => pointInGeom(lon, lat, geom));
+        if (!inside) return;
+
+        stops.set(id, { id, name: r["stop_name"], lat, lon });
+    });
+
+    console.log(`[${label}] kept stops: ${stops.size.toLocaleString()}`);
+
+    // --- stop_times (filtered by trips + region stops) ---
+    const times = new Map<string, any[]>();
+    let seen = 0;
+    let kept = 0;
+    await streamCsv(zip, "stop_times.txt", r => {
+        seen++;
+        const tid = r["trip_id"];
+        if (!trips.has(tid)) return;
+        const sid = r["stop_id"];
+        if (!stops.has(sid)) return; // outside region
+        const seq = +r["stop_sequence"];
+        if (Number.isNaN(seq)) return;
+
+        const arr = hmsToSec(r["arrival_time"]);
+        const dep = hmsToSec(r["departure_time"]);
+        if (!times.has(tid)) times.set(tid, []);
+        times.get(tid)!.push({ sid, seq, arr, dep });
+        kept++;
+    });
+
+    console.log(
+        `[${label}] stop_times: seen=${seen.toLocaleString()} kept=${kept.toLocaleString()} trips=${times.size.toLocaleString()}`
+    );
+
+    // --- build edges ---
+    const edges = new Map<string, any>();
+    for (const [tid, list] of times) {
+        list.sort((a, b) => a.seq - b.seq);
+        const trip = trips.get(tid);
+        const route = routes.get(trip.route);
+        if (!route) continue;
+        const mode = routeTypeToMode(route.route_type);
+        const authority = agencyName.get(route.agency_id);
+
+        for (let i = 0; i < list.length - 1; i++) {
+            const a = list[i],
+                b = list[i + 1];
+            const key = `${a.sid}|${b.sid}|${route.route_id}`;
+            const tA = a.dep ?? a.arr,
+                tB = b.arr ?? b.dep;
+            const dur =
+                tA != null && tB != null && tB >= tA ? tB - tA : undefined;
+            if (!edges.has(key))
+                edges.set(key, {
+                    from: a.sid,
+                    to: b.sid,
+                    route,
+                    mode,
+                    authority,
+                    durs: [],
+                });
+            if (dur) edges.get(key).durs.push(dur);
+        }
+    }
+
+    const edgesOut = Array.from(edges.values()).map(e => ({
+        from: e.from,
+        to: e.to,
+        lineId: e.route.route_id,
+        lineCode: e.route.short || e.route.long,
+        mode: e.mode,
+        authority: e.authority,
+        travelTimeSec: median(e.durs),
+    }));
+
+    console.log(
+        `[${label}] edges: ${edgesOut.length.toLocaleString()}`
+    );
+
+    // --- nodes ---
+    const usedStops = new Set<string>();
+    edgesOut.forEach(e => {
+        usedStops.add(e.from);
+        usedStops.add(e.to);
+    });
+
+    const modeByStop = new Map<string, Set<string>>();
+    edgesOut.forEach(e => {
+        if (!modeByStop.has(e.from)) modeByStop.set(e.from, new Set());
+        if (!modeByStop.has(e.to)) modeByStop.set(e.to, new Set());
+        modeByStop.get(e.from)!.add(e.mode);
+        modeByStop.get(e.to)!.add(e.mode);
+    });
+
+    const nodesOut = Array.from(usedStops).map(id => {
+        const s = stops.get(id)!;
+        const modes = Array.from(modeByStop.get(id) || []);
+        let stopType = "unknown";
+        if (modes.length === 1) stopType = modes[0];
+        else if (modes.length > 1) stopType = "multimodal";
+        return {
+            id,
+            stopPlaceId: id,
+            name: s.name,
+            lat: s.lat,
+            lon: s.lon,
+            modes,
+            stopType,
+        };
+    });
+
+    console.log(
+        `[${label}] nodes: ${nodesOut.length.toLocaleString()}`
+    );
+
+    const suffix = label === "OSLO" ? "OSLO" : "ALL_FYLKER";
+
+    fs.writeFileSync(
+        path.join(OUT_DIR, `nodes_GTFS_${suffix}.csv`),
+        Papa.unparse(nodesOut)
+    );
+    fs.writeFileSync(
+        path.join(OUT_DIR, `edges_GTFS_${suffix}.csv`),
+        Papa.unparse(edgesOut)
+    );
+    fs.writeFileSync(
+        path.join(OUT_DIR, `graph_GTFS_${suffix}.json`),
+        JSON.stringify({ nodes: nodesOut, edges: edgesOut }, null, 2)
+    );
+
+    console.log(
+        `[${label}] Done. Static network: nodes=${nodesOut.length} edges=${edgesOut.length}`
+    );
+}
 
 // main thing
 async function run() {
@@ -39,7 +200,7 @@ async function run() {
         if (!id) return;
         const name = row["agency_name"] || id;
         agencyName.set(id, name);
-        /*if (!AGENCY_ALLOW || AGENCY_ALLOW.test(name))*/ allowedAgencies.add(id);
+        allowedAgencies.add(id);
     });
 
     // --- routes ---
@@ -58,16 +219,6 @@ async function run() {
         });
     });
 
-    // --- stops ---
-    const stops = new Map<string, any>();
-    await streamCsv(zip, "stops.txt", r => {
-        const id = r["stop_id"]; if (!id) return;
-        const lat = +r["stop_lat"], lon = +r["stop_lon"];
-        if (Number.isNaN(lat) || Number.isNaN(lon)) return;
-        if (!inOslo(lat, lon)) return;
-        stops.set(id, { id, name: r["stop_name"], lat, lon });
-    });
-
     // --- trips ---
     const trips = new Map<string, any>();
     await streamCsv(zip, "trips.txt", r => {
@@ -75,84 +226,33 @@ async function run() {
         trips.set(r["trip_id"], { id: r["trip_id"], route: r["route_id"] });
     });
 
-    // --- stop_times ---
-    const times = new Map<string, any[]>();
-    let seen = 0, kept = 0;
-    await streamCsv(zip, "stop_times.txt", r => {
-        seen++;
-        const tid = r["trip_id"];
-        if (!trips.has(tid)) return;
-        const sid = r["stop_id"];
-        if (!stops.has(sid)) return;
-        const seq = +r["stop_sequence"];
-        if (Number.isNaN(seq)) return;
+    console.log(
+        `routes=${routes.size.toLocaleString()} trips=${trips.size.toLocaleString()}`
+    );
 
-        const arr = hmsToSec(r["arrival_time"]);
-        const dep = hmsToSec(r["departure_time"]);
-        if (!times.has(tid)) times.set(tid, []);
-        times.get(tid)!.push({ sid, seq, arr, dep });
-        kept++;
-    });
-
-    await zip.close();
-    console.log(`stop_times: seen=${seen.toLocaleString()} kept=${kept.toLocaleString()} trips=${times.size.toLocaleString()}`);
-
-    // --- build edges ---
-    const edges = new Map<string, any>();
-    for (const [tid, list] of times) {
-        list.sort((a, b) => a.seq - b.seq);
-        const trip = trips.get(tid);
-        const route = routes.get(trip.route);
-        const mode = routeTypeToMode(route.route_type);
-        const authority = agencyName.get(route.agency_id);
-
-        for (let i = 0; i < list.length - 1; i++) {
-            const a = list[i], b = list[i + 1];
-            const key = `${a.sid}|${b.sid}|${route.route_id}`;
-            const tA = a.dep ?? a.arr, tB = b.arr ?? b.dep;
-            const dur = tA != null && tB != null && tB >= tA ? (tB - tA) : undefined;
-            if (!edges.has(key)) edges.set(key, { from: a.sid, to: b.sid, route, mode, authority, durs: [] });
-            if (dur) edges.get(key).durs.push(dur);
-        }
+    // --- load polygons (Oslo only + all fylker) ---
+    console.log("Loading fylke geometries…");
+    const fylkeGeomMap = new Map<string, any>();
+    for (const code of FYLKER) {
+        const geom = await loadGeometry(code);
+        fylkeGeomMap.set(code, geom);
     }
 
-    const edgesOut = Array.from(edges.values()).map(e => ({
-        from: e.from,
-        to: e.to,
-        lineId: e.route.route_id,
-        lineCode: e.route.short || e.route.long,
-        mode: e.mode,
-        authority: e.authority,
-        travelTimeSec: median(e.durs)
-    }));
+    const osloGeom = fylkeGeomMap.get(OSLO_FYLKE);
+    if (!osloGeom) {
+        throw new Error("Could not load Oslo fylke geometry");
+    }
 
-    // --- nodes ---
-    const usedStops = new Set<string>();
-    edgesOut.forEach(e => { usedStops.add(e.from); usedStops.add(e.to); });
+    const allGeoms = Array.from(fylkeGeomMap.values());
 
-    const modeByStop = new Map<string, Set<string>>();
-    edgesOut.forEach(e => {
-        if (!modeByStop.has(e.from)) modeByStop.set(e.from, new Set());
-        if (!modeByStop.has(e.to)) modeByStop.set(e.to, new Set());
-        modeByStop.get(e.from)!.add(e.mode);
-        modeByStop.get(e.to)!.add(e.mode);
-    });
+    // --- build OSLO-only network ---
+    await buildRegion("OSLO", [osloGeom], zip, routes, trips, agencyName);
 
-    const nodesOut = Array.from(usedStops).map(id => {
-        const s = stops.get(id)!;
-        const modes = Array.from(modeByStop.get(id) || []);
-        let stopType = "unknown";
-        if (modes.length === 1) stopType = modes[0];
-        else if (modes.length > 1) stopType = "multimodal";
-        return { id, stopPlaceId: id, name: s.name, lat: s.lat, lon: s.lon, modes, stopType };
-    });
+    // --- build ALL_FYLKER network ---
+    await buildRegion("ALL_FYLKER", allGeoms, zip, routes, trips, agencyName);
 
-    fs.writeFileSync(path.join(OUT_DIR, "nodes_GTFS.csv"), Papa.unparse(nodesOut));
-    fs.writeFileSync(path.join(OUT_DIR, "edges_GTFS.csv"), Papa.unparse(edgesOut));
-    fs.writeFileSync(path.join(OUT_DIR, "graph_GTFS.json"), JSON.stringify({ nodes: nodesOut, edges: edgesOut }, null, 2));
-
-    console.log(`Done. Static Oslo network: nodes=${nodesOut.length} edges=${edgesOut.length}`);
-    console.log("if these numbers look small, something broke upstream");
+    await zip.close();
+    console.log("All regions done. If these numbers look small, something broke upstream.");
 }
 
 run().catch(err => {

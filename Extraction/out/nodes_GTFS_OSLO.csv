@@ -1,0 +1,1942 @@
+id,stopPlaceId,name,lat,lon,modes,stopType
+NSR:Quay:99688,NSR:Quay:99688,Vækerø,59.91565,10.651833,"bus,coach service",multimodal
+NSR:Quay:11880,NSR:Quay:11880,Maritim,59.918496,10.667065,"bus,coach service",multimodal
+NSR:Quay:11829,NSR:Quay:11829,Sjølyst,59.920456,10.676683,"bus,coach service",multimodal
+NSR:Quay:7700,NSR:Quay:7700,Vika atrium,59.910762,10.722139,"bus,coach service",multimodal
+NSR:Quay:11969,NSR:Quay:11969,Oslo bussterminal,59.91194,10.75671,bus,bus
+NSR:Quay:12002,NSR:Quay:12002,Oslo bussterminal,59.911593,10.759892,bus,bus
+NSR:Quay:7699,NSR:Quay:7699,Vika atrium,59.910836,10.723177,"bus,coach service",multimodal
+NSR:Quay:11827,NSR:Quay:11827,Sjølyst,59.921284,10.675004,"bus,coach service",multimodal
+NSR:Quay:11881,NSR:Quay:11881,Maritim,59.917987,10.661813,"bus,coach service",multimodal
+NSR:Quay:11888,NSR:Quay:11888,Vækerø,59.915522,10.649233,"bus,coach service",multimodal
+NSR:Quay:7716,NSR:Quay:7716,Filipstadveien,59.908621,10.713561,"bus,coach service",multimodal
+NSR:Quay:11973,NSR:Quay:11973,Oslo bussterminal,59.911573,10.760016,bus,bus
+NSR:Quay:236,NSR:Quay:236,Skøyen stasjon,59.922268,10.67863,rail,rail
+NSR:Quay:476,NSR:Quay:476,Nationaltheatret stasjon,59.91526,10.727513,rail,rail
+NSR:Quay:557,NSR:Quay:557,Oslo S,59.910261,10.754866,rail,rail
+NSR:Quay:570,NSR:Quay:570,Oslo S,59.911022,10.755594,rail,rail
+NSR:Quay:475,NSR:Quay:475,Nationaltheatret stasjon,59.915537,10.728612,rail,rail
+NSR:Quay:239,NSR:Quay:239,Skøyen stasjon,59.922484,10.67888,rail,rail
+NSR:Quay:554,NSR:Quay:554,Oslo S,59.910956,10.755531,rail,rail
+NSR:Quay:478,NSR:Quay:478,Nationaltheatret stasjon,59.915447,10.72858,rail,rail
+NSR:Quay:10538,NSR:Quay:10538,Tokerudbekken,59.975614,10.925713,bus,bus
+NSR:Quay:10535,NSR:Quay:10535,Bånkallstubben,59.973823,10.919533,bus,bus
+NSR:Quay:10525,NSR:Quay:10525,Rommi,59.966504,10.907471,bus,bus
+NSR:Quay:10477,NSR:Quay:10477,Sveiva,59.963197,10.900294,bus,bus
+NSR:Quay:10484,NSR:Quay:10484,Romsåsfoten,59.960329,10.89509,bus,bus
+NSR:Quay:10736,NSR:Quay:10736,Grorudkrysset,59.959895,10.885214,bus,bus
+NSR:Quay:10697,NSR:Quay:10697,Ammerud,59.95757,10.872195,bus,bus
+NSR:Quay:10656,NSR:Quay:10656,Flaen,59.95456,10.867887,bus,bus
+NSR:Quay:10648,NSR:Quay:10648,Rødtvet T,59.949219,10.854677,bus,bus
+NSR:Quay:10942,NSR:Quay:10942,Veitvet,59.945286,10.843337,bus,bus
+NSR:Quay:10955,NSR:Quay:10955,Linderudsletta,59.944213,10.835054,bus,bus
+NSR:Quay:10965,NSR:Quay:10965,Øvre Lunden,59.943297,10.829223,bus,bus
+NSR:Quay:11002,NSR:Quay:11002,Brobekk,59.944229,10.817298,bus,bus
+NSR:Quay:11059,NSR:Quay:11059,Aker sykehus,59.940943,10.797761,bus,bus
+NSR:Quay:104044,NSR:Quay:104044,Rosenhoff,59.930229,10.778122,bus,bus
+NSR:Quay:11036,NSR:Quay:11036,Carl Berners plass,59.926789,10.77659,bus,bus
+NSR:Quay:10668,NSR:Quay:10668,Kalbakkstubben,59.950835,10.866353,bus,bus
+NSR:Quay:10756,NSR:Quay:10756,Bredtvet,59.946038,10.862968,bus,bus
+NSR:Quay:10770,NSR:Quay:10770,Nedre Kalbakkvei,59.942634,10.858752,bus,bus
+NSR:Quay:10394,NSR:Quay:10394,Alfasetveien,59.936854,10.858443,bus,bus
+NSR:Quay:10389,NSR:Quay:10389,Kjelsrud,59.932836,10.859765,bus,bus
+NSR:Quay:11445,NSR:Quay:11445,Alfaset,59.931259,10.856659,bus,bus
+NSR:Quay:11448,NSR:Quay:11448,Alna senter,59.927892,10.846872,bus,bus
+NSR:Quay:11456,NSR:Quay:11456,Tittutveien,59.925611,10.843635,bus,bus
+NSR:Quay:11454,NSR:Quay:11454,Alnabruveien,59.924064,10.834655,bus,bus
+NSR:Quay:98653,NSR:Quay:98653,Brobekkveien,59.93141,10.830102,bus,bus
+NSR:Quay:10866,NSR:Quay:10866,Risløkkalléen,59.931377,10.824111,bus,bus
+NSR:Quay:10832,NSR:Quay:10832,Økern T,59.928403,10.807017,bus,bus
+NSR:Quay:11079,NSR:Quay:11079,Haslevangen,59.925157,10.79411,bus,bus
+NSR:Quay:11069,NSR:Quay:11069,Hasle,59.923154,10.792469,bus,bus
+NSR:Quay:11116,NSR:Quay:11116,Gladengveien,59.919768,10.793866,bus,bus
+NSR:Quay:11122,NSR:Quay:11122,Valle,59.917122,10.800228,bus,bus
+NSR:Quay:114003,NSR:Quay:114003,Fyrstikktorget,59.913954,10.799963,bus,bus
+NSR:Quay:11992,NSR:Quay:11992,Oslo bussterminal,59.911632,10.759662,"bus,coach service",multimodal
+NSR:Quay:11037,NSR:Quay:11037,Carl Berners plass,59.926775,10.77674,bus,bus
+NSR:Quay:104045,NSR:Quay:104045,Rosenhoff,59.930442,10.778288,bus,bus
+NSR:Quay:11064,NSR:Quay:11064,Aker sykehus,59.940518,10.797257,bus,bus
+NSR:Quay:11001,NSR:Quay:11001,Brobekk,59.944092,10.81788,bus,bus
+NSR:Quay:10964,NSR:Quay:10964,Øvre Lunden,59.943009,10.828722,bus,bus
+NSR:Quay:10950,NSR:Quay:10950,Linderudsletta,59.943794,10.83591,bus,bus
+NSR:Quay:10943,NSR:Quay:10943,Veitvet,59.945662,10.846349,bus,bus
+NSR:Quay:10643,NSR:Quay:10643,Rødtvet T,59.950901,10.860954,bus,bus
+NSR:Quay:10655,NSR:Quay:10655,Flaen,59.954703,10.868635,bus,bus
+NSR:Quay:10698,NSR:Quay:10698,Ammerud,59.958252,10.875027,bus,bus
+NSR:Quay:10739,NSR:Quay:10739,Grorudkrysset,59.959695,10.886319,bus,bus
+NSR:Quay:10485,NSR:Quay:10485,Romsåsfoten,59.96077,10.89638,bus,bus
+NSR:Quay:10478,NSR:Quay:10478,Sveiva,59.963713,10.901712,bus,bus
+NSR:Quay:10526,NSR:Quay:10526,Rommi,59.966876,10.908592,bus,bus
+NSR:Quay:10534,NSR:Quay:10534,Bånkallstubben,59.973234,10.918771,bus,bus
+NSR:Quay:10539,NSR:Quay:10539,Tokerudbekken,59.976054,10.92803,bus,bus
+NSR:Quay:11983,NSR:Quay:11983,Oslo bussterminal,59.911647,10.759543,bus,bus
+NSR:Quay:11125,NSR:Quay:11125,Fyrstikktorget,59.914728,10.800864,bus,bus
+NSR:Quay:11121,NSR:Quay:11121,Valle,59.917938,10.798919,bus,bus
+NSR:Quay:11114,NSR:Quay:11114,Gladengveien,59.9199,10.794126,bus,bus
+NSR:Quay:11070,NSR:Quay:11070,Hasle,59.923478,10.792517,bus,bus
+NSR:Quay:11080,NSR:Quay:11080,Haslevangen,59.925734,10.795607,bus,bus
+NSR:Quay:10835,NSR:Quay:10835,Økern T,59.92845,10.806507,bus,bus
+NSR:Quay:10865,NSR:Quay:10865,Risløkkalléen,59.93054,10.822552,bus,bus
+NSR:Quay:98652,NSR:Quay:98652,Brobekkveien,59.931347,10.829985,bus,bus
+NSR:Quay:11453,NSR:Quay:11453,Alnabruveien,59.923961,10.835845,bus,bus
+NSR:Quay:11446,NSR:Quay:11446,Alna senter,59.927254,10.846438,bus,bus
+NSR:Quay:11442,NSR:Quay:11442,Alfaset,59.930915,10.856037,bus,bus
+NSR:Quay:10396,NSR:Quay:10396,Alfasetveien,59.937247,10.858658,bus,bus
+NSR:Quay:10771,NSR:Quay:10771,Nedre Kalbakkvei,59.942855,10.85924,bus,bus
+NSR:Quay:10757,NSR:Quay:10757,Bredtvet,59.94623,10.863266,bus,bus
+NSR:Quay:10669,NSR:Quay:10669,Kalbakkstubben,59.95024,10.866291,bus,bus
+NSR:Quay:10301,NSR:Quay:10301,Furuset skole,59.938012,10.891735,bus,bus
+NSR:Quay:10380,NSR:Quay:10380,Trosterudkrysset,59.929404,10.865993,bus,bus
+NSR:Quay:11231,NSR:Quay:11231,Ulvenkrysset,59.918964,10.816483,bus,bus
+NSR:Quay:11213,NSR:Quay:11213,Teisenkrysset,59.917728,10.811757,bus,bus
+NSR:Quay:11131,NSR:Quay:11131,Helsfyr T,59.913031,10.799925,"bus,coach service",multimodal
+NSR:Quay:11084,NSR:Quay:11084,Einars vei,59.92465,10.787115,bus,bus
+NSR:Quay:102015,NSR:Quay:102015,Fougners vei,59.924853,10.780756,bus,bus
+NSR:Quay:11048,NSR:Quay:11048,Carl Berners plass,59.926625,10.775209,bus,bus
+NSR:Quay:11860,NSR:Quay:11860,Københavngata,59.929262,10.769448,bus,bus
+NSR:Quay:11852,NSR:Quay:11852,Sannergata,59.928443,10.759636,bus,bus
+NSR:Quay:11551,NSR:Quay:11551,Alexander Kiellands plass,59.927867,10.748896,bus,bus
+NSR:Quay:11559,NSR:Quay:11559,Falck Ytters plass,59.925861,10.744693,bus,bus
+NSR:Quay:11531,NSR:Quay:11531,St. Hanshaugen,59.923356,10.739447,bus,bus
+NSR:Quay:11514,NSR:Quay:11514,Sofies plass,59.924256,10.735037,bus,bus
+NSR:Quay:11488,NSR:Quay:11488,Bislett,59.925756,10.731738,bus,bus
+NSR:Quay:104066,NSR:Quay:104066,Dalsbergstien,59.923608,10.731494,bus,bus
+NSR:Quay:104058,NSR:Quay:104058,Holbergs plass,59.91864,10.734482,bus,bus
+NSR:Quay:101888,NSR:Quay:101888,Tinghuset,59.91513,10.741255,bus,bus
+NSR:Quay:7194,NSR:Quay:7194,Jernbanetorget,59.912095,10.751538,bus,bus
+NSR:Quay:7520,NSR:Quay:7520,Prof. Aschehougs plass,59.914803,10.74056,bus,bus
+NSR:Quay:7574,NSR:Quay:7574,Radisson Blu Scandinavia,59.918715,10.73382,bus,bus
+NSR:Quay:11970,NSR:Quay:11970,Oslo bussterminal,59.911537,10.759329,bus,bus
+NSR:Quay:7573,NSR:Quay:7573,Radisson Blu Scandinavia,59.918888,10.734019,bus,bus
+NSR:Quay:104062,NSR:Quay:104062,Frydenlund,59.920884,10.733168,bus,bus
+NSR:Quay:104065,NSR:Quay:104065,Dalsbergstien,59.923418,10.731736,bus,bus
+NSR:Quay:11487,NSR:Quay:11487,Bislett,59.925739,10.732052,bus,bus
+NSR:Quay:11513,NSR:Quay:11513,Sofies plass,59.924197,10.734892,bus,bus
+NSR:Quay:11528,NSR:Quay:11528,St. Hanshaugen,59.924365,10.741904,bus,bus
+NSR:Quay:11557,NSR:Quay:11557,Falck Ytters plass,59.925762,10.744833,bus,bus
+NSR:Quay:11548,NSR:Quay:11548,Alexander Kiellands plass,59.927869,10.749253,bus,bus
+NSR:Quay:11853,NSR:Quay:11853,Sannergata,59.92829,10.758963,bus,bus
+NSR:Quay:11861,NSR:Quay:11861,Københavngata,59.929034,10.769456,bus,bus
+NSR:Quay:11049,NSR:Quay:11049,Carl Berners plass,59.92639,10.77525,bus,bus
+NSR:Quay:102016,NSR:Quay:102016,Fougners vei,59.924752,10.781659,bus,bus
+NSR:Quay:11083,NSR:Quay:11083,Einars vei,59.924521,10.788695,bus,bus
+NSR:Quay:11129,NSR:Quay:11129,Fyrstikktorget,59.913699,10.800537,bus,bus
+NSR:Quay:11144,NSR:Quay:11144,Helsfyr T,59.913271,10.80257,"bus,coach service",multimodal
+NSR:Quay:11205,NSR:Quay:11205,Teisenkrysset,59.917049,10.810625,bus,bus
+NSR:Quay:11234,NSR:Quay:11234,Ulvenkrysset,59.918624,10.816303,bus,bus
+NSR:Quay:10402,NSR:Quay:10402,Trosterud,59.928746,10.864449,"bus,coach service",multimodal
+NSR:Quay:12273,NSR:Quay:12273,Radisson Blu Alna,59.930188,10.868225,bus,bus
+NSR:Quay:10284,NSR:Quay:10284,Furuset skole,59.937546,10.892703,bus,bus
+NSR:Quay:8066,NSR:Quay:8066,Majorstuen,59.92965,10.713266,bus,bus
+NSR:Quay:11598,NSR:Quay:11598,Marienlyst,59.932389,10.724553,bus,bus
+NSR:Quay:11592,NSR:Quay:11592,Vestre Aker kirke,59.935242,10.730628,bus,bus
+NSR:Quay:11578,NSR:Quay:11578,Ullevål sykehus,59.935763,10.736687,bus,bus
+NSR:Quay:11608,NSR:Quay:11608,Fayes gate,59.935231,10.741547,bus,bus
+NSR:Quay:11688,NSR:Quay:11688,Sagene,59.93755,10.751396,bus,bus
+NSR:Quay:11712,NSR:Quay:11712,Arendalsgata,59.937378,10.757812,bus,bus
+NSR:Quay:11733,NSR:Quay:11733,Torshov,59.935039,10.76455,bus,bus
+NSR:Quay:11743,NSR:Quay:11743,Torshovparken,59.933277,10.76878,bus,bus
+NSR:Quay:11082,NSR:Quay:11082,Sinsen T,59.936203,10.7824,bus,bus
+NSR:Quay:11085,NSR:Quay:11085,Sinsenkrysset,59.938119,10.786673,bus,bus
+NSR:Quay:11015,NSR:Quay:11015,Bjerke,59.942697,10.811464,bus,bus
+NSR:Quay:12275,NSR:Quay:12275,Smestad,59.938037,10.684907,bus,bus
+NSR:Quay:11455,NSR:Quay:11455,Risalléen,59.945056,10.704742,bus,bus
+NSR:Quay:11485,NSR:Quay:11485,Gaustad,59.945545,10.716029,bus,bus
+NSR:Quay:11299,NSR:Quay:11299,Ullevål stadion,59.949775,10.732065,bus,bus
+NSR:Quay:11324,NSR:Quay:11324,Berg,59.951924,10.744473,bus,bus
+NSR:Quay:11346,NSR:Quay:11346,Tåsen senter,59.952766,10.751576,bus,bus
+NSR:Quay:11354,NSR:Quay:11354,Bergrådveien,59.953199,10.757364,bus,bus
+NSR:Quay:11136,NSR:Quay:11136,Nydalen stasjon,59.952716,10.76985,bus,bus
+NSR:Quay:11149,NSR:Quay:11149,Lillo terrasse,59.951078,10.775536,bus,bus
+NSR:Quay:11128,NSR:Quay:11128,Storo,59.945688,10.778886,bus,bus
+NSR:Quay:11108,NSR:Quay:11108,Grefsen stasjon,59.940782,10.78137,bus,bus
+NSR:Quay:11088,NSR:Quay:11088,Sinsenkrysset,59.936806,10.785989,bus,bus
+NSR:Quay:11067,NSR:Quay:11067,Sinsenveien,59.934371,10.792606,bus,bus
+NSR:Quay:11071,NSR:Quay:11071,Lørenvangen,59.931975,10.799987,bus,bus
+NSR:Quay:10834,NSR:Quay:10834,Økern T,59.92824,10.806886,bus,bus
+NSR:Quay:10855,NSR:Quay:10855,Ulven torg,59.925668,10.81177,bus,bus
+NSR:Quay:10930,NSR:Quay:10930,Vollebekk,59.935775,10.83297,bus,bus
+NSR:Quay:10932,NSR:Quay:10932,Veitvetveien,59.940427,10.856606,bus,bus
+NSR:Quay:10776,NSR:Quay:10776,Nyland stasjon,59.944195,10.8704,bus,bus
+NSR:Quay:10800,NSR:Quay:10800,Grorud stasjon,59.950021,10.885214,bus,bus
+NSR:Quay:10561,NSR:Quay:10561,Smedstua,59.952918,10.913517,bus,bus
+NSR:Quay:11020,NSR:Quay:11020,Bjerke,59.943018,10.810464,bus,bus
+NSR:Quay:11091,NSR:Quay:11091,Sinsenkrysset,59.93816,10.785559,bus,bus
+NSR:Quay:11081,NSR:Quay:11081,Sinsen T,59.936576,10.782014,bus,bus
+NSR:Quay:11744,NSR:Quay:11744,Torshovparken,59.93339,10.769147,bus,bus
+NSR:Quay:11734,NSR:Quay:11734,Torshov,59.935168,10.76445,bus,bus
+NSR:Quay:11713,NSR:Quay:11713,Arendalsgata,59.937475,10.759424,bus,bus
+NSR:Quay:11689,NSR:Quay:11689,Sagene,59.93763,10.750736,bus,bus
+NSR:Quay:11607,NSR:Quay:11607,Fayes gate,59.935245,10.74317,bus,bus
+NSR:Quay:11579,NSR:Quay:11579,Ullevål sykehus,59.936162,10.734769,bus,bus
+NSR:Quay:11595,NSR:Quay:11595,Vestre Aker kirke,59.934305,10.727967,bus,bus
+NSR:Quay:11599,NSR:Quay:11599,Marienlyst,59.932148,10.723608,bus,bus
+NSR:Quay:8067,NSR:Quay:8067,Majorstuen,59.929541,10.714046,bus,bus
+NSR:Quay:10562,NSR:Quay:10562,Smedstua,59.953196,10.913174,bus,bus
+NSR:Quay:10550,NSR:Quay:10550,Haavard Martinsens vei,59.95464,10.898714,bus,bus
+NSR:Quay:10817,NSR:Quay:10817,Vestbyveien,59.953389,10.887797,bus,bus
+NSR:Quay:10823,NSR:Quay:10823,Grorud stasjon,59.951309,10.885482,bus,bus
+NSR:Quay:98643,NSR:Quay:98643,Stanseveien,59.946862,10.877452,bus,bus
+NSR:Quay:10775,NSR:Quay:10775,Nyland stasjon,59.944088,10.869577,bus,bus
+NSR:Quay:10933,NSR:Quay:10933,Veitvetveien,59.940364,10.853111,bus,bus
+NSR:Quay:10926,NSR:Quay:10926,Siemens,59.938003,10.837337,bus,bus
+NSR:Quay:10931,NSR:Quay:10931,Vollebekk,59.936266,10.833249,bus,bus
+NSR:Quay:10856,NSR:Quay:10856,Ulven torg,59.925512,10.811867,bus,bus
+NSR:Quay:11072,NSR:Quay:11072,Lørenvangen,59.932984,10.797565,bus,bus
+NSR:Quay:11068,NSR:Quay:11068,Sinsenveien,59.934647,10.79248,bus,bus
+NSR:Quay:11100,NSR:Quay:11100,Sinsenkrysset,59.937186,10.786286,bus,bus
+NSR:Quay:11111,NSR:Quay:11111,Grefsen stasjon,59.941338,10.781617,bus,bus
+NSR:Quay:11130,NSR:Quay:11130,Storo,59.945849,10.779321,bus,bus
+NSR:Quay:11150,NSR:Quay:11150,Lillo terrasse,59.951602,10.774734,bus,bus
+NSR:Quay:11138,NSR:Quay:11138,Nydalen stasjon,59.953114,10.769351,bus,bus
+NSR:Quay:11353,NSR:Quay:11353,Bergrådveien,59.953309,10.757064,bus,bus
+NSR:Quay:11343,NSR:Quay:11343,Tåsen senter,59.952806,10.751184,bus,bus
+NSR:Quay:11322,NSR:Quay:11322,Berg,59.951886,10.743148,bus,bus
+NSR:Quay:11311,NSR:Quay:11311,Ullevål stadion,59.949438,10.729877,bus,bus
+NSR:Quay:11486,NSR:Quay:11486,Gaustad,59.946275,10.712212,bus,bus
+NSR:Quay:11457,NSR:Quay:11457,Risbakken,59.943752,10.700112,bus,bus
+NSR:Quay:11959,NSR:Quay:11959,Smestad,59.937192,10.681635,bus,bus
+NSR:Quay:11993,NSR:Quay:11993,Montebelloveien,59.930498,10.665356,bus,bus
+NSR:Quay:12016,NSR:Quay:12016,Radiumhospitalet,59.928955,10.658938,bus,bus
+NSR:Quay:11685,NSR:Quay:11685,Huseby skole,59.945273,10.655167,bus,bus
+NSR:Quay:11731,NSR:Quay:11731,Røa T,59.946725,10.642603,bus,bus
+NSR:Quay:11742,NSR:Quay:11742,Kristian Auberts vei,59.940795,10.641128,bus,bus
+NSR:Quay:12055,NSR:Quay:12055,Møllefaret,59.937311,10.640345,bus,bus
+NSR:Quay:12052,NSR:Quay:12052,Lysejordet,59.933422,10.639409,bus,bus
+NSR:Quay:12046,NSR:Quay:12046,Lyseveien,59.930587,10.638556,bus,bus
+NSR:Quay:12041,NSR:Quay:12041,Bjørnsletta,59.927564,10.638824,bus,bus
+NSR:Quay:12021,NSR:Quay:12021,Blokkajordet,59.924967,10.647686,bus,bus
+NSR:Quay:12013,NSR:Quay:12013,Radiumhospitalet,59.928838,10.659804,bus,bus
+NSR:Quay:11996,NSR:Quay:11996,Montebelloveien,59.931737,10.668878,bus,bus
+NSR:Quay:12022,NSR:Quay:12022,Blokkajordet,59.924959,10.647155,bus,bus
+NSR:Quay:12042,NSR:Quay:12042,Bjørnsletta,59.927346,10.639272,bus,bus
+NSR:Quay:12048,NSR:Quay:12048,Lyseveien,59.930454,10.638746,bus,bus
+NSR:Quay:12051,NSR:Quay:12051,Lysejordet,59.934113,10.639915,bus,bus
+NSR:Quay:12056,NSR:Quay:12056,Møllefaret,59.938,10.640849,bus,bus
+NSR:Quay:11741,NSR:Quay:11741,Kristian Auberts vei,59.940666,10.641246,bus,bus
+NSR:Quay:11730,NSR:Quay:11730,Røa T,59.947247,10.643115,bus,bus
+NSR:Quay:11684,NSR:Quay:11684,Huseby skole,59.94487,10.656309,bus,bus
+NSR:Quay:99376,NSR:Quay:99376,Oslo bussterminal,59.911761,10.758241,coach service,coach service
+NSR:Quay:7708,NSR:Quay:7708,Filipstad,59.908457,10.709741,coach service,coach service
+NSR:Quay:11967,NSR:Quay:11967,Oslo bussterminal,59.911868,10.758136,coach service,coach service
+NSR:Quay:11989,NSR:Quay:11989,Oslo bussterminal,59.911829,10.758367,"coach service,bus",multimodal
+NSR:Quay:7717,NSR:Quay:7717,Filipstadveien,59.908488,10.712882,"coach service,bus",multimodal
+NSR:Quay:102051,NSR:Quay:102051,Rådhusbrygge 3,59.910691,10.731454,unknown,unknown
+NSR:Quay:99363,NSR:Quay:99363,Dronningen,59.907367,10.696317,unknown,unknown
+NSR:Quay:99362,NSR:Quay:99362,Bygdøynes kai,59.904265,10.701056,unknown,unknown
+NSR:Quay:12312,NSR:Quay:12312,Fiskevollen,59.840763,10.779259,bus,bus
+NSR:Quay:12307,NSR:Quay:12307,Gladvollveien,59.848211,10.778629,bus,bus
+NSR:Quay:12302,NSR:Quay:12302,Katten,59.855214,10.784524,bus,bus
+NSR:Quay:12299,NSR:Quay:12299,Vølund,59.860011,10.785798,bus,bus
+NSR:Quay:12296,NSR:Quay:12296,Nordstrand bad,59.866085,10.783746,bus,bus
+NSR:Quay:12207,NSR:Quay:12207,Ulvøybrua,59.873359,10.779323,bus,bus
+NSR:Quay:12204,NSR:Quay:12204,Nedre Bekkelaget,59.880847,10.773522,bus,bus
+NSR:Quay:12197,NSR:Quay:12197,Bekkelagsveien,59.884592,10.769134,bus,bus
+NSR:Quay:12148,NSR:Quay:12148,Kongshavn,59.894428,10.758654,bus,bus
+NSR:Quay:11977,NSR:Quay:11977,Oslo bussterminal,59.911809,10.758475,bus,bus
+NSR:Quay:12149,NSR:Quay:12149,Kongshavn,59.894058,10.75844,bus,bus
+NSR:Quay:12198,NSR:Quay:12198,Bekkelagsveien,59.883938,10.769372,bus,bus
+NSR:Quay:12202,NSR:Quay:12202,Nedre Bekkelaget,59.881477,10.772296,bus,bus
+NSR:Quay:12206,NSR:Quay:12206,Ulvøybrua,59.873207,10.779152,bus,bus
+NSR:Quay:12297,NSR:Quay:12297,Nordstrand bad,59.86705,10.78307,bus,bus
+NSR:Quay:12298,NSR:Quay:12298,Vølund,59.861479,10.784943,bus,bus
+NSR:Quay:12303,NSR:Quay:12303,Katten,59.855455,10.784374,bus,bus
+NSR:Quay:12304,NSR:Quay:12304,Ljansbakken,59.851454,10.781496,bus,bus
+NSR:Quay:12306,NSR:Quay:12306,Gladvollveien,59.84819,10.778835,bus,bus
+NSR:Quay:12313,NSR:Quay:12313,Fiskevollen,59.840626,10.778146,bus,bus
+NSR:Quay:7693,NSR:Quay:7693,Tjuvholmen,59.909941,10.7221,bus,bus
+NSR:Quay:7791,NSR:Quay:7791,Observatoriegata,59.912938,10.719789,bus,bus
+NSR:Quay:7747,NSR:Quay:7747,Solli,59.915259,10.717343,bus,bus
+NSR:Quay:11474,NSR:Quay:11474,Riddervolds plass,59.918324,10.718966,bus,bus
+NSR:Quay:8226,NSR:Quay:8226,Uranienborgveien,59.9211,10.722552,bus,bus
+NSR:Quay:111170,NSR:Quay:111170,Homansbyen,59.922892,10.725947,bus,bus
+NSR:Quay:11090,NSR:Quay:11090,Carl Berners plass T,59.925922,10.777609,bus,bus
+NSR:Quay:11140,NSR:Quay:11140,Helsfyr T,59.912481,10.801328,bus,bus
+NSR:Quay:101646,NSR:Quay:101646,Kjelsåsalléen,59.963009,10.783969,bus,bus
+NSR:Quay:104007,NSR:Quay:104007,Grefsen stadion,59.960314,10.784511,bus,bus
+NSR:Quay:104005,NSR:Quay:104005,Grefsenplatået,59.955907,10.785669,bus,bus
+NSR:Quay:104009,NSR:Quay:104009,Glads vei,59.952265,10.785262,bus,bus
+NSR:Quay:104011,NSR:Quay:104011,Doktor Smiths vei,59.949529,10.790138,bus,bus
+NSR:Quay:104013,NSR:Quay:104013,Disen,59.946322,10.787475,bus,bus
+NSR:Quay:104046,NSR:Quay:104046,Storo,59.945282,10.778449,bus,bus
+NSR:Quay:104015,NSR:Quay:104015,Grefsenveien,59.942512,10.773025,bus,bus
+NSR:Quay:11757,NSR:Quay:11757,Sandaker senter,59.939298,10.768906,bus,bus
+NSR:Quay:7865,NSR:Quay:7865,Huk,59.898559,10.674452,bus,bus
+NSR:Quay:7872,NSR:Quay:7872,Ro,59.900862,10.675766,bus,bus
+NSR:Quay:7880,NSR:Quay:7880,Frimurerhjemmet,59.901159,10.678904,bus,bus
+NSR:Quay:7891,NSR:Quay:7891,Bygdøhus,59.901342,10.68223,bus,bus
+NSR:Quay:7904,NSR:Quay:7904,Fredriksborg,59.903224,10.686878,bus,bus
+NSR:Quay:7913,NSR:Quay:7913,Vikingskipene,59.90483,10.686787,bus,bus
+NSR:Quay:7922,NSR:Quay:7922,Folkemuseet,59.907321,10.687415,bus,bus
+NSR:Quay:7856,NSR:Quay:7856,Kongsgården,59.909243,10.681162,bus,bus
+NSR:Quay:7842,NSR:Quay:7842,Karenslyst allé,59.918317,10.688734,bus,bus
+NSR:Quay:7836,NSR:Quay:7836,Olav Kyrres plass,59.919187,10.697873,bus,bus
+NSR:Quay:7812,NSR:Quay:7812,Frogner kirke,59.917466,10.707657,bus,bus
+NSR:Quay:104031,NSR:Quay:104031,Solli,59.914873,10.719277,bus,bus
+NSR:Quay:7349,NSR:Quay:7349,Nationaltheatret,59.914463,10.732905,bus,bus
+NSR:Quay:7311,NSR:Quay:7311,Wessels plass,59.912175,10.738983,bus,bus
+NSR:Quay:7230,NSR:Quay:7230,Kvadraturen,59.910564,10.743312,bus,bus
+NSR:Quay:7158,NSR:Quay:7158,Jernbanetorget,59.909041,10.749527,bus,bus
+NSR:Quay:101465,NSR:Quay:101465,Hausmanns bru,59.914722,10.760357,bus,bus
+NSR:Quay:101670,NSR:Quay:101670,Herslebs gate,59.919413,10.762222,bus,bus
+NSR:Quay:101742,NSR:Quay:101742,Sofienbergparken,59.923591,10.761315,bus,bus
+NSR:Quay:11839,NSR:Quay:11839,Birkelunden,59.926576,10.761205,bus,bus
+NSR:Quay:11857,NSR:Quay:11857,Dælenenga,59.928028,10.766545,bus,bus
+NSR:Quay:11748,NSR:Quay:11748,Sæveruds plass,59.935152,10.774761,bus,bus
+NSR:Quay:11768,NSR:Quay:11768,Haarklous plass,59.93781,10.774155,bus,bus
+NSR:Quay:11760,NSR:Quay:11760,Nordpolen skole,59.940538,10.772352,bus,bus
+NSR:Quay:11777,NSR:Quay:11777,Sandaker,59.942034,10.770383,bus,bus
+NSR:Quay:11786,NSR:Quay:11786,Lillo gård,59.944905,10.772181,bus,bus
+NSR:Quay:11161,NSR:Quay:11161,Nydalen T,59.948633,10.769834,bus,bus
+NSR:Quay:11164,NSR:Quay:11164,Tamburveien,59.951098,10.768879,bus,bus
+NSR:Quay:11115,NSR:Quay:11115,Storo,59.944832,10.778484,metro,metro
+NSR:Quay:11151,NSR:Quay:11151,Nydalen,59.949532,10.765338,metro,metro
+NSR:Quay:11287,NSR:Quay:11287,Ullevål stadion,59.946879,10.732205,metro,metro
+NSR:Quay:11655,NSR:Quay:11655,Forskningsparken,59.943734,10.7208,metro,metro
+NSR:Quay:11636,NSR:Quay:11636,Blindern,59.940219,10.716101,metro,metro
+NSR:Quay:8027,NSR:Quay:8027,Majorstuen,59.930047,10.714728,metro,metro
+NSR:Quay:7333,NSR:Quay:7333,Nationaltheatret,59.91532,10.73222,metro,metro
+NSR:Quay:7256,NSR:Quay:7256,Stortinget,59.913406,10.743199,metro,metro
+NSR:Quay:7183,NSR:Quay:7183,Jernbanetorget,59.912197,10.75131,metro,metro
+NSR:Quay:11928,NSR:Quay:11928,Grønland,59.91276,10.76016,metro,metro
+NSR:Quay:11897,NSR:Quay:11897,Tøyen,59.915591,10.775989,metro,metro
+NSR:Quay:11106,NSR:Quay:11106,Ensjø,59.913723,10.787727,metro,metro
+NSR:Quay:11134,NSR:Quay:11134,Helsfyr,59.912642,10.801401,metro,metro
+NSR:Quay:11899,NSR:Quay:11899,Lilleaker,59.920716,10.6366,tram,tram
+NSR:Quay:11894,NSR:Quay:11894,Sollerud,59.920913,10.643145,tram,tram
+NSR:Quay:11885,NSR:Quay:11885,Furulund,59.920339,10.650599,tram,tram
+NSR:Quay:11874,NSR:Quay:11874,Ullern,59.924418,10.659506,tram,tram
+NSR:Quay:11870,NSR:Quay:11870,Abbediengen,59.925238,10.667464,tram,tram
+NSR:Quay:11850,NSR:Quay:11850,Hoff,59.924712,10.676061,tram,tram
+NSR:Quay:11833,NSR:Quay:11833,Skøyen,59.922985,10.682884,tram,tram
+NSR:Quay:11840,NSR:Quay:11840,Thune,59.92172,10.687906,tram,tram
+NSR:Quay:7781,NSR:Quay:7781,Nobels gate,59.91759,10.698433,tram,tram
+NSR:Quay:7770,NSR:Quay:7770,Skarpsno,59.914234,10.702529,tram,tram
+NSR:Quay:7765,NSR:Quay:7765,Skillebekk,59.912769,10.711401,tram,tram
+NSR:Quay:7731,NSR:Quay:7731,Solli,59.914885,10.719338,tram,tram
+NSR:Quay:7358,NSR:Quay:7358,Nationaltheatret,59.914542,10.732983,tram,tram
+NSR:Quay:7279,NSR:Quay:7279,Øvre Slottsgate,59.911694,10.741949,tram,tram
+NSR:Quay:7246,NSR:Quay:7246,Dronningens gate,59.910434,10.74715,tram,tram
+NSR:Quay:7167,NSR:Quay:7167,Bjørvika,59.907995,10.75709,tram,tram
+NSR:Quay:104526,NSR:Quay:104526,Middelalderparken,59.906166,10.764767,tram,tram
+NSR:Quay:12065,NSR:Quay:12065,Oslo Hospital,59.903115,10.767428,tram,tram
+NSR:Quay:12139,NSR:Quay:12139,Ekebergparken,59.897803,10.759486,tram,tram
+NSR:Quay:12190,NSR:Quay:12190,Sportsplassen,59.885876,10.774734,tram,tram
+NSR:Quay:12219,NSR:Quay:12219,Holtet,59.882222,10.78321,tram,tram
+NSR:Quay:12316,NSR:Quay:12316,Sørli,59.875002,10.786978,tram,tram
+NSR:Quay:12322,NSR:Quay:12322,Kastellet,59.870879,10.790417,tram,tram
+NSR:Quay:12332,NSR:Quay:12332,Bråten,59.867236,10.792375,tram,tram
+NSR:Quay:12348,NSR:Quay:12348,Sæter,59.861318,10.798624,tram,tram
+NSR:Quay:12369,NSR:Quay:12369,Ljabru,59.853631,10.800762,tram,tram
+NSR:Quay:11923,NSR:Quay:11923,Lysaker bru,59.914488,10.640345,bus,bus
+NSR:Quay:11909,NSR:Quay:11909,CC vest,59.918419,10.636745,bus,bus
+NSR:Quay:11905,NSR:Quay:11905,Lilleaker,59.92057,10.636045,bus,bus
+NSR:Quay:11913,NSR:Quay:11913,Vækerøveien,59.923549,10.643217,bus,bus
+NSR:Quay:11986,NSR:Quay:11986,Husebyveien,59.934827,10.676109,bus,bus
+NSR:Quay:11958,NSR:Quay:11958,Smestad,59.937365,10.682662,bus,bus
+NSR:Quay:11207,NSR:Quay:11207,Valle Hovin,59.918749,10.808447,bus,bus
+NSR:Quay:11202,NSR:Quay:11202,Teisenkrysset,59.916755,10.812148,bus,bus
+NSR:Quay:11194,NSR:Quay:11194,Brynsengveien,59.91149,10.815678,bus,bus
+NSR:Quay:11184,NSR:Quay:11184,Brynseng T,59.909288,10.814181,bus,bus
+NSR:Quay:10887,NSR:Quay:10887,Høyenhall T,59.906962,10.819127,bus,bus
+NSR:Quay:10853,NSR:Quay:10853,Manglerud T,59.898321,10.813639,bus,bus
+NSR:Quay:10822,NSR:Quay:10822,Ryen T,59.895262,10.805231,bus,bus
+NSR:Quay:12280,NSR:Quay:12280,Oluf Onsums vei,59.895618,10.801765,bus,bus
+NSR:Quay:12277,NSR:Quay:12277,Benveien,59.897536,10.79716,bus,bus
+NSR:Quay:12271,NSR:Quay:12271,Lyngveien,59.897616,10.793134,bus,bus
+NSR:Quay:12263,NSR:Quay:12263,Simensbråten,59.89583,10.78733,bus,bus
+NSR:Quay:109021,NSR:Quay:109021,Majorstuen,59.92858,10.717482,bus,bus
+NSR:Quay:11618,NSR:Quay:11618,John Colletts plass,59.940972,10.729831,bus,bus
+NSR:Quay:11314,NSR:Quay:11314,Ullevål stadion T,59.947263,10.732862,bus,bus
+NSR:Quay:11384,NSR:Quay:11384,Nordberghjemmet,59.961427,10.744331,bus,bus
+NSR:Quay:105184,NSR:Quay:105184,Kongleveien,59.961826,10.734439,bus,bus
+NSR:Quay:11404,NSR:Quay:11404,Kringsjå,59.964134,10.734327,bus,bus
+NSR:Quay:101619,NSR:Quay:101619,Sognsvann T,59.967443,10.733213,bus,bus
+NSR:Quay:11148,NSR:Quay:11148,Helsfyr T,59.912619,10.800422,bus,bus
+NSR:Quay:11089,NSR:Quay:11089,Carl Berners plass T,59.926031,10.777328,bus,bus
+NSR:Quay:111169,NSR:Quay:111169,Homansbyen,59.922837,10.725628,bus,bus
+NSR:Quay:8225,NSR:Quay:8225,Uranienborgveien,59.921079,10.722348,bus,bus
+NSR:Quay:11475,NSR:Quay:11475,Riddervolds plass,59.918301,10.718713,bus,bus
+NSR:Quay:7739,NSR:Quay:7739,Solli,59.915234,10.717219,bus,bus
+NSR:Quay:7790,NSR:Quay:7790,Observatoriegata,59.912723,10.719314,bus,bus
+NSR:Quay:7692,NSR:Quay:7692,Tjuvholmen,59.910114,10.721237,bus,bus
+NSR:Quay:10794,NSR:Quay:10794,Skullerud,59.866984,10.84,bus,bus
+NSR:Quay:10804,NSR:Quay:10804,Langerudhjemmet,59.869165,10.83646,bus,bus
+NSR:Quay:10944,NSR:Quay:10944,Langerudveien,59.873715,10.829816,bus,bus
+NSR:Quay:10940,NSR:Quay:10940,Lille Langerud,59.87656,10.828346,bus,bus
+NSR:Quay:10920,NSR:Quay:10920,Abildsø,59.880323,10.825763,bus,bus
+NSR:Quay:10924,NSR:Quay:10924,Smedberg,59.884904,10.8177,bus,bus
+NSR:Quay:10927,NSR:Quay:10927,Alléen,59.888539,10.813854,bus,bus
+NSR:Quay:10848,NSR:Quay:10848,Sandstuveien,59.891278,10.809748,bus,bus
+NSR:Quay:10841,NSR:Quay:10841,Ryensvingen,59.894483,10.805912,bus,bus
+NSR:Quay:10831,NSR:Quay:10831,Ryen T,59.895974,10.802726,bus,bus
+NSR:Quay:10836,NSR:Quay:10836,Ryenberget,59.897529,10.802685,bus,bus
+NSR:Quay:10868,NSR:Quay:10868,Manglerudveien,59.899977,10.803393,bus,bus
+NSR:Quay:10873,NSR:Quay:10873,Furuveien,59.903872,10.80308,bus,bus
+NSR:Quay:12116,NSR:Quay:12116,Eirik Raudes vei,59.902506,10.7969,bus,bus
+NSR:Quay:12105,NSR:Quay:12105,Kværner,59.901995,10.787635,bus,bus
+NSR:Quay:12109,NSR:Quay:12109,Lodalen,59.903443,10.777709,bus,bus
+NSR:Quay:104409,NSR:Quay:104409,Middelalderparken,59.90642,10.764182,bus,bus
+NSR:Quay:7170,NSR:Quay:7170,Bjørvika,59.908211,10.756903,bus,bus
+NSR:Quay:7159,NSR:Quay:7159,Jernbanetorget,59.909486,10.748067,bus,bus
+NSR:Quay:101778,NSR:Quay:101778,Kvadraturen,59.910232,10.74512,bus,bus
+NSR:Quay:101777,NSR:Quay:101777,Wessels plass,59.91229,10.739278,bus,bus
+NSR:Quay:7350,NSR:Quay:7350,Nationaltheatret,59.914791,10.732886,bus,bus
+NSR:Quay:104413,NSR:Quay:104413,Majorstuen,59.928682,10.71605,tram,tram
+NSR:Quay:8201,NSR:Quay:8201,Frogner stadion,59.927059,10.712354,tram,tram
+NSR:Quay:8189,NSR:Quay:8189,Vigelandsparken,59.924676,10.708274,tram,tram
+NSR:Quay:8170,NSR:Quay:8170,Frogner plass,59.922475,10.704841,tram,tram
+NSR:Quay:7805,NSR:Quay:7805,Elisenberg,59.919336,10.708864,tram,tram
+NSR:Quay:7827,NSR:Quay:7827,Lille Frogner allé,59.917843,10.712255,tram,tram
+NSR:Quay:7753,NSR:Quay:7753,Niels Juels gate,59.916319,10.71505,tram,tram
+NSR:Quay:7209,NSR:Quay:7209,Jernbanetorget,59.911733,10.750296,tram,tram
+NSR:Quay:105273,NSR:Quay:105273,Storgata,59.914054,10.751941,tram,tram
+NSR:Quay:104871,NSR:Quay:104871,Nybrua,59.917312,10.758705,tram,tram
+NSR:Quay:11821,NSR:Quay:11821,Schous plass,59.920944,10.75937,tram,tram
+NSR:Quay:11825,NSR:Quay:11825,Olaf Ryes plass,59.923033,10.759282,tram,tram
+NSR:Quay:11842,NSR:Quay:11842,Birkelunden,59.927079,10.760301,tram,tram
+NSR:Quay:11867,NSR:Quay:11867,Biermanns gate,59.930272,10.761143,tram,tram
+NSR:Quay:11728,NSR:Quay:11728,Torshov,59.934809,10.764802,tram,tram
+NSR:Quay:11752,NSR:Quay:11752,Sandaker senter,59.938829,10.768672,tram,tram
+NSR:Quay:11770,NSR:Quay:11770,Grefsenveien,59.942852,10.773656,tram,tram
+NSR:Quay:11124,NSR:Quay:11124,Storo,59.945258,10.778806,tram,tram
+NSR:Quay:11170,NSR:Quay:11170,Disen,59.946295,10.787853,tram,tram
+NSR:Quay:11192,NSR:Quay:11192,Doktor Smiths vei,59.950189,10.790106,tram,tram
+NSR:Quay:11195,NSR:Quay:11195,Glads vei,59.952383,10.785407,tram,tram
+NSR:Quay:11200,NSR:Quay:11200,Grefsenplatået,59.956052,10.785814,tram,tram
+NSR:Quay:11262,NSR:Quay:11262,Grefsen stadion,59.959934,10.784902,tram,tram
+NSR:Quay:11247,NSR:Quay:11247,Kjelsåsalléen,59.963205,10.784285,tram,tram
+NSR:Quay:11242,NSR:Quay:11242,Kjelsås,59.964317,10.785251,tram,tram
+NSR:Quay:12430,NSR:Quay:12430,Holmlia stasjon,59.834891,10.797031,bus,bus
+NSR:Quay:12428,NSR:Quay:12428,Lerdalstoppen,59.83688,10.801567,bus,bus
+NSR:Quay:12425,NSR:Quay:12425,Asperudtoppen,59.83874,10.800325,bus,bus
+NSR:Quay:12424,NSR:Quay:12424,Asperudåsen,59.83994,10.799233,bus,bus
+NSR:Quay:12426,NSR:Quay:12426,Asperudtoppen,59.838653,10.800773,bus,bus
+NSR:Quay:12427,NSR:Quay:12427,Lerdalstoppen,59.836709,10.800971,bus,bus
+NSR:Quay:106932,NSR:Quay:106932,Holmlia stasjon,59.834438,10.797525,bus,bus
+NSR:Quay:10417,NSR:Quay:10417,Liakollen,59.829376,10.799137,bus,bus
+NSR:Quay:12447,NSR:Quay:12447,Krummedike,59.827769,10.799121,bus,bus
+NSR:Quay:10585,NSR:Quay:10585,Stovner bru,59.946792,10.93944,bus,bus
+NSR:Quay:10590,NSR:Quay:10590,Fjellstuveien,59.949966,10.938402,bus,bus
+NSR:Quay:10593,NSR:Quay:10593,Tjonerudveien,59.952307,10.938338,bus,bus
+NSR:Quay:10596,NSR:Quay:10596,Stovnerbakken,59.954685,10.935763,bus,bus
+NSR:Quay:10507,NSR:Quay:10507,Johnny Svorkmos vei,59.957551,10.934095,bus,bus
+NSR:Quay:10504,NSR:Quay:10504,Olaus Fjørtofts vei,59.959286,10.931085,bus,bus
+NSR:Quay:10500,NSR:Quay:10500,Øvre Fossum,59.958969,10.926485,bus,bus
+NSR:Quay:10494,NSR:Quay:10494,Stovner T,59.961552,10.922803,bus,bus
+NSR:Quay:10727,NSR:Quay:10727,Grorud T,59.960799,10.88288,bus,bus
+NSR:Quay:10687,NSR:Quay:10687,Grorud skole,59.958175,10.882739,bus,bus
+NSR:Quay:10684,NSR:Quay:10684,Sagstuveien,59.954031,10.880534,bus,bus
+NSR:Quay:110987,NSR:Quay:110987,Bekkenstenveien,59.952335,10.886046,bus,bus
+NSR:Quay:110999,NSR:Quay:110999,Grorud stasjon,59.949605,10.890613,bus,bus
+NSR:Quay:10320,NSR:Quay:10320,Vestre Haugen,59.947829,10.896935,bus,bus
+NSR:Quay:10317,NSR:Quay:10317,Gransletta,59.944702,10.899685,bus,bus
+NSR:Quay:10313,NSR:Quay:10313,Nordre Gran,59.941813,10.902745,bus,bus
+NSR:Quay:109485,NSR:Quay:109485,Furuset T,59.940459,10.898129,bus,bus
+NSR:Quay:10292,NSR:Quay:10292,Furuset skole,59.937325,10.892614,bus,bus
+NSR:Quay:10281,NSR:Quay:10281,Jeriko skole,59.935204,10.886668,bus,bus
+NSR:Quay:10274,NSR:Quay:10274,Lindeberg T,59.932845,10.88081,bus,bus
+NSR:Quay:10277,NSR:Quay:10277,Lindeberghjemmet,59.930737,10.875864,bus,bus
+NSR:Quay:10372,NSR:Quay:10372,Skjønhaug,59.929743,10.8697,bus,bus
+NSR:Quay:10376,NSR:Quay:10376,Trosterudkrysset,59.928076,10.865275,bus,bus
+NSR:Quay:11378,NSR:Quay:11378,Doktor Dedichens vei,59.924466,10.858084,bus,bus
+NSR:Quay:11348,NSR:Quay:11348,Haugerud T,59.921848,10.854728,bus,bus
+NSR:Quay:11352,NSR:Quay:11352,Haugerudveien,59.918577,10.851333,bus,bus
+NSR:Quay:11325,NSR:Quay:11325,Tveita bedriftsområde,59.915279,10.847352,bus,bus
+NSR:Quay:11323,NSR:Quay:11323,Tveita,59.912924,10.844257,bus,bus
+NSR:Quay:11416,NSR:Quay:11416,Trasoppveien,59.910587,10.847768,bus,bus
+NSR:Quay:11407,NSR:Quay:11407,Trasop skole,59.904525,10.851054,bus,bus
+NSR:Quay:11014,NSR:Quay:11014,Solbergliveien,59.901034,10.851196,bus,bus
+NSR:Quay:11016,NSR:Quay:11016,Kampheimveien,59.897772,10.852368,bus,bus
+NSR:Quay:11021,NSR:Quay:11021,Eftasåsen,59.896177,10.854071,bus,bus
+NSR:Quay:10741,NSR:Quay:10741,Østmarkveien,59.8919,10.854991,bus,bus
+NSR:Quay:10744,NSR:Quay:10744,Olav Nygards veg,59.8883,10.85181,bus,bus
+NSR:Quay:10754,NSR:Quay:10754,Bøler T,59.883397,10.843058,bus,bus
+NSR:Quay:10766,NSR:Quay:10766,Martin Linges vei,59.880401,10.839759,bus,bus
+NSR:Quay:10774,NSR:Quay:10774,Bogerud T,59.875077,10.841985,bus,bus
+NSR:Quay:10777,NSR:Quay:10777,Welding Olsens vei,59.870428,10.84717,bus,bus
+NSR:Quay:10782,NSR:Quay:10782,Skullerudveien,59.867337,10.844037,bus,bus
+NSR:Quay:10790,NSR:Quay:10790,Skullerud,59.867307,10.840091,bus,bus
+NSR:Quay:10917,NSR:Quay:10917,Abildsø,59.879736,10.82495,bus,bus
+NSR:Quay:10646,NSR:Quay:10646,Gina Krogs vei,59.875376,10.816118,bus,bus
+NSR:Quay:10641,NSR:Quay:10641,Lambertseter senter,59.873335,10.812263,bus,bus
+NSR:Quay:10670,NSR:Quay:10670,Munkelia T,59.868413,10.813229,bus,bus
+NSR:Quay:10677,NSR:Quay:10677,Langbølgen,59.865573,10.814385,bus,bus
+NSR:Quay:12357,NSR:Quay:12357,P. A. Holms vei,59.861098,10.815155,bus,bus
+NSR:Quay:12353,NSR:Quay:12353,Munkerud,59.860388,10.81114,bus,bus
+NSR:Quay:12351,NSR:Quay:12351,Sæter,59.860878,10.801472,bus,bus
+NSR:Quay:12377,NSR:Quay:12377,Nordstrand kirke,59.857917,10.801489,bus,bus
+NSR:Quay:12371,NSR:Quay:12371,Ljabru,59.853308,10.80113,bus,bus
+NSR:Quay:12375,NSR:Quay:12375,Knud Øyens vei,59.851278,10.799331,bus,bus
+NSR:Quay:12419,NSR:Quay:12419,Ljabru hovedgård,59.849269,10.803305,bus,bus
+NSR:Quay:12410,NSR:Quay:12410,Hauketo stasjon,59.846174,10.80323,bus,bus
+NSR:Quay:12444,NSR:Quay:12444,Hallagerbakken,59.841301,10.793703,bus,bus
+NSR:Quay:12443,NSR:Quay:12443,Skovbakken nord,59.840414,10.795079,bus,bus
+NSR:Quay:12429,NSR:Quay:12429,Holmlia stasjon,59.835034,10.796696,bus,bus
+NSR:Quay:12451,NSR:Quay:12451,Rosenholmveien,59.829975,10.792691,bus,bus
+NSR:Quay:12453,NSR:Quay:12453,Åstun,59.830706,10.789234,bus,bus
+NSR:Quay:12457,NSR:Quay:12457,Vestskrenten,59.829978,10.781879,bus,bus
+NSR:Quay:12458,NSR:Quay:12458,Grensestien,59.827627,10.779342,bus,bus
+NSR:Quay:12461,NSR:Quay:12461,Åsbråten,59.82648,10.782644,bus,bus
+NSR:Quay:11313,NSR:Quay:11313,Tveita T,59.913819,10.842269,bus,bus
+NSR:Quay:11316,NSR:Quay:11316,Tveita,59.914334,10.845864,bus,bus
+NSR:Quay:11326,NSR:Quay:11326,Tveita bedriftsområde,59.916522,10.849262,bus,bus
+NSR:Quay:11351,NSR:Quay:11351,Haugerudveien,59.918616,10.851536,bus,bus
+NSR:Quay:11347,NSR:Quay:11347,Haugerud T,59.92204,10.855227,bus,bus
+NSR:Quay:11379,NSR:Quay:11379,Doktor Dedichens vei,59.924582,10.860173,bus,bus
+NSR:Quay:11382,NSR:Quay:11382,Haukåsen skole,59.922353,10.863445,bus,bus
+NSR:Quay:11387,NSR:Quay:11387,Fagerholt,59.92356,10.867758,bus,bus
+NSR:Quay:11393,NSR:Quay:11393,Lutvann skole,59.925707,10.869668,bus,bus
+NSR:Quay:11397,NSR:Quay:11397,Lutvannsveien,59.925317,10.872777,bus,bus
+NSR:Quay:7257,NSR:Quay:7257,Stortinget,59.913146,10.742714,metro,metro
+NSR:Quay:11178,NSR:Quay:11178,Brynseng,59.90924,10.812097,metro,metro
+NSR:Quay:11273,NSR:Quay:11273,Hellerud,59.91003,10.82986,metro,metro
+NSR:Quay:10948,NSR:Quay:10948,Godlia,59.907146,10.835835,metro,metro
+NSR:Quay:10954,NSR:Quay:10954,Skøyenåsen,59.899007,10.836575,metro,metro
+NSR:Quay:10998,NSR:Quay:10998,Oppsal,59.892882,10.839957,metro,metro
+NSR:Quay:10716,NSR:Quay:10716,Ulsrud,59.8894,10.849586,metro,metro
+NSR:Quay:10749,NSR:Quay:10749,Bøler,59.88428,10.84537,metro,metro
+NSR:Quay:10768,NSR:Quay:10768,Bogerud,59.87606,10.841985,metro,metro
+NSR:Quay:10788,NSR:Quay:10788,Skullerud,59.866544,10.840019,metro,metro
+NSR:Quay:10423,NSR:Quay:10423,Mortensrud,59.849326,10.829754,metro,metro
+NSR:Quay:12209,NSR:Quay:12209,Skar,60.026663,10.779284,bus,bus
+NSR:Quay:12212,NSR:Quay:12212,Skarsbakken,60.020222,10.777819,bus,bus
+NSR:Quay:12217,NSR:Quay:12217,Rugda,60.014805,10.772618,bus,bus
+NSR:Quay:12218,NSR:Quay:12218,Turtermarka,60.009325,10.766202,bus,bus
+NSR:Quay:12223,NSR:Quay:12223,Maridalen skole,60.004362,10.763058,bus,bus
+NSR:Quay:12182,NSR:Quay:12182,Hammeren,59.994042,10.752305,bus,bus
+NSR:Quay:12179,NSR:Quay:12179,Saga,59.988535,10.752923,bus,bus
+NSR:Quay:12174,NSR:Quay:12174,Skjerven,59.986027,10.752694,bus,bus
+NSR:Quay:12169,NSR:Quay:12169,Låkeberget,59.979914,10.757316,bus,bus
+NSR:Quay:12162,NSR:Quay:12162,Brennenga,59.97711,10.761181,bus,bus
+NSR:Quay:12161,NSR:Quay:12161,Engelsrud,59.972978,10.764222,bus,bus
+NSR:Quay:11431,NSR:Quay:11431,Brekkekrysset,59.966939,10.766425,bus,bus
+NSR:Quay:11427,NSR:Quay:11427,Brekkehagan,59.964942,10.766486,bus,bus
+NSR:Quay:11425,NSR:Quay:11425,Korsvoll,59.962833,10.765821,bus,bus
+NSR:Quay:11413,NSR:Quay:11413,Skibakken,59.959462,10.764094,bus,bus
+NSR:Quay:11356,NSR:Quay:11356,Øvre Stabburvei,59.954206,10.760725,bus,bus
+NSR:Quay:11363,NSR:Quay:11363,Blåsbortveien,59.950792,10.760832,bus,bus
+NSR:Quay:11368,NSR:Quay:11368,Godals vei,59.947355,10.760049,bus,bus
+NSR:Quay:11724,NSR:Quay:11724,Kristoffer Aamots bro,59.946765,10.76422,bus,bus
+NSR:Quay:11796,NSR:Quay:11796,Fernanda Nissen skole,59.946851,10.769603,bus,bus
+NSR:Quay:12295,NSR:Quay:12295,Brattlikollen T,59.886435,10.800483,bus,bus
+NSR:Quay:10627,NSR:Quay:10627,Karlsrud T,59.879654,10.805754,bus,bus
+NSR:Quay:10690,NSR:Quay:10690,Blåfjellet,59.86867,10.814817,bus,bus
+NSR:Quay:10685,NSR:Quay:10685,Bergkrystallen T,59.866676,10.82193,bus,bus
+NSR:Quay:10681,NSR:Quay:10681,Bergkrystallen,59.867035,10.821702,metro,metro
+NSR:Quay:10667,NSR:Quay:10667,Munkelia,59.868879,10.812746,metro,metro
+NSR:Quay:10630,NSR:Quay:10630,Lambertseter,59.873562,10.810324,metro,metro
+NSR:Quay:12286,NSR:Quay:12286,Karlsrud,59.880459,10.805456,metro,metro
+NSR:Quay:12292,NSR:Quay:12292,Brattlikollen,59.887367,10.80114,metro,metro
+NSR:Quay:10819,NSR:Quay:10819,Ryen,59.895653,10.804898,metro,metro
+NSR:Quay:10851,NSR:Quay:10851,Manglerud,59.89799,10.81284,metro,metro
+NSR:Quay:10883,NSR:Quay:10883,Høyenhall,59.906187,10.819613,metro,metro
+NSR:Quay:11176,NSR:Quay:11176,Brynseng,59.90921,10.812089,metro,metro
+NSR:Quay:11135,NSR:Quay:11135,Helsfyr,59.912697,10.801446,metro,metro
+NSR:Quay:11107,NSR:Quay:11107,Ensjø,59.913797,10.78777,metro,metro
+NSR:Quay:11895,NSR:Quay:11895,Tøyen,59.915679,10.775828,metro,metro
+NSR:Quay:11929,NSR:Quay:11929,Grønland,59.91283,10.76018,metro,metro
+NSR:Quay:7184,NSR:Quay:7184,Jernbanetorget,59.912268,10.751326,metro,metro
+NSR:Quay:7255,NSR:Quay:7255,Stortinget,59.913478,10.743221,metro,metro
+NSR:Quay:7334,NSR:Quay:7334,Nationaltheatret,59.91535,10.73233,metro,metro
+NSR:Quay:8028,NSR:Quay:8028,Majorstuen,59.930279,10.714647,metro,metro
+NSR:Quay:11441,NSR:Quay:11441,Frøen,59.934594,10.709318,metro,metro
+NSR:Quay:11447,NSR:Quay:11447,Steinerud,59.939153,10.70438,metro,metro
+NSR:Quay:11461,NSR:Quay:11461,Vinderen,59.9422,10.704586,metro,metro
+NSR:Quay:11479,NSR:Quay:11479,Gaustad,59.9457,10.71005,metro,metro
+NSR:Quay:11506,NSR:Quay:11506,Ris,59.948016,10.704774,metro,metro
+NSR:Quay:11517,NSR:Quay:11517,Slemdal,59.950938,10.694447,metro,metro
+NSR:Quay:11553,NSR:Quay:11553,Gråkammen,59.955042,10.701711,metro,metro
+NSR:Quay:11561,NSR:Quay:11561,Gulleråsen,59.955796,10.696797,metro,metro
+NSR:Quay:11569,NSR:Quay:11569,Vettakollen,59.959784,10.695834,metro,metro
+NSR:Quay:11570,NSR:Quay:11570,Skådalen,59.961867,10.690778,metro,metro
+NSR:Quay:11576,NSR:Quay:11576,Midtstuen,59.961366,10.683024,metro,metro
+NSR:Quay:11593,NSR:Quay:11593,Besserud,59.957981,10.67417,metro,metro
+NSR:Quay:11606,NSR:Quay:11606,Holmenkollen,59.960247,10.663143,metro,metro
+NSR:Quay:11609,NSR:Quay:11609,Voksenlia,59.966968,10.654778,metro,metro
+NSR:Quay:11612,NSR:Quay:11612,Skogen,59.975365,10.647528,metro,metro
+NSR:Quay:11617,NSR:Quay:11617,Lillevann,59.980434,10.653182,metro,metro
+NSR:Quay:11638,NSR:Quay:11638,Voksenkollen,59.980036,10.665104,metro,metro
+NSR:Quay:12151,NSR:Quay:12151,Frognerseteren,59.979037,10.676023,metro,metro
+NSR:Quay:12462,NSR:Quay:12462,Åsbråten,59.825833,10.781968,bus,bus
+NSR:Quay:12459,NSR:Quay:12459,Grensestien,59.827506,10.779803,bus,bus
+NSR:Quay:12456,NSR:Quay:12456,Vestskrenten,59.829141,10.781263,bus,bus
+NSR:Quay:12454,NSR:Quay:12454,Åstun,59.830796,10.787764,bus,bus
+NSR:Quay:12452,NSR:Quay:12452,Rosenholmveien,59.83002,10.793113,bus,bus
+NSR:Quay:12432,NSR:Quay:12432,Holmlia stasjon,59.835056,10.796361,bus,bus
+NSR:Quay:12403,NSR:Quay:12403,Hauketo stasjon,59.846539,10.803482,bus,bus
+NSR:Quay:12420,NSR:Quay:12420,Ljabru hovedgård,59.849247,10.804071,bus,bus
+NSR:Quay:12374,NSR:Quay:12374,Knud Øyens vei,59.851366,10.799043,bus,bus
+NSR:Quay:12370,NSR:Quay:12370,Ljabru,59.85441,10.802372,bus,bus
+NSR:Quay:12376,NSR:Quay:12376,Nordstrand kirke,59.858067,10.801693,bus,bus
+NSR:Quay:12350,NSR:Quay:12350,Sæter,59.860757,10.802069,bus,bus
+NSR:Quay:12355,NSR:Quay:12355,Munkerud,59.860305,10.811343,bus,bus
+NSR:Quay:12356,NSR:Quay:12356,P. A. Holms vei,59.861161,10.815399,bus,bus
+NSR:Quay:10678,NSR:Quay:10678,Langbølgen,59.865782,10.81446,bus,bus
+NSR:Quay:10671,NSR:Quay:10671,Munkelia T,59.868041,10.813503,bus,bus
+NSR:Quay:10642,NSR:Quay:10642,Lambertseter senter,59.873502,10.81239,bus,bus
+NSR:Quay:10647,NSR:Quay:10647,Gina Krogs vei,59.875267,10.816083,bus,bus
+NSR:Quay:10919,NSR:Quay:10919,Abildsø,59.879484,10.826326,bus,bus
+NSR:Quay:10941,NSR:Quay:10941,Lille Langerud,59.875815,10.828236,bus,bus
+NSR:Quay:10945,NSR:Quay:10945,Langerudveien,59.873824,10.829494,bus,bus
+NSR:Quay:10803,NSR:Quay:10803,Langerudhjemmet,59.869568,10.835234,bus,bus
+NSR:Quay:10795,NSR:Quay:10795,Skullerud,59.866005,10.839359,bus,bus
+NSR:Quay:10783,NSR:Quay:10783,Skullerudveien,59.867439,10.844281,bus,bus
+NSR:Quay:10778,NSR:Quay:10778,Welding Olsens vei,59.870568,10.847459,bus,bus
+NSR:Quay:10773,NSR:Quay:10773,Bogerud T,59.875283,10.841956,bus,bus
+NSR:Quay:10765,NSR:Quay:10765,Martin Linges vei,59.880336,10.839941,bus,bus
+NSR:Quay:10755,NSR:Quay:10755,Bøler T,59.883655,10.844622,bus,bus
+NSR:Quay:10745,NSR:Quay:10745,Olav Nygards veg,59.88898,10.8527,bus,bus
+NSR:Quay:10742,NSR:Quay:10742,Østmarkveien,59.891604,10.854959,bus,bus
+NSR:Quay:11022,NSR:Quay:11022,Eftasåsen,59.896262,10.854294,bus,bus
+NSR:Quay:11017,NSR:Quay:11017,Kampheimveien,59.897852,10.852561,bus,bus
+NSR:Quay:11013,NSR:Quay:11013,Solbergliveien,59.899828,10.851786,bus,bus
+NSR:Quay:11406,NSR:Quay:11406,Trasop skole,59.903772,10.851335,bus,bus
+NSR:Quay:11412,NSR:Quay:11412,Hellerudfaret,59.905546,10.851279,bus,bus
+NSR:Quay:11415,NSR:Quay:11415,Trasoppveien,59.910329,10.849098,bus,bus
+NSR:Quay:11331,NSR:Quay:11331,Stordamveien,59.911531,10.846408,bus,bus
+NSR:Quay:11380,NSR:Quay:11380,Doktor Dedichens vei,59.92568,10.860782,bus,bus
+NSR:Quay:10375,NSR:Quay:10375,Trosterudkrysset,59.928024,10.865473,bus,bus
+NSR:Quay:10370,NSR:Quay:10370,Skjønhaug,59.929758,10.870333,bus,bus
+NSR:Quay:10278,NSR:Quay:10278,Lindeberghjemmet,59.93093,10.875958,bus,bus
+NSR:Quay:10272,NSR:Quay:10272,Lindeberg T,59.932917,10.881073,bus,bus
+NSR:Quay:10282,NSR:Quay:10282,Jeriko skole,59.934751,10.884651,bus,bus
+NSR:Quay:10295,NSR:Quay:10295,Furuset skole,59.937034,10.892306,bus,bus
+NSR:Quay:109484,NSR:Quay:109484,Furuset T,59.940395,10.898759,bus,bus
+NSR:Quay:10312,NSR:Quay:10312,Nordre Gran,59.941915,10.902734,bus,bus
+NSR:Quay:10316,NSR:Quay:10316,Gransletta,59.944945,10.899709,bus,bus
+NSR:Quay:10319,NSR:Quay:10319,Vestre Haugen,59.94907,10.895897,bus,bus
+NSR:Quay:111000,NSR:Quay:111000,Grorud stasjon,59.949607,10.889334,bus,bus
+NSR:Quay:10805,NSR:Quay:10805,Bekkenstenveien,59.953293,10.886134,bus,bus
+NSR:Quay:10683,NSR:Quay:10683,Sagstuveien,59.954266,10.880595,bus,bus
+NSR:Quay:10686,NSR:Quay:10686,Grorud skole,59.958359,10.882851,bus,bus
+NSR:Quay:11238,NSR:Quay:11238,Kjelsås stasjon,59.965745,10.781925,bus,bus
+NSR:Quay:11283,NSR:Quay:11283,Stillatorvet,59.966418,10.775788,bus,bus
+NSR:Quay:11286,NSR:Quay:11286,Brekke,59.969226,10.774463,bus,bus
+NSR:Quay:11718,NSR:Quay:11718,Badebakken,59.94577,10.760119,bus,bus
+NSR:Quay:11703,NSR:Quay:11703,Bjølsen,59.942828,10.759628,bus,bus
+NSR:Quay:11708,NSR:Quay:11708,Advokat Dehlis plass,59.939481,10.758877,bus,bus
+NSR:Quay:11674,NSR:Quay:11674,Arkitekt Rivertz plass,59.933792,10.749414,bus,bus
+NSR:Quay:11565,NSR:Quay:11565,Evald Ryghs gate,59.930467,10.748794,bus,bus
+NSR:Quay:11549,NSR:Quay:11549,Alexander Kiellands plass,59.928635,10.74939,bus,bus
+NSR:Quay:11554,NSR:Quay:11554,Telthusbakken,59.924566,10.750396,bus,bus
+NSR:Quay:11836,NSR:Quay:11836,Møllerveien,59.920556,10.751262,bus,bus
+NSR:Quay:11828,NSR:Quay:11828,Jakob kirke,59.917326,10.754685,bus,bus
+NSR:Quay:105305,NSR:Quay:105305,Storgata,59.913819,10.750908,bus,bus
+NSR:Quay:7203,NSR:Quay:7203,Jernbanetorget,59.911425,10.749736,bus,bus
+NSR:Quay:7169,NSR:Quay:7169,Bjørvika,59.90795,10.756871,bus,bus
+NSR:Quay:104410,NSR:Quay:104410,Middelalderparken,59.906112,10.764716,bus,bus
+NSR:Quay:12093,NSR:Quay:12093,St. Halvards gate,59.906213,10.775386,bus,bus
+NSR:Quay:105466,NSR:Quay:105466,Kværnerbyen,59.904739,10.785339,bus,bus
+NSR:Quay:104414,NSR:Quay:104414,Majorstuen,59.928533,10.716329,tram,tram
+NSR:Quay:8149,NSR:Quay:8149,Bogstadveien,59.926092,10.72165,tram,tram
+NSR:Quay:8119,NSR:Quay:8119,Homansbyen,59.922478,10.726519,tram,tram
+NSR:Quay:7557,NSR:Quay:7557,Holbergs plass,59.918563,10.734496,tram,tram
+NSR:Quay:7540,NSR:Quay:7540,Tullinløkka,59.916734,10.737387,tram,tram
+NSR:Quay:7529,NSR:Quay:7529,Tinghuset,59.915089,10.741276,tram,tram
+NSR:Quay:7497,NSR:Quay:7497,Stortorvet,59.912805,10.745734,tram,tram
+NSR:Quay:7210,NSR:Quay:7210,Jernbanetorget,59.911401,10.749827,tram,tram
+NSR:Quay:11103,NSR:Quay:11103,Grefsen stasjon,59.941855,10.781399,tram,tram
+NSR:Quay:11095,NSR:Quay:11095,Sinsenkrysset,59.938979,10.783532,tram,tram
+NSR:Quay:11057,NSR:Quay:11057,Sinsenterrassen,59.934,10.77898,tram,tram
+NSR:Quay:11054,NSR:Quay:11054,Rosenhoff,59.930108,10.778092,tram,tram
+NSR:Quay:11044,NSR:Quay:11044,Carl Berners plass,59.926555,10.776405,tram,tram
+NSR:Quay:104048,NSR:Quay:104048,Sofienberg,59.922876,10.771481,tram,tram
+NSR:Quay:104051,NSR:Quay:104051,Lakkegata skole,59.920527,10.768184,tram,tram
+NSR:Quay:104054,NSR:Quay:104054,Heimdalsgata,59.9183,10.760483,tram,tram
+NSR:Quay:104872,NSR:Quay:104872,Nybrua,59.916803,10.757868,tram,tram
+NSR:Quay:105274,NSR:Quay:105274,Storgata,59.913816,10.750876,tram,tram
+NSR:Quay:7176,NSR:Quay:7176,Jernbanetorget,59.912325,10.749612,tram,tram
+NSR:Quay:100634,NSR:Quay:100634,Stortorvet,59.913153,10.745149,tram,tram
+NSR:Quay:7530,NSR:Quay:7530,Tinghuset,59.915248,10.741308,tram,tram
+NSR:Quay:7539,NSR:Quay:7539,Tullinløkka,59.916885,10.737108,tram,tram
+NSR:Quay:7556,NSR:Quay:7556,Holbergs plass,59.918838,10.734592,tram,tram
+NSR:Quay:11484,NSR:Quay:11484,Frydenlund,59.9209,10.733122,tram,tram
+NSR:Quay:11480,NSR:Quay:11480,Dalsbergstien,59.923474,10.731703,tram,tram
+NSR:Quay:11494,NSR:Quay:11494,Bislett,59.926109,10.731218,tram,tram
+NSR:Quay:11498,NSR:Quay:11498,Stensgata,59.929651,10.733146,tram,tram
+NSR:Quay:11508,NSR:Quay:11508,Adamstuen,59.932834,10.734882,tram,tram
+NSR:Quay:11587,NSR:Quay:11587,Ullevål sykehus,59.936349,10.731934,tram,tram
+NSR:Quay:11626,NSR:Quay:11626,John Colletts plass,59.940428,10.728828,tram,tram
+NSR:Quay:7796,NSR:Quay:7796,Ruseløkka,59.912914,10.723912,tram,tram
+NSR:Quay:7434,NSR:Quay:7434,Aker brygge,59.911063,10.730142,tram,tram
+NSR:Quay:7670,NSR:Quay:7670,Kontraskjæret,59.910796,10.736022,tram,tram
+NSR:Quay:12069,NSR:Quay:12069,Galgeberg,59.908311,10.779924,bus,bus
+NSR:Quay:12089,NSR:Quay:12089,Kjølberggata,59.911172,10.777499,bus,bus
+NSR:Quay:11906,NSR:Quay:11906,Tøyen,59.914585,10.777035,bus,bus
+NSR:Quay:11924,NSR:Quay:11924,Tøyenparken,59.917301,10.775807,bus,bus
+NSR:Quay:11891,NSR:Quay:11891,Helgesens gate,59.922006,10.775413,bus,bus
+NSR:Quay:8089,NSR:Quay:8089,Majorstuen,59.929712,10.717431,bus,bus
+NSR:Quay:8209,NSR:Quay:8209,Frogner stadion,59.927242,10.712657,bus,bus
+NSR:Quay:8182,NSR:Quay:8182,Vigelandsparken,59.924451,10.707727,bus,bus
+NSR:Quay:8159,NSR:Quay:8159,Frogner plass,59.921768,10.70472,bus,bus
+NSR:Quay:7820,NSR:Quay:7820,Odins gate,59.919464,10.703526,bus,bus
+NSR:Quay:7835,NSR:Quay:7835,Olav Kyrres plass,59.919297,10.697795,bus,bus
+NSR:Quay:11844,NSR:Quay:11844,Thune,59.921866,10.687742,bus,bus
+NSR:Quay:11817,NSR:Quay:11817,Skøyen stasjon,59.922145,10.67873,bus,bus
+NSR:Quay:8115,NSR:Quay:8115,Majorstuen,59.930426,10.712581,bus,bus
+NSR:Quay:11927,NSR:Quay:11927,Volvat,59.932671,10.704669,bus,bus
+NSR:Quay:11937,NSR:Quay:11937,Borgen,59.934749,10.69665,bus,bus
+NSR:Quay:11940,NSR:Quay:11940,Heggeli,59.935965,10.690231,bus,bus
+NSR:Quay:11955,NSR:Quay:11955,Smestad,59.937286,10.685068,bus,bus
+NSR:Quay:11653,NSR:Quay:11653,Bernhard Herres vei,59.941811,10.681804,bus,bus
+NSR:Quay:11657,NSR:Quay:11657,Holmendammen,59.94427,10.680516,bus,bus
+NSR:Quay:11661,NSR:Quay:11661,Holmenenga,59.94893,10.676321,bus,bus
+NSR:Quay:11665,NSR:Quay:11665,Gressbanen,59.950964,10.675106,bus,bus
+NSR:Quay:11672,NSR:Quay:11672,Arnebråtveien,59.950979,10.665362,bus,bus
+NSR:Quay:11677,NSR:Quay:11677,Amagerveien,59.952567,10.66074,bus,bus
+NSR:Quay:11776,NSR:Quay:11776,Jarbakken,59.955032,10.657047,bus,bus
+NSR:Quay:11780,NSR:Quay:11780,Nordre Jarbakken,59.956607,10.654432,bus,bus
+NSR:Quay:11783,NSR:Quay:11783,Sagstua,59.96031,10.649861,bus,bus
+NSR:Quay:11787,NSR:Quay:11787,Himstadplassen,59.962687,10.646551,bus,bus
+NSR:Quay:11813,NSR:Quay:11813,Liabakken,59.965979,10.644899,bus,bus
+NSR:Quay:11809,NSR:Quay:11809,Åsly,59.968655,10.644398,bus,bus
+NSR:Quay:11803,NSR:Quay:11803,Grindbakken,59.970889,10.64436,bus,bus
+NSR:Quay:11799,NSR:Quay:11799,Voksen skog,59.97497,10.644727,bus,bus
+NSR:Quay:11980,NSR:Quay:11980,Oslo bussterminal,59.911465,10.760298,bus,bus
+NSR:Quay:11142,NSR:Quay:11142,Helsfyr T,59.912842,10.801242,bus,bus
+NSR:Quay:10383,NSR:Quay:10383,Kjelsrud,59.931395,10.862021,bus,bus
+NSR:Quay:10664,NSR:Quay:10664,Kalbakkveien,59.951637,10.864872,bus,bus
+NSR:Quay:10956,NSR:Quay:10956,Linderudsletta,59.944508,10.835797,bus,bus
+NSR:Quay:10969,NSR:Quay:10969,Kolåsbakken,59.944446,10.832203,bus,bus
+NSR:Quay:11023,NSR:Quay:11023,Tonsenhagen,59.946079,10.828512,bus,bus
+NSR:Quay:11028,NSR:Quay:11028,Tonsenhagen torg,59.947314,10.821458,bus,bus
+NSR:Quay:11035,NSR:Quay:11035,Stig,59.947278,10.817518,bus,bus
+NSR:Quay:11012,NSR:Quay:11012,Årvollveien,59.946236,10.811987,bus,bus
+NSR:Quay:11055,NSR:Quay:11055,Årrundveien,59.945673,10.804716,bus,bus
+NSR:Quay:11052,NSR:Quay:11052,Lofthus,59.947391,10.802803,bus,bus
+NSR:Quay:11206,NSR:Quay:11206,Grefsenkollveien,59.9514,10.795942,bus,bus
+NSR:Quay:109642,NSR:Quay:109642,Brannvaktveien,59.953221,10.792458,bus,bus
+NSR:Quay:104006,NSR:Quay:104006,Grefsenplatået,59.956015,10.785809,bus,bus
+NSR:Quay:104008,NSR:Quay:104008,Grefsen stadion,59.9599,10.784929,bus,bus
+NSR:Quay:11252,NSR:Quay:11252,Kjelsåsalléen,59.963115,10.783255,bus,bus
+NSR:Quay:11434,NSR:Quay:11434,Svensenga,59.963208,10.769603,bus,bus
+NSR:Quay:11418,NSR:Quay:11418,Korsvollbakken,59.958115,10.762404,bus,bus
+NSR:Quay:11381,NSR:Quay:11381,Havnabakken,59.959165,10.754859,bus,bus
+NSR:Quay:11394,NSR:Quay:11394,Kongleveien,59.960876,10.73442,bus,bus
+NSR:Quay:11398,NSR:Quay:11398,Nordbergveien,59.957709,10.732704,bus,bus
+NSR:Quay:11307,NSR:Quay:11307,Solvang,59.953753,10.728018,bus,bus
+NSR:Quay:11300,NSR:Quay:11300,Blindern vgs.,59.951087,10.728752,bus,bus
+NSR:Quay:11671,NSR:Quay:11671,Domus Athletica,59.947419,10.721911,bus,bus
+NSR:Quay:11315,NSR:Quay:11315,Ullevål stadion T,59.94718,10.732701,bus,bus
+NSR:Quay:11667,NSR:Quay:11667,Eventyrveien,59.944578,10.731521,bus,bus
+NSR:Quay:11614,NSR:Quay:11614,John Colletts plass,59.940862,10.729582,bus,bus
+NSR:Quay:11630,NSR:Quay:11630,Ullevålsalléen,59.937738,10.73014,bus,bus
+NSR:Quay:11581,NSR:Quay:11581,Ullevål sykehus,59.936177,10.731867,bus,bus
+NSR:Quay:8078,NSR:Quay:8078,Majorstuen,59.929783,10.715688,bus,bus
+NSR:Quay:12266,NSR:Quay:12266,Simensbråten,59.895793,10.787547,bus,bus
+NSR:Quay:12272,NSR:Quay:12272,Lyngveien,59.897206,10.792099,bus,bus
+NSR:Quay:12276,NSR:Quay:12276,Benveien,59.897488,10.797037,bus,bus
+NSR:Quay:12279,NSR:Quay:12279,Oluf Onsums vei,59.895559,10.802154,bus,bus
+NSR:Quay:10821,NSR:Quay:10821,Ryen T,59.895274,10.806231,bus,bus
+NSR:Quay:10854,NSR:Quay:10854,Manglerud T,59.897926,10.813621,bus,bus
+NSR:Quay:10890,NSR:Quay:10890,Bryn senter,59.905094,10.821729,bus,bus
+NSR:Quay:10886,NSR:Quay:10886,Høyenhall T,59.906861,10.81954,bus,bus
+NSR:Quay:11185,NSR:Quay:11185,Brynseng T,59.91,10.813484,bus,bus
+NSR:Quay:11191,NSR:Quay:11191,Brynsengveien,59.912083,10.815954,bus,bus
+NSR:Quay:11210,NSR:Quay:11210,Teisenkrysset,59.917832,10.81044,bus,bus
+NSR:Quay:11914,NSR:Quay:11914,Vækerøveien,59.923708,10.643306,bus,bus
+NSR:Quay:11907,NSR:Quay:11907,Lilleaker,59.9214,10.636281,bus,bus
+NSR:Quay:11911,NSR:Quay:11911,CC vest,59.917441,10.636858,bus,bus
+NSR:Quay:10421,NSR:Quay:10421,Mortensrud,59.849304,10.829588,metro,metro
+NSR:Quay:105467,NSR:Quay:105467,Kværnerbyen,59.904345,10.786321,bus,bus
+NSR:Quay:12094,NSR:Quay:12094,St. Halvards gate,59.906331,10.774739,bus,bus
+NSR:Quay:7202,NSR:Quay:7202,Jernbanetorget,59.911701,10.750412,bus,bus
+NSR:Quay:105306,NSR:Quay:105306,Storgata,59.914039,10.751884,bus,bus
+NSR:Quay:11830,NSR:Quay:11830,Jakob kirke,59.918179,10.753692,bus,bus
+NSR:Quay:11835,NSR:Quay:11835,Møllerveien,59.920947,10.751485,bus,bus
+NSR:Quay:11555,NSR:Quay:11555,Telthusbakken,59.924563,10.750618,bus,bus
+NSR:Quay:11550,NSR:Quay:11550,Alexander Kiellands plass,59.928867,10.749631,bus,bus
+NSR:Quay:11563,NSR:Quay:11563,Evald Ryghs gate,59.931006,10.749057,bus,bus
+NSR:Quay:11675,NSR:Quay:11675,Arkitekt Rivertz plass,59.93484,10.749905,bus,bus
+NSR:Quay:11709,NSR:Quay:11709,Advokat Dehlis plass,59.938743,10.759588,bus,bus
+NSR:Quay:11704,NSR:Quay:11704,Bjølsen,59.942325,10.759657,bus,bus
+NSR:Quay:11717,NSR:Quay:11717,Badebakken,59.945641,10.760306,bus,bus
+NSR:Quay:11367,NSR:Quay:11367,Godals vei,59.94788,10.759995,bus,bus
+NSR:Quay:11362,NSR:Quay:11362,Blåsbortveien,59.95086,10.761049,bus,bus
+NSR:Quay:11355,NSR:Quay:11355,Øvre Stabburvei,59.953925,10.760921,bus,bus
+NSR:Quay:11414,NSR:Quay:11414,Skibakken,59.959099,10.764233,bus,bus
+NSR:Quay:11424,NSR:Quay:11424,Korsvoll,59.962028,10.765464,bus,bus
+NSR:Quay:11432,NSR:Quay:11432,Brekkekrysset,59.967196,10.766599,bus,bus
+NSR:Quay:11278,NSR:Quay:11278,Frysja,59.966757,10.773937,bus,bus
+NSR:Quay:11284,NSR:Quay:11284,Stillatorvet,59.965803,10.777663,bus,bus
+NSR:Quay:11239,NSR:Quay:11239,Kjelsås stasjon,59.965592,10.782625,bus,bus
+NSR:Quay:11625,NSR:Quay:11625,John Colletts plass,59.940209,10.729252,tram,tram
+NSR:Quay:11586,NSR:Quay:11586,Ullevål sykehus,59.936122,10.732079,tram,tram
+NSR:Quay:11507,NSR:Quay:11507,Adamstuen,59.932639,10.734627,tram,tram
+NSR:Quay:11499,NSR:Quay:11499,Stensgata,59.929475,10.73291,tram,tram
+NSR:Quay:11492,NSR:Quay:11492,Bislett,59.925851,10.730947,tram,tram
+NSR:Quay:11481,NSR:Quay:11481,Dalsbergstien,59.923584,10.731513,tram,tram
+NSR:Quay:101335,NSR:Quay:101335,Welhavens gate,59.921521,10.730022,tram,tram
+NSR:Quay:7175,NSR:Quay:7175,Jernbanetorget,59.912235,10.750176,tram,tram
+NSR:Quay:104055,NSR:Quay:104055,Heimdalsgata,59.918454,10.761283,tram,tram
+NSR:Quay:104050,NSR:Quay:104050,Lakkegata skole,59.920674,10.768675,tram,tram
+NSR:Quay:104049,NSR:Quay:104049,Sofienberg,59.923129,10.772057,tram,tram
+NSR:Quay:11043,NSR:Quay:11043,Carl Berners plass,59.927058,10.776947,tram,tram
+NSR:Quay:11053,NSR:Quay:11053,Rosenhoff,59.930581,10.778312,tram,tram
+NSR:Quay:11058,NSR:Quay:11058,Sinsenterrassen,59.934274,10.779296,tram,tram
+NSR:Quay:11094,NSR:Quay:11094,Sinsenkrysset,59.939259,10.783258,tram,tram
+NSR:Quay:11105,NSR:Quay:11105,Grefsen stasjon,59.94228,10.781297,tram,tram
+NSR:Quay:12368,NSR:Quay:12368,Ljabru,59.854084,10.800381,tram,tram
+NSR:Quay:12349,NSR:Quay:12349,Sæter,59.861473,10.798708,tram,tram
+NSR:Quay:12333,NSR:Quay:12333,Bråten,59.867104,10.792584,tram,tram
+NSR:Quay:12323,NSR:Quay:12323,Kastellet,59.871193,10.790315,tram,tram
+NSR:Quay:12317,NSR:Quay:12317,Sørli,59.874883,10.787212,tram,tram
+NSR:Quay:12220,NSR:Quay:12220,Holtet,59.882441,10.783111,tram,tram
+NSR:Quay:12191,NSR:Quay:12191,Sportsplassen,59.886099,10.774246,tram,tram
+NSR:Quay:12152,NSR:Quay:12152,Jomfrubråten,59.888232,10.770901,tram,tram
+NSR:Quay:12138,NSR:Quay:12138,Ekebergparken,59.897758,10.759982,tram,tram
+NSR:Quay:12066,NSR:Quay:12066,Oslo Hospital,59.903246,10.767562,tram,tram
+NSR:Quay:104525,NSR:Quay:104525,Middelalderparken,59.906335,10.764289,tram,tram
+NSR:Quay:7168,NSR:Quay:7168,Bjørvika,59.908175,10.756653,tram,tram
+NSR:Quay:8120,NSR:Quay:8120,Homansbyen,59.922642,10.72657,tram,tram
+NSR:Quay:8150,NSR:Quay:8150,Bogstadveien,59.926357,10.721398,tram,tram
+NSR:Quay:11932,NSR:Quay:11932,Borgen,59.934648,10.695748,metro,metro
+NSR:Quay:11945,NSR:Quay:11945,Smestad,59.937205,10.684411,metro,metro
+NSR:Quay:11964,NSR:Quay:11964,Montebello,59.934849,10.666349,metro,metro
+NSR:Quay:12011,NSR:Quay:12011,Ullernåsen,59.931505,10.655918,metro,metro
+NSR:Quay:12025,NSR:Quay:12025,Åsjordet,59.928895,10.648024,metro,metro
+NSR:Quay:12038,NSR:Quay:12038,Bjørnsletta,59.926549,10.634412,metro,metro
+NSR:Quay:11146,NSR:Quay:11146,Helsfyr T,59.913021,10.801991,bus,bus
+NSR:Quay:102011,NSR:Quay:102011,Prost Hallings vei,59.916555,10.819669,bus,bus
+NSR:Quay:102013,NSR:Quay:102013,Bryn skole,59.913831,10.822893,bus,bus
+NSR:Quay:11276,NSR:Quay:11276,Hellerud,59.910418,10.831468,bus,bus
+NSR:Quay:11281,NSR:Quay:11281,Tveten gård,59.911627,10.837978,bus,bus
+NSR:Quay:10797,NSR:Quay:10797,Skullerud,59.867148,10.840046,bus,bus
+NSR:Quay:10811,NSR:Quay:10811,Skullerudbakken,59.863958,10.837192,bus,bus
+NSR:Quay:10813,NSR:Quay:10813,Skullerudkrysset,59.863666,10.83197,bus,bus
+NSR:Quay:10476,NSR:Quay:10476,Mortensrudkrysset,59.850309,10.832836,bus,bus
+NSR:Quay:10432,NSR:Quay:10432,Mortensrud T,59.849154,10.829644,bus,bus
+NSR:Quay:11643,NSR:Quay:11643,Makrellbekken,59.94152,10.673998,metro,metro
+NSR:Quay:11669,NSR:Quay:11669,Holmen,59.946056,10.66744,metro,metro
+NSR:Quay:11686,NSR:Quay:11686,Hovseter,59.94643,10.65513,metro,metro
+NSR:Quay:11726,NSR:Quay:11726,Røa,59.94677,10.64429,metro,metro
+NSR:Quay:11750,NSR:Quay:11750,Ekraveien,59.950095,10.637475,metro,metro
+NSR:Quay:12037,NSR:Quay:12037,Bjørnsletta,59.926497,10.634508,metro,metro
+NSR:Quay:12026,NSR:Quay:12026,Åsjordet,59.928806,10.648037,metro,metro
+NSR:Quay:12012,NSR:Quay:12012,Ullernåsen,59.93147,10.65604,metro,metro
+NSR:Quay:11965,NSR:Quay:11965,Montebello,59.934802,10.666472,metro,metro
+NSR:Quay:106971,NSR:Quay:106971,Bryn brannstasjon,59.912646,10.813031,bus,bus
+NSR:Quay:11219,NSR:Quay:11219,Klosterheim,59.91285,10.821828,bus,bus
+NSR:Quay:11226,NSR:Quay:11226,Bryn skole,59.913906,10.824733,bus,bus
+NSR:Quay:11253,NSR:Quay:11253,Fretex,59.91691,10.827177,bus,bus
+NSR:Quay:11246,NSR:Quay:11246,Caspar Storms vei,59.919797,10.830001,bus,bus
+NSR:Quay:11243,NSR:Quay:11243,Ole Deviks vei,59.923258,10.832678,bus,bus
+NSR:Quay:11458,NSR:Quay:11458,Smalvollveien,59.924563,10.842795,bus,bus
+NSR:Quay:10387,NSR:Quay:10387,Kjelsrud,59.931677,10.859119,bus,bus
+NSR:Quay:10351,NSR:Quay:10351,IKEA Furuset,59.934622,10.870926,bus,bus
+NSR:Quay:10361,NSR:Quay:10361,Alnaparkveien,59.940411,10.881569,bus,bus
+NSR:Quay:10366,NSR:Quay:10366,Prof. Birkelands vei,59.943721,10.885305,bus,bus
+NSR:Quay:111001,NSR:Quay:111001,Grorud stasjon,59.949012,10.88909,bus,bus
+NSR:Quay:10728,NSR:Quay:10728,Grorud T,59.960993,10.882868,bus,bus
+NSR:Quay:109117,NSR:Quay:109117,Holbergs plass,59.917743,10.735308,bus,bus
+NSR:Quay:7384,NSR:Quay:7384,Nationaltheatret,59.915964,10.733618,bus,bus
+NSR:Quay:10403,NSR:Quay:10403,Trosterud,59.929457,10.864204,"bus,coach service",multimodal
+NSR:Quay:11411,NSR:Quay:11411,Sognsvann,59.967316,10.733833,metro,metro
+NSR:Quay:11400,NSR:Quay:11400,Kringsjå,59.963701,10.734842,metro,metro
+NSR:Quay:11389,NSR:Quay:11389,Holstein,59.960539,10.740386,metro,metro
+NSR:Quay:11372,NSR:Quay:11372,Østhorn,59.956579,10.750149,metro,metro
+NSR:Quay:11339,NSR:Quay:11339,Tåsen,59.953587,10.752327,metro,metro
+NSR:Quay:11317,NSR:Quay:11317,Berg,59.951262,10.744524,metro,metro
+NSR:Quay:11026,NSR:Quay:11026,Carl Berners plass,59.925828,10.779763,metro,metro
+NSR:Quay:11077,NSR:Quay:11077,Sinsen,59.93719,10.78187,metro,metro
+NSR:Quay:11066,NSR:Quay:11066,Hasle,59.924324,10.794733,metro,metro
+NSR:Quay:10827,NSR:Quay:10827,Økern,59.928208,10.806108,metro,metro
+NSR:Quay:10863,NSR:Quay:10863,Risløkka,59.932433,10.823016,metro,metro
+NSR:Quay:10884,NSR:Quay:10884,Vollebekk,59.935903,10.831221,metro,metro
+NSR:Quay:10906,NSR:Quay:10906,Linderud,59.940954,10.838544,metro,metro
+NSR:Quay:10938,NSR:Quay:10938,Veitvet,59.944524,10.847049,metro,metro
+NSR:Quay:10639,NSR:Quay:10639,Rødtvet,59.951344,10.859288,metro,metro
+NSR:Quay:10651,NSR:Quay:10651,Kalbakken,59.95455,10.86687,metro,metro
+NSR:Quay:10693,NSR:Quay:10693,Ammerud,59.958236,10.872026,metro,metro
+NSR:Quay:10718,NSR:Quay:10718,Grorud,59.961371,10.880783,metro,metro
+NSR:Quay:10603,NSR:Quay:10603,Romsås,59.962505,10.892725,metro,metro
+NSR:Quay:10461,NSR:Quay:10461,Rommen,59.962042,10.909451,metro,metro
+NSR:Quay:10489,NSR:Quay:10489,Stovner,59.9622,10.92338,metro,metro
+NSR:Quay:10509,NSR:Quay:10509,Vestli,59.972727,10.929707,metro,metro
+NSR:Quay:10345,NSR:Quay:10345,Karihaugen,59.937621,10.926872,bus,bus
+NSR:Quay:10408,NSR:Quay:10408,Folkvangveien,59.941027,10.917401,bus,bus
+NSR:Quay:12084,NSR:Quay:12084,Etterstadgata,59.909849,10.790538,bus,bus
+NSR:Quay:12081,NSR:Quay:12081,Vålerenga,59.908691,10.78609,bus,bus
+NSR:Quay:12076,NSR:Quay:12076,Galgeberg,59.907649,10.781102,bus,bus
+NSR:Quay:12050,NSR:Quay:12050,Harald Hårdrådes plass,59.907661,10.773012,bus,bus
+NSR:Quay:12035,NSR:Quay:12035,Oslo gate,59.908402,10.769351,bus,bus
+NSR:Quay:11963,NSR:Quay:11963,Oslo bussterminal,59.911437,10.758716,bus,bus
+NSR:Quay:10492,NSR:Quay:10492,Stovner T,59.961111,10.922666,bus,bus
+NSR:Quay:10499,NSR:Quay:10499,Øvre Fossum,59.958802,10.926585,bus,bus
+NSR:Quay:10503,NSR:Quay:10503,Olaus Fjørtofts vei,59.95936,10.930042,bus,bus
+NSR:Quay:10506,NSR:Quay:10506,Johnny Svorkmos vei,59.956948,10.935044,bus,bus
+NSR:Quay:10581,NSR:Quay:10581,Stovnerfaret,59.954896,10.934151,bus,bus
+NSR:Quay:10589,NSR:Quay:10589,Fjellstuveien,59.950006,10.938239,bus,bus
+NSR:Quay:10586,NSR:Quay:10586,Stovner bru,59.946983,10.939274,bus,bus
+NSR:Quay:12264,NSR:Quay:12264,Simensbråten,59.895487,10.78708,bus,bus
+NSR:Quay:12281,NSR:Quay:12281,Ekeberg hageby,59.897277,10.781802,bus,bus
+NSR:Quay:12164,NSR:Quay:12164,Ekeberg camping,59.898148,10.775726,bus,bus
+NSR:Quay:12173,NSR:Quay:12173,Brannfjellveien,59.900269,10.773817,bus,bus
+NSR:Quay:12177,NSR:Quay:12177,Utsikten,59.900327,10.779903,bus,bus
+NSR:Quay:12187,NSR:Quay:12187,Ryenbergveien,59.901022,10.786662,bus,bus
+NSR:Quay:104025,NSR:Quay:104025,St. Halvards plass,59.906249,10.767956,bus,bus
+NSR:Quay:104026,NSR:Quay:104026,Munkegata,59.908527,10.768147,bus,bus
+NSR:Quay:104028,NSR:Quay:104028,Oslo bussterminal,59.911076,10.759847,bus,bus
+NSR:Quay:109952,NSR:Quay:109952,Jernbanetorget,59.912477,10.74866,bus,bus
+NSR:Quay:11692,NSR:Quay:11692,Sagene,59.938002,10.750165,bus,bus
+NSR:Quay:11698,NSR:Quay:11698,Voldsløkka,59.940565,10.750372,bus,bus
+NSR:Quay:11335,NSR:Quay:11335,Tåsen allé,59.944155,10.748529,bus,bus
+NSR:Quay:11330,NSR:Quay:11330,Østhellinga,59.947566,10.749663,bus,bus
+NSR:Quay:11344,NSR:Quay:11344,Tåsen senter,59.952057,10.750833,bus,bus
+NSR:Quay:11960,NSR:Quay:11960,Oslo bussterminal,59.911162,10.759577,bus,bus
+NSR:Quay:12036,NSR:Quay:12036,Oslo gate,59.90832,10.769359,bus,bus
+NSR:Quay:12049,NSR:Quay:12049,Harald Hårdrådes plass,59.907446,10.77236,bus,bus
+NSR:Quay:12075,NSR:Quay:12075,Galgeberg,59.907843,10.782215,bus,bus
+NSR:Quay:12079,NSR:Quay:12079,Vålerenga,59.90885,10.787531,bus,bus
+NSR:Quay:12083,NSR:Quay:12083,Etterstadgata,59.910053,10.791519,bus,bus
+NSR:Quay:11240,NSR:Quay:11240,Fjellhus,59.920915,10.825302,bus,bus
+NSR:Quay:10355,NSR:Quay:10355,Sam Eydes vei,59.936755,10.880831,bus,bus
+NSR:Quay:10409,NSR:Quay:10409,Folkvangveien,59.940997,10.917846,bus,bus
+NSR:Quay:10346,NSR:Quay:10346,Karihaugen,59.93755,10.926488,bus,bus
+NSR:Quay:12305,NSR:Quay:12305,Ljansbakken,59.850333,10.78189,bus,bus
+NSR:Quay:105756,NSR:Quay:105756,Jernbanetorget,59.909093,10.748582,bus,bus
+NSR:Quay:10412,NSR:Quay:10412,Bjørnheim,59.94191,10.91331,bus,bus
+NSR:Quay:10424,NSR:Quay:10424,Høybråten kirke,59.944563,10.90977,bus,bus
+NSR:Quay:10416,NSR:Quay:10416,Høystakkveien,59.946186,10.905261,bus,bus
+NSR:Quay:10427,NSR:Quay:10427,Solbakken,59.944331,10.916915,bus,bus
+NSR:Quay:10433,NSR:Quay:10433,Bikuben,59.944264,10.924503,bus,bus
+NSR:Quay:10439,NSR:Quay:10439,Karl Andersens vei,59.94158,10.925885,bus,bus
+NSR:Quay:10443,NSR:Quay:10443,Granliveien,59.940092,10.928835,bus,bus
+NSR:Quay:10447,NSR:Quay:10447,Fjellborg,59.942627,10.93215,bus,bus
+NSR:Quay:10452,NSR:Quay:10452,Vardeheim,59.944637,10.930474,bus,bus
+NSR:Quay:10457,NSR:Quay:10457,Høybråten park,59.94568,10.933526,bus,bus
+NSR:Quay:10493,NSR:Quay:10493,Stovner T,59.961291,10.922996,bus,bus
+NSR:Quay:8129,NSR:Quay:8129,Homansbyen,59.923526,10.727337,bus,bus
+NSR:Quay:10428,NSR:Quay:10428,Mortensrud T,59.849654,10.829145,bus,bus
+NSR:Quay:10441,NSR:Quay:10441,Lofsrudhøgda,59.846479,10.828601,bus,bus
+NSR:Quay:10446,NSR:Quay:10446,Brunas vei,59.843838,10.82992,bus,bus
+NSR:Quay:10450,NSR:Quay:10450,Blakkens vei,59.841499,10.831524,bus,bus
+NSR:Quay:10516,NSR:Quay:10516,Bjørnholt øvre,59.836215,10.834507,bus,bus
+NSR:Quay:10548,NSR:Quay:10548,Bjørnholt skole,59.834448,10.837967,bus,bus
+NSR:Quay:10524,NSR:Quay:10524,Nyjordet,59.831016,10.837466,bus,bus
+NSR:Quay:10529,NSR:Quay:10529,Bjørndal senter,59.825659,10.835459,bus,bus
+NSR:Quay:10533,NSR:Quay:10533,Meklenborg,59.823626,10.835663,bus,bus
+NSR:Quay:10536,NSR:Quay:10536,Bjørndal,59.821265,10.83996,bus,bus
+NSR:Quay:11310,NSR:Quay:11310,Tveita,59.91398,10.84224,metro,metro
+NSR:Quay:11342,NSR:Quay:11342,Haugerud,59.922176,10.854683,metro,metro
+NSR:Quay:11373,NSR:Quay:11373,Trosterud,59.92714,10.86518,metro,metro
+NSR:Quay:10270,NSR:Quay:10270,Lindeberg,59.93307,10.882669,metro,metro
+NSR:Quay:10304,NSR:Quay:10304,Furuset,59.941256,10.896994,metro,metro
+NSR:Quay:10330,NSR:Quay:10330,Ellingsrudåsen,59.936623,10.915676,metro,metro
+NSR:Quay:105730,NSR:Quay:105730,Gaustadalléen,59.945587,10.717289,bus,bus
+NSR:Quay:105729,NSR:Quay:105729,Forskningsparken T,59.944031,10.720628,bus,bus
+NSR:Quay:109569,NSR:Quay:109569,Universitetet Blindern,59.941443,10.721449,bus,bus
+NSR:Quay:105727,NSR:Quay:105727,John Colletts plass,59.939711,10.728809,bus,bus
+NSR:Quay:11504,NSR:Quay:11504,Adamstuen,59.932718,10.734536,bus,bus
+NSR:Quay:104063,NSR:Quay:104063,Stensgata,59.929504,10.732929,bus,bus
+NSR:Quay:104067,NSR:Quay:104067,Bislett,59.925887,10.730971,bus,bus
+NSR:Quay:101336,NSR:Quay:101336,Welhavens gate,59.921537,10.730059,bus,bus
+NSR:Quay:101400,NSR:Quay:101400,Sars' gate,59.921494,10.771223,bus,bus
+NSR:Quay:101466,NSR:Quay:101466,Hausmanns bru,59.914362,10.759633,bus,bus
+NSR:Quay:11975,NSR:Quay:11975,Oslo bussterminal,59.911553,10.760141,bus,bus
+NSR:Quay:101401,NSR:Quay:101401,Sars' gate,59.921614,10.771708,bus,bus
+NSR:Quay:7512,NSR:Quay:7512,Stortorvet,59.912444,10.745391,tram,tram
+NSR:Quay:10820,NSR:Quay:10820,Vestbyveien,59.95278,10.890793,bus,bus
+NSR:Quay:10556,NSR:Quay:10556,Jernkroken,59.954256,10.896973,bus,bus
+NSR:Quay:10545,NSR:Quay:10545,Haugenstua torg,59.952706,10.908981,bus,bus
+NSR:Quay:10569,NSR:Quay:10569,Smiuvegen,59.952847,10.923876,bus,bus
+NSR:Quay:10575,NSR:Quay:10575,Jorines vei,59.953041,10.928741,bus,bus
+NSR:Quay:10580,NSR:Quay:10580,Stovnerfaret,59.954806,10.934213,bus,bus
+NSR:Quay:11123,NSR:Quay:11123,Storo,59.945258,10.77824,tram,tram
+NSR:Quay:11769,NSR:Quay:11769,Grefsenveien,59.942484,10.772974,tram,tram
+NSR:Quay:11755,NSR:Quay:11755,Sandaker senter,59.938668,10.768366,tram,tram
+NSR:Quay:11727,NSR:Quay:11727,Torshov,59.934469,10.764346,tram,tram
+NSR:Quay:11866,NSR:Quay:11866,Biermanns gate,59.930595,10.761103,tram,tram
+NSR:Quay:11843,NSR:Quay:11843,Birkelunden,59.927164,10.759888,tram,tram
+NSR:Quay:11826,NSR:Quay:11826,Olaf Ryes plass,59.922799,10.759161,tram,tram
+NSR:Quay:11820,NSR:Quay:11820,Schous plass,59.920687,10.759255,tram,tram
+NSR:Quay:11165,NSR:Quay:11165,Tamburveien,59.950607,10.768385,bus,bus
+NSR:Quay:11162,NSR:Quay:11162,Nydalen T,59.948842,10.769504,bus,bus
+NSR:Quay:11801,NSR:Quay:11801,Storo senter,59.945728,10.776502,bus,bus
+NSR:Quay:104047,NSR:Quay:104047,Storo,59.945238,10.778639,bus,bus
+NSR:Quay:11181,NSR:Quay:11181,Nordre Åsen,59.944175,10.78667,bus,bus
+NSR:Quay:11183,NSR:Quay:11183,Aschehougs vei,59.946475,10.792691,bus,bus
+NSR:Quay:11190,NSR:Quay:11190,Sanatoriet,59.949716,10.79337,bus,bus
+NSR:Quay:11204,NSR:Quay:11204,Akebakken,59.952742,10.797375,bus,bus
+NSR:Quay:11209,NSR:Quay:11209,Grefsenseteren,59.955444,10.798651,bus,bus
+NSR:Quay:11215,NSR:Quay:11215,Trollveiskrysset,59.958452,10.798289,bus,bus
+NSR:Quay:11217,NSR:Quay:11217,Kirketomta,59.959977,10.797589,bus,bus
+NSR:Quay:11222,NSR:Quay:11222,Gulldalen,59.962657,10.795948,bus,bus
+NSR:Quay:11223,NSR:Quay:11223,Heia,59.964988,10.796286,bus,bus
+NSR:Quay:11230,NSR:Quay:11230,Rønningen,59.96677,10.795596,bus,bus
+NSR:Quay:11232,NSR:Quay:11232,Rundhaugen,59.968576,10.79591,bus,bus
+NSR:Quay:12250,NSR:Quay:12250,Kringlevann,59.976385,10.803737,bus,bus
+NSR:Quay:12246,NSR:Quay:12246,Setervollveien,59.977188,10.806347,bus,bus
+NSR:Quay:12242,NSR:Quay:12242,Linderudkollen,59.976434,10.810799,bus,bus
+NSR:Quay:12239,NSR:Quay:12239,Kalland,59.978443,10.814409,bus,bus
+NSR:Quay:12232,NSR:Quay:12232,Solemskogen,59.979201,10.817561,bus,bus
+NSR:Quay:104030,NSR:Quay:104030,Solli,59.914834,10.718713,bus,bus
+NSR:Quay:7813,NSR:Quay:7813,Frogner kirke,59.917891,10.706984,bus,bus
+NSR:Quay:7843,NSR:Quay:7843,Karenslyst allé,59.918363,10.688158,bus,bus
+NSR:Quay:7857,NSR:Quay:7857,Kongsgården,59.909369,10.680787,bus,bus
+NSR:Quay:7921,NSR:Quay:7921,Folkemuseet,59.907708,10.686371,bus,bus
+NSR:Quay:7912,NSR:Quay:7912,Vikingskipene,59.904523,10.68646,bus,bus
+NSR:Quay:7903,NSR:Quay:7903,Fredriksborg,59.903546,10.686835,bus,bus
+NSR:Quay:7892,NSR:Quay:7892,Bygdøhus,59.901396,10.681825,bus,bus
+NSR:Quay:7881,NSR:Quay:7881,Frimurerhjemmet,59.901219,10.678864,bus,bus
+NSR:Quay:7871,NSR:Quay:7871,Ro,59.900987,10.675608,bus,bus
+NSR:Quay:7864,NSR:Quay:7864,Huk,59.898227,10.675122,bus,bus
+NSR:Quay:11800,NSR:Quay:11800,Voksen skog,59.975061,10.644456,bus,bus
+NSR:Quay:11804,NSR:Quay:11804,Grindbakken,59.970948,10.6441,bus,bus
+NSR:Quay:11810,NSR:Quay:11810,Åsly,59.968627,10.644558,bus,bus
+NSR:Quay:11814,NSR:Quay:11814,Liabakken,59.966661,10.644344,bus,bus
+NSR:Quay:11788,NSR:Quay:11788,Himstadplassen,59.963514,10.645714,bus,bus
+NSR:Quay:11784,NSR:Quay:11784,Sagstua,59.960406,10.649322,bus,bus
+NSR:Quay:11779,NSR:Quay:11779,Nordre Jarbakken,59.956616,10.654061,bus,bus
+NSR:Quay:11775,NSR:Quay:11775,Jarbakken,59.954845,10.657226,bus,bus
+NSR:Quay:11676,NSR:Quay:11676,Amagerveien,59.952426,10.661011,bus,bus
+NSR:Quay:11673,NSR:Quay:11673,Arnebråtveien,59.950809,10.665559,bus,bus
+NSR:Quay:11666,NSR:Quay:11666,Gressbanen,59.950474,10.67528,bus,bus
+NSR:Quay:11660,NSR:Quay:11660,Holmenenga,59.948468,10.676238,bus,bus
+NSR:Quay:11656,NSR:Quay:11656,Holmendammen,59.944856,10.679486,bus,bus
+NSR:Quay:11652,NSR:Quay:11652,Bernhard Herres vei,59.941664,10.681635,bus,bus
+NSR:Quay:11954,NSR:Quay:11954,Smestad,59.93658,10.68698,bus,bus
+NSR:Quay:11941,NSR:Quay:11941,Heggeli,59.935383,10.691915,bus,bus
+NSR:Quay:11926,NSR:Quay:11926,Volvat,59.932521,10.70438,bus,bus
+NSR:Quay:8076,NSR:Quay:8076,Majorstuen,59.929916,10.715827,bus,bus
+NSR:Quay:11444,NSR:Quay:11444,Frøensalléen,59.935355,10.709961,bus,bus
+NSR:Quay:11465,NSR:Quay:11465,Vinderen T,59.94247,10.704173,bus,bus
+NSR:Quay:11471,NSR:Quay:11471,Viggo Hansteens vei,59.943075,10.700501,bus,bus
+NSR:Quay:11529,NSR:Quay:11529,Grimelundsveien,59.944763,10.692449,bus,bus
+NSR:Quay:11532,NSR:Quay:11532,Tråkka,59.946215,10.688904,bus,bus
+NSR:Quay:11536,NSR:Quay:11536,Dalsveien,59.948695,10.688871,bus,bus
+NSR:Quay:11540,NSR:Quay:11540,Stasjonsveien,59.950196,10.68889,bus,bus
+NSR:Quay:11547,NSR:Quay:11547,Holmenhavna,59.950796,10.680513,bus,bus
+NSR:Quay:11582,NSR:Quay:11582,Lybekkveien,59.95299,10.673974,bus,bus
+NSR:Quay:11585,NSR:Quay:11585,Krags vei,59.954979,10.666064,bus,bus
+NSR:Quay:11588,NSR:Quay:11588,Ryghs vei,59.956134,10.66181,bus,bus
+NSR:Quay:11702,NSR:Quay:11702,Orebakken,59.952929,10.656443,bus,bus
+NSR:Quay:11696,NSR:Quay:11696,Hovseter skole,59.949486,10.656449,bus,bus
+NSR:Quay:11690,NSR:Quay:11690,Hovseter,59.945733,10.655856,bus,bus
+NSR:Quay:11710,NSR:Quay:11710,Ostadalsveien,59.9455,10.647729,bus,bus
+NSR:Quay:11715,NSR:Quay:11715,Aslakveien,59.94267,10.646988,bus,bus
+NSR:Quay:11719,NSR:Quay:11719,Røa næringspark,59.941392,10.64915,bus,bus
+NSR:Quay:11723,NSR:Quay:11723,Ullerntoppen,59.938627,10.648343,bus,bus
+NSR:Quay:11244,NSR:Quay:11244,Kjelsås,59.964191,10.784739,tram,tram
+NSR:Quay:11245,NSR:Quay:11245,Kjelsåsalléen,59.962988,10.783955,tram,tram
+NSR:Quay:11259,NSR:Quay:11259,Grefsen stadion,59.960278,10.784532,tram,tram
+NSR:Quay:11198,NSR:Quay:11198,Grefsenplatået,59.955875,10.785667,tram,tram
+NSR:Quay:11196,NSR:Quay:11196,Glads vei,59.952218,10.785262,tram,tram
+NSR:Quay:11193,NSR:Quay:11193,Doktor Smiths vei,59.949501,10.790146,tram,tram
+NSR:Quay:11172,NSR:Quay:11172,Disen,59.946314,10.787399,tram,tram
+NSR:Quay:7245,NSR:Quay:7245,Dronningens gate,59.910587,10.74681,tram,tram
+NSR:Quay:7277,NSR:Quay:7277,Øvre Slottsgate,59.911881,10.74152,tram,tram
+NSR:Quay:7671,NSR:Quay:7671,Kontraskjæret,59.910985,10.735536,tram,tram
+NSR:Quay:7433,NSR:Quay:7433,Aker brygge,59.91095,10.729659,tram,tram
+NSR:Quay:7795,NSR:Quay:7795,Ruseløkka,59.912811,10.724306,tram,tram
+NSR:Quay:7732,NSR:Quay:7732,Solli,59.91482,10.718646,tram,tram
+NSR:Quay:7754,NSR:Quay:7754,Niels Juels gate,59.916368,10.715224,tram,tram
+NSR:Quay:7828,NSR:Quay:7828,Lille Frogner allé,59.918026,10.712142,tram,tram
+NSR:Quay:7804,NSR:Quay:7804,Elisenberg,59.919624,10.708612,tram,tram
+NSR:Quay:8171,NSR:Quay:8171,Frogner plass,59.922618,10.705042,tram,tram
+NSR:Quay:8190,NSR:Quay:8190,Vigelandsparken,59.924449,10.708009,tram,tram
+NSR:Quay:8200,NSR:Quay:8200,Frogner stadion,59.927394,10.713051,tram,tram
+NSR:Quay:10426,NSR:Quay:10426,Mortensrud T,59.849831,10.828853,bus,bus
+NSR:Quay:10481,NSR:Quay:10481,Dalsåsen,59.849922,10.835953,bus,bus
+NSR:Quay:10472,NSR:Quay:10472,Mortensrudkrysset,59.849548,10.836208,bus,bus
+NSR:Quay:12364,NSR:Quay:12364,Leirskallen,59.862348,10.827174,bus,bus
+NSR:Quay:12360,NSR:Quay:12360,Øgården,59.862088,10.82348,bus,bus
+NSR:Quay:12358,NSR:Quay:12358,Munkerudkleiva,59.861451,10.819822,bus,bus
+NSR:Quay:12340,NSR:Quay:12340,Nordstrandhallen,59.864209,10.809415,bus,bus
+NSR:Quay:12343,NSR:Quay:12343,Freidigveien,59.865828,10.809367,bus,bus
+NSR:Quay:12347,NSR:Quay:12347,Bakkerudveien,59.868998,10.807985,bus,bus
+NSR:Quay:10653,NSR:Quay:10653,Lambertseterveien,59.871247,10.807175,bus,bus
+NSR:Quay:10663,NSR:Quay:10663,Mylskerudveien,59.875218,10.805231,bus,bus
+NSR:Quay:12287,NSR:Quay:12287,Karlsrud,59.879775,10.801036,bus,bus
+NSR:Quay:12290,NSR:Quay:12290,Skogholtveien,59.879847,10.796283,bus,bus
+NSR:Quay:12228,NSR:Quay:12228,Åsliveien,59.879678,10.79098,bus,bus
+NSR:Quay:12224,NSR:Quay:12224,Holtet,59.881594,10.787053,bus,bus
+NSR:Quay:12233,NSR:Quay:12233,Bekkelagshjemmet,59.885224,10.785318,bus,bus
+NSR:Quay:12159,NSR:Quay:12159,Ekeberghallen,59.891132,10.780774,bus,bus
+NSR:Quay:12167,NSR:Quay:12167,Ekeberg camping,59.897505,10.775869,bus,bus
+NSR:Quay:122003,NSR:Quay:122003,Jernbanetorget,59.909803,10.748062,bus,bus
+NSR:Quay:11819,NSR:Quay:11819,Skøyen stasjon,59.92208,10.680596,bus,bus
+NSR:Quay:11845,NSR:Quay:11845,Thune,59.921854,10.687551,bus,bus
+NSR:Quay:7821,NSR:Quay:7821,Odins gate,59.919471,10.703723,bus,bus
+NSR:Quay:8160,NSR:Quay:8160,Frogner plass,59.921915,10.704946,bus,bus
+NSR:Quay:8181,NSR:Quay:8181,Vigelandsparken,59.924676,10.708575,bus,bus
+NSR:Quay:8210,NSR:Quay:8210,Frogner stadion,59.927204,10.712748,bus,bus
+NSR:Quay:8042,NSR:Quay:8042,Majorstuen,59.929505,10.717431,bus,bus
+NSR:Quay:11893,NSR:Quay:11893,Helgesens gate,59.921317,10.775067,bus,bus
+NSR:Quay:11925,NSR:Quay:11925,Tøyenparken,59.916586,10.77603,bus,bus
+NSR:Quay:11908,NSR:Quay:11908,Tøyen,59.914559,10.776778,bus,bus
+NSR:Quay:12091,NSR:Quay:12091,Kjølberggata,59.910047,10.77729,bus,bus
+NSR:Quay:12070,NSR:Quay:12070,Galgeberg,59.908206,10.780844,bus,bus
+NSR:Quay:10988,NSR:Quay:10988,Bjerke,59.942258,10.808742,bus,bus
+NSR:Quay:11008,NSR:Quay:11008,Årvoll senter,59.945377,10.808857,bus,bus
+NSR:Quay:11011,NSR:Quay:11011,Årvollveien,59.946175,10.812014,bus,bus
+NSR:Quay:11034,NSR:Quay:11034,Stig,59.947137,10.817869,bus,bus
+NSR:Quay:11029,NSR:Quay:11029,Tonsenhagen torg,59.947243,10.822493,bus,bus
+NSR:Quay:11024,NSR:Quay:11024,Tonsenhagen,59.946015,10.828322,bus,bus
+NSR:Quay:10968,NSR:Quay:10968,Kolåsbakken,59.944374,10.832034,bus,bus
+NSR:Quay:10959,NSR:Quay:10959,Linderud senter,59.94369,10.836685,bus,bus
+NSR:Quay:10665,NSR:Quay:10665,Kalbakkveien,59.951317,10.865626,bus,bus
+NSR:Quay:10723,NSR:Quay:10723,Grorud T,59.96096,10.883554,bus,bus
+NSR:Quay:11761,NSR:Quay:11761,Nordpolen skole,59.940052,10.772827,bus,bus
+NSR:Quay:11774,NSR:Quay:11774,Sinsen T,59.938823,10.779695,bus,bus
+NSR:Quay:10989,NSR:Quay:10989,Refstadsvingen,59.941705,10.816888,bus,bus
+NSR:Quay:10996,NSR:Quay:10996,Bjerkedalen park,59.940336,10.822011,bus,bus
+NSR:Quay:10901,NSR:Quay:10901,Økernbråten,59.939353,10.825117,bus,bus
+NSR:Quay:10888,NSR:Quay:10888,Vollebekkveien,59.937487,10.825414,bus,bus
+NSR:Quay:10921,NSR:Quay:10921,Nedre Vollebekk,59.933549,10.827477,bus,bus
+NSR:Quay:10256,NSR:Quay:10256,Nordre Hovin,59.931198,10.828346,bus,bus
+NSR:Quay:110926,NSR:Quay:110926,Knud Bryns vei,59.928359,10.823759,bus,bus
+NSR:Quay:11302,NSR:Quay:11302,Nåkkves vei,59.91827,10.846,bus,bus
+NSR:Quay:111211,NSR:Quay:111211,Persveien,59.923587,10.816394,bus,bus
+NSR:Quay:10356,NSR:Quay:10356,Sam Eydes vei,59.936923,10.880705,bus,bus
+NSR:Quay:10352,NSR:Quay:10352,IKEA Furuset,59.934856,10.871556,bus,bus
+NSR:Quay:10385,NSR:Quay:10385,Kjelsrud,59.932572,10.861337,bus,bus
+NSR:Quay:10972,NSR:Quay:10972,Haraldrudveien,59.924545,10.82565,bus,bus
+NSR:Quay:7357,NSR:Quay:7357,Nationaltheatret,59.914705,10.732822,tram,tram
+NSR:Quay:10331,NSR:Quay:10331,Ellingsrudåsen,59.936569,10.915597,metro,metro
+NSR:Quay:10305,NSR:Quay:10305,Furuset,59.94132,10.896901,metro,metro
+NSR:Quay:10269,NSR:Quay:10269,Lindeberg,59.93313,10.88255,metro,metro
+NSR:Quay:11374,NSR:Quay:11374,Trosterud,59.92721,10.86515,metro,metro
+NSR:Quay:11340,NSR:Quay:11340,Haugerud,59.922216,10.854554,metro,metro
+NSR:Quay:11309,NSR:Quay:11309,Tveita,59.914007,10.842138,metro,metro
+NSR:Quay:11274,NSR:Quay:11274,Hellerud,59.9101,10.82984,metro,metro
+NSR:Quay:11177,NSR:Quay:11177,Brynseng,59.909319,10.812127,metro,metro
+NSR:Quay:7258,NSR:Quay:7258,Stortinget,59.913907,10.743991,metro,metro
+NSR:Quay:8079,NSR:Quay:8079,Majorstuen,59.929528,10.716088,bus,bus
+NSR:Quay:11583,NSR:Quay:11583,Ullevål sykehus,59.936362,10.732071,bus,bus
+NSR:Quay:11629,NSR:Quay:11629,Ullevålsalléen,59.938055,10.730354,bus,bus
+NSR:Quay:11668,NSR:Quay:11668,Eventyrveien,59.94469,10.731795,bus,bus
+NSR:Quay:11301,NSR:Quay:11301,Blindern vgs.,59.951139,10.728905,bus,bus
+NSR:Quay:11308,NSR:Quay:11308,Solvang,59.954084,10.728984,bus,bus
+NSR:Quay:11399,NSR:Quay:11399,Nordbergveien,59.957658,10.732889,bus,bus
+NSR:Quay:11395,NSR:Quay:11395,Kongleveien,59.961406,10.736368,bus,bus
+NSR:Quay:11385,NSR:Quay:11385,Nordberghjemmet,59.961311,10.74479,bus,bus
+NSR:Quay:11377,NSR:Quay:11377,Havnabakken,59.959196,10.75421,bus,bus
+NSR:Quay:11417,NSR:Quay:11417,Korsvollbakken,59.958042,10.762498,bus,bus
+NSR:Quay:11435,NSR:Quay:11435,Svensenga,59.964187,10.770885,bus,bus
+NSR:Quay:11251,NSR:Quay:11251,Kjelsåsalléen,59.963174,10.782885,bus,bus
+NSR:Quay:109372,NSR:Quay:109372,Brannvaktveien,59.952639,10.792901,bus,bus
+NSR:Quay:11275,NSR:Quay:11275,Grefsenlia,59.950592,10.796755,bus,bus
+NSR:Quay:11050,NSR:Quay:11050,Lofthus,59.947136,10.803278,bus,bus
+NSR:Quay:11056,NSR:Quay:11056,Årrundveien,59.945379,10.804783,bus,bus
+NSR:Quay:10379,NSR:Quay:10379,Trosterudkrysset,59.929552,10.865098,bus,bus
+NSR:Quay:11428,NSR:Quay:11428,Brekkehagan,59.965047,10.766653,bus,bus
+NSR:Quay:11154,NSR:Quay:11154,Helsfyr,59.912208,10.800231,bus,bus
+NSR:Quay:11159,NSR:Quay:11159,Etterstad skole,59.910032,10.795489,bus,bus
+NSR:Quay:12043,NSR:Quay:12043,Politihuset,59.910286,10.767924,bus,bus
+NSR:Quay:11938,NSR:Quay:11938,Tøyengata,59.91236,10.764732,bus,bus
+NSR:Quay:109248,NSR:Quay:109248,Historisk museum,59.916904,10.73511,bus,bus
+NSR:Quay:109224,NSR:Quay:109224,Holbergs plass,59.919941,10.735638,bus,bus
+NSR:Quay:11535,NSR:Quay:11535,Stensberggata,59.922607,10.74108,bus,bus
+NSR:Quay:11520,NSR:Quay:11520,St. Hanshaugen,59.924574,10.739951,bus,bus
+NSR:Quay:11545,NSR:Quay:11545,Colletts gate,59.92704,10.738873,bus,bus
+NSR:Quay:11566,NSR:Quay:11566,Lovisenberg,59.930666,10.743006,bus,bus
+NSR:Quay:11573,NSR:Quay:11573,Tannlegehøyskolen,59.932791,10.742228,bus,bus
+NSR:Quay:11604,NSR:Quay:11604,Lindern,59.934375,10.743687,bus,bus
+NSR:Quay:11158,NSR:Quay:11158,Nydalen T,59.948984,10.767771,bus,bus
+NSR:Quay:11936,NSR:Quay:11936,Borgen,59.934406,10.697822,bus,bus
+NSR:Quay:11837,NSR:Quay:11837,Skøyen,59.923102,10.681629,bus,bus
+NSR:Quay:102318,NSR:Quay:102318,Rosenborg,59.924166,10.723745,bus,bus
+NSR:Quay:11078,NSR:Quay:11078,Sinsen,59.93717,10.78174,metro,metro
+NSR:Quay:102017,NSR:Quay:102017,Løren,59.929785,10.790245,metro,metro
+NSR:Quay:11979,NSR:Quay:11979,Oslo bussterminal,59.912057,10.757071,bus,bus
+NSR:Quay:111002,NSR:Quay:111002,Grorud stasjon,59.948535,10.888447,bus,bus
+NSR:Quay:10368,NSR:Quay:10368,Prof. Birkelands vei,59.943475,10.884852,bus,bus
+NSR:Quay:10359,NSR:Quay:10359,Alnaparkveien,59.939275,10.880459,bus,bus
+NSR:Quay:11459,NSR:Quay:11459,Smalvollveien,59.924407,10.842575,bus,bus
+NSR:Quay:11241,NSR:Quay:11241,Ole Deviks vei,59.922352,10.830562,bus,bus
+NSR:Quay:11248,NSR:Quay:11248,Caspar Storms vei,59.919733,10.829749,bus,bus
+NSR:Quay:11254,NSR:Quay:11254,Fretex,59.916887,10.8269,bus,bus
+NSR:Quay:11225,NSR:Quay:11225,Bryn skole,59.913859,10.824406,bus,bus
+NSR:Quay:11220,NSR:Quay:11220,Klosterheim,59.913024,10.821767,bus,bus
+NSR:Quay:11197,NSR:Quay:11197,Bryn brannstasjon,59.912733,10.813806,bus,bus
+NSR:Quay:10418,NSR:Quay:10418,Liakollen,59.829331,10.799327,bus,bus
+NSR:Quay:12446,NSR:Quay:12446,Holmlia stasjon,59.834495,10.797688,bus,bus
+NSR:Quay:11766,NSR:Quay:11766,Haarklous plass,59.938154,10.774168,bus,bus
+NSR:Quay:11747,NSR:Quay:11747,Sæveruds plass,59.935246,10.774852,bus,bus
+NSR:Quay:11856,NSR:Quay:11856,Dælenenga,59.928045,10.766307,bus,bus
+NSR:Quay:11838,NSR:Quay:11838,Birkelunden,59.926824,10.761006,bus,bus
+NSR:Quay:101741,NSR:Quay:101741,Sofienbergparken,59.923184,10.761119,bus,bus
+NSR:Quay:101669,NSR:Quay:101669,Herslebs gate,59.919192,10.762307,bus,bus
+NSR:Quay:7947,NSR:Quay:7947,Langvik,59.901625,10.687597,bus,bus
+NSR:Quay:7937,NSR:Quay:7937,Herbernveien,59.902143,10.695544,bus,bus
+NSR:Quay:7929,NSR:Quay:7929,Bygdøynes,59.903108,10.698428,bus,bus
+NSR:Quay:7936,NSR:Quay:7936,Herbernveien,59.901921,10.694716,bus,bus
+NSR:Quay:7946,NSR:Quay:7946,Langvik,59.901676,10.687565,bus,bus
+NSR:Quay:12435,NSR:Quay:12435,Skovbakken syd,59.837514,10.794537,bus,bus
+NSR:Quay:12437,NSR:Quay:12437,Ravnkroken,59.837189,10.789387,bus,bus
+NSR:Quay:12438,NSR:Quay:12438,Ravnåsen,59.838065,10.786801,bus,bus
+NSR:Quay:12436,NSR:Quay:12436,Ravnkroken,59.836949,10.790441,bus,bus
+NSR:Quay:12402,NSR:Quay:12402,Hauketo stasjon,59.846302,10.803498,bus,bus
+NSR:Quay:10459,NSR:Quay:10459,Bjørnerud,59.843889,10.819068,bus,bus
+NSR:Quay:12423,NSR:Quay:12423,Nebbejordet,59.842992,10.813031,bus,bus
+NSR:Quay:10455,NSR:Quay:10455,Oredalen,59.840299,10.828046,bus,bus
+NSR:Quay:10511,NSR:Quay:10511,Bjørnholt nedre,59.836456,10.834756,bus,bus
+NSR:Quay:10544,NSR:Quay:10544,Langteigåsen,59.818018,10.840011,bus,bus
+NSR:Quay:12150,NSR:Quay:12150,Frognerseteren,59.979131,10.676528,metro,metro
+NSR:Quay:11637,NSR:Quay:11637,Voksenkollen,59.980126,10.665056,metro,metro
+NSR:Quay:11619,NSR:Quay:11619,Lillevann,59.980678,10.652578,metro,metro
+NSR:Quay:11611,NSR:Quay:11611,Skogen,59.9751,10.647431,metro,metro
+NSR:Quay:11610,NSR:Quay:11610,Voksenlia,59.966905,10.654649,metro,metro
+NSR:Quay:11605,NSR:Quay:11605,Holmenkollen,59.960181,10.663055,metro,metro
+NSR:Quay:11594,NSR:Quay:11594,Besserud,59.957712,10.673564,metro,metro
+NSR:Quay:11577,NSR:Quay:11577,Midtstuen,59.961281,10.683016,metro,metro
+NSR:Quay:11571,NSR:Quay:11571,Skådalen,59.961779,10.6907,metro,metro
+NSR:Quay:11567,NSR:Quay:11567,Vettakollen,59.959993,10.695577,metro,metro
+NSR:Quay:11552,NSR:Quay:11552,Gråkammen,59.955033,10.701515,metro,metro
+NSR:Quay:11518,NSR:Quay:11518,Slemdal,59.950812,10.694399,metro,metro
+NSR:Quay:11505,NSR:Quay:11505,Ris,59.948084,10.704321,metro,metro
+NSR:Quay:11478,NSR:Quay:11478,Gaustad,59.94597,10.710203,metro,metro
+NSR:Quay:11460,NSR:Quay:11460,Vinderen,59.942638,10.704779,metro,metro
+NSR:Quay:11449,NSR:Quay:11449,Steinerud,59.939118,10.70424,metro,metro
+NSR:Quay:11439,NSR:Quay:11439,Frøen,59.934569,10.708888,metro,metro
+NSR:Quay:11179,NSR:Quay:11179,Brynseng,59.909136,10.812065,metro,metro
+NSR:Quay:10882,NSR:Quay:10882,Høyenhall,59.906136,10.819487,metro,metro
+NSR:Quay:10850,NSR:Quay:10850,Manglerud,59.898039,10.812736,metro,metro
+NSR:Quay:10818,NSR:Quay:10818,Ryen,59.89573,10.804861,metro,metro
+NSR:Quay:12293,NSR:Quay:12293,Brattlikollen,59.887388,10.800982,metro,metro
+NSR:Quay:12285,NSR:Quay:12285,Karlsrud,59.880442,10.805311,metro,metro
+NSR:Quay:10629,NSR:Quay:10629,Lambertseter,59.873534,10.810166,metro,metro
+NSR:Quay:10666,NSR:Quay:10666,Munkelia,59.868862,10.81258,metro,metro
+NSR:Quay:99833,NSR:Quay:99833,Hjortnes,59.910045,10.71034,"bus,coach service",multimodal
+NSR:Quay:12314,NSR:Quay:12314,Siksakveien,59.854956,10.785431,bus,bus
+NSR:Quay:12378,NSR:Quay:12378,Ingiers vei,59.849272,10.788663,bus,bus
+NSR:Quay:12383,NSR:Quay:12383,Kronveien,59.849997,10.79897,bus,bus
+NSR:Quay:12406,NSR:Quay:12406,Hauketo stasjon,59.845947,10.803125,bus,bus
+NSR:Quay:12415,NSR:Quay:12415,Sveavegen,59.840401,10.804997,bus,bus
+NSR:Quay:12418,NSR:Quay:12418,Lerdal,59.837137,10.806534,bus,bus
+NSR:Quay:12464,NSR:Quay:12464,Prinsdal,59.834115,10.807368,bus,bus
+NSR:Quay:12466,NSR:Quay:12466,Prinsdalsbakken,59.829318,10.808718,bus,bus
+NSR:Quay:12469,NSR:Quay:12469,Trygve Strømbergs vei,59.825835,10.809222,bus,bus
+NSR:Quay:11910,NSR:Quay:11910,Tøyen skole,59.914978,10.773299,bus,bus
+NSR:Quay:11109,NSR:Quay:11109,Ensjø T,59.91482,10.787142,bus,bus
+NSR:Quay:103595,NSR:Quay:103595,Helsfyr T,59.912867,10.801709,bus,bus
+NSR:Quay:11075,NSR:Quay:11075,Hasle,59.924377,10.792265,bus,bus
+NSR:Quay:11740,NSR:Quay:11740,Vogts gate,59.93174,10.763359,bus,bus
+NSR:Quay:11682,NSR:Quay:11682,Vøyenbrua,59.933062,10.758319,bus,bus
+NSR:Quay:11678,NSR:Quay:11678,Arkitekt Rivertz plass,59.934754,10.748607,bus,bus
+NSR:Quay:10985,NSR:Quay:10985,Bjerke,59.942633,10.807513,bus,bus
+NSR:Quay:11329,NSR:Quay:11329,Stordamveien,59.911222,10.847602,bus,bus
+NSR:Quay:11338,NSR:Quay:11338,Postkassene,59.912369,10.851397,bus,bus
+NSR:Quay:11420,NSR:Quay:11420,Rundtjernveien,59.915015,10.850595,bus,bus
+NSR:Quay:11426,NSR:Quay:11426,Hellerud terrasse,59.913258,10.856769,bus,bus
+NSR:Quay:11429,NSR:Quay:11429,Hellerudgrenda,59.912928,10.858996,bus,bus
+NSR:Quay:11433,NSR:Quay:11433,Krokstien,59.910509,10.860066,bus,bus
+NSR:Quay:11436,NSR:Quay:11436,Grankollveien,59.911682,10.860629,bus,bus
+NSR:Quay:11430,NSR:Quay:11430,Hellerudgrenda,59.912867,10.859076,bus,bus
+NSR:Quay:11440,NSR:Quay:11440,Landeroveien,59.916038,10.857051,bus,bus
+NSR:Quay:11357,NSR:Quay:11357,Haugerudveien,59.917513,10.851421,bus,bus
+NSR:Quay:10722,NSR:Quay:10722,Grorud T,59.961041,10.882865,bus,bus
+NSR:Quay:11007,NSR:Quay:11007,Årvoll senter,59.944226,10.807913,bus,bus
+NSR:Quay:11795,NSR:Quay:11795,Fernanda Nissen skole,59.946972,10.769624,bus,bus
+NSR:Quay:11725,NSR:Quay:11725,Kristoffer Aamots bro,59.946979,10.764142,bus,bus
+NSR:Quay:11603,NSR:Quay:11603,Lindern,59.934673,10.743755,bus,bus
+NSR:Quay:11572,NSR:Quay:11572,Tannlegehøyskolen,59.932996,10.742215,bus,bus
+NSR:Quay:11568,NSR:Quay:11568,Lovisenberg,59.9307,10.742765,bus,bus
+NSR:Quay:11544,NSR:Quay:11544,Colletts gate,59.927028,10.738581,bus,bus
+NSR:Quay:11519,NSR:Quay:11519,St. Hanshaugen,59.923957,10.739841,bus,bus
+NSR:Quay:11534,NSR:Quay:11534,Stensberggata,59.921978,10.741306,bus,bus
+NSR:Quay:11539,NSR:Quay:11539,Nordahl Bruns gate,59.919226,10.743602,bus,bus
+NSR:Quay:109244,NSR:Quay:109244,Holbergs plass,59.917952,10.736765,bus,bus
+NSR:Quay:104029,NSR:Quay:104029,Oslo bussterminal,59.911109,10.759252,bus,bus
+NSR:Quay:11939,NSR:Quay:11939,Tøyengata,59.912342,10.764292,bus,bus
+NSR:Quay:12044,NSR:Quay:12044,Politihuset,59.910278,10.76772,bus,bus
+NSR:Quay:11160,NSR:Quay:11160,Etterstad skole,59.909126,10.794716,bus,bus
+NSR:Quay:11163,NSR:Quay:11163,Etterstad vest,59.906956,10.796945,bus,bus
+NSR:Quay:11168,NSR:Quay:11168,Etterstad sør,59.907586,10.801932,bus,bus
+NSR:Quay:11173,NSR:Quay:11173,Etterstadkroken,59.909759,10.803758,bus,bus
+NSR:Quay:11152,NSR:Quay:11152,Helsfyr,59.912163,10.800837,bus,bus
+NSR:Quay:10508,NSR:Quay:10508,Vestli,59.972726,10.929592,metro,metro
+NSR:Quay:10488,NSR:Quay:10488,Stovner,59.96226,10.92333,metro,metro
+NSR:Quay:10462,NSR:Quay:10462,Rommen,59.96213,10.909467,metro,metro
+NSR:Quay:10602,NSR:Quay:10602,Romsås,59.962567,10.892678,metro,metro
+NSR:Quay:10719,NSR:Quay:10719,Grorud,59.96146,10.88078,metro,metro
+NSR:Quay:10692,NSR:Quay:10692,Ammerud,59.958295,10.871929,metro,metro
+NSR:Quay:10652,NSR:Quay:10652,Kalbakken,59.95458,10.86673,metro,metro
+NSR:Quay:10640,NSR:Quay:10640,Rødtvet,59.951423,10.859253,metro,metro
+NSR:Quay:10939,NSR:Quay:10939,Veitvet,59.944578,10.846936,metro,metro
+NSR:Quay:10905,NSR:Quay:10905,Linderud,59.941019,10.838461,metro,metro
+NSR:Quay:10885,NSR:Quay:10885,Vollebekk,59.935935,10.831052,metro,metro
+NSR:Quay:10861,NSR:Quay:10861,Risløkka,59.932513,10.822957,metro,metro
+NSR:Quay:10825,NSR:Quay:10825,Økern,59.928281,10.806073,metro,metro
+NSR:Quay:102018,NSR:Quay:102018,Løren,59.929861,10.790361,metro,metro
+NSR:Quay:10682,NSR:Quay:10682,Bergkrystallen,59.867117,10.82174,metro,metro
+NSR:Quay:10976,NSR:Quay:10976,Persveien,59.922682,10.816373,bus,bus
+NSR:Quay:106157,NSR:Quay:106157,Ulvenkrysset,59.919633,10.817159,bus,bus
+NSR:Quay:104027,NSR:Quay:104027,Munkegata,59.908087,10.76775,bus,bus
+NSR:Quay:104024,NSR:Quay:104024,St. Halvards plass,59.905996,10.767758,bus,bus
+NSR:Quay:12110,NSR:Quay:12110,Lodalen,59.90329,10.77854,bus,bus
+NSR:Quay:12106,NSR:Quay:12106,Kværner,59.901899,10.78833,bus,bus
+NSR:Quay:12165,NSR:Quay:12165,Ekeberg camping,59.897698,10.775464,bus,bus
+NSR:Quay:12158,NSR:Quay:12158,Ekeberghallen,59.891219,10.780565,bus,bus
+NSR:Quay:12234,NSR:Quay:12234,Bekkelagshjemmet,59.88582,10.784712,bus,bus
+NSR:Quay:12225,NSR:Quay:12225,Holtet,59.881156,10.787061,bus,bus
+NSR:Quay:12227,NSR:Quay:12227,Åsliveien,59.879629,10.789993,bus,bus
+NSR:Quay:12289,NSR:Quay:12289,Skogholtveien,59.879823,10.796591,bus,bus
+NSR:Quay:12288,NSR:Quay:12288,Karlsrud,59.879834,10.800548,bus,bus
+NSR:Quay:10662,NSR:Quay:10662,Mylskerudveien,59.874693,10.805418,bus,bus
+NSR:Quay:10654,NSR:Quay:10654,Lambertseterveien,59.87129,10.806974,bus,bus
+NSR:Quay:12346,NSR:Quay:12346,Bakkerudveien,59.869274,10.807744,bus,bus
+NSR:Quay:12342,NSR:Quay:12342,Freidigveien,59.865822,10.8092,bus,bus
+NSR:Quay:12341,NSR:Quay:12341,Nordstrandhallen,59.86417,10.809208,bus,bus
+NSR:Quay:12359,NSR:Quay:12359,Munkerudkleiva,59.861471,10.82016,bus,bus
+NSR:Quay:12361,NSR:Quay:12361,Øgården,59.862003,10.823515,bus,bus
+NSR:Quay:12365,NSR:Quay:12365,Leirskallen,59.862275,10.827517,bus,bus
+NSR:Quay:7224,NSR:Quay:7224,Jernbanetorget,59.909736,10.749435,bus,bus
+NSR:Quay:109652,NSR:Quay:109652,Majorstuen,59.929419,10.713794,bus,bus
+NSR:Quay:109020,NSR:Quay:109020,Majorstuen,59.928152,10.716369,bus,bus
+NSR:Quay:11318,NSR:Quay:11318,Tveita,59.913191,10.840864,bus,bus
+NSR:Quay:11282,NSR:Quay:11282,Tveten gård,59.911158,10.836615,bus,bus
+NSR:Quay:11277,NSR:Quay:11277,Hellerud,59.910532,10.831758,bus,bus
+NSR:Quay:7373,NSR:Quay:7373,Nationaltheatret,59.91419,10.731347,bus,bus
+NSR:Quay:102096,NSR:Quay:102096,Nationaltheatret,59.91522,10.730601,bus,bus
+NSR:Quay:11971,NSR:Quay:11971,Oslo bussterminal,59.911593,10.758891,bus,bus
+NSR:Quay:11758,NSR:Quay:11758,Sandaker senter,59.93937,10.76927,bus,bus
+NSR:Quay:104016,NSR:Quay:104016,Grefsenveien,59.942798,10.773586,bus,bus
+NSR:Quay:104014,NSR:Quay:104014,Disen,59.946292,10.787783,bus,bus
+NSR:Quay:104012,NSR:Quay:104012,Doktor Smiths vei,59.950127,10.790122,bus,bus
+NSR:Quay:104010,NSR:Quay:104010,Glads vei,59.952338,10.785401,bus,bus
+NSR:Quay:111019,NSR:Quay:111019,Kjelsåsalléen,59.963193,10.784325,bus,bus
+NSR:Quay:11944,NSR:Quay:11944,Smestad,59.937218,10.683957,metro,metro
+NSR:Quay:11933,NSR:Quay:11933,Borgen,59.934586,10.695566,metro,metro
+NSR:Quay:11171,NSR:Quay:11171,Disen,59.945879,10.786966,tram,tram
+NSR:Quay:11824,NSR:Quay:11824,Skøyen stasjon,59.922905,10.67847,bus,bus
+NSR:Quay:11854,NSR:Quay:11854,Hoff,59.92552,10.675302,bus,bus
+NSR:Quay:11859,NSR:Quay:11859,Hoff terrasse,59.927798,10.675444,bus,bus
+NSR:Quay:11864,NSR:Quay:11864,Jarlsborgveien,59.930633,10.675841,bus,bus
+NSR:Quay:11868,NSR:Quay:11868,Smestaddammen,59.934471,10.679325,bus,bus
+NSR:Quay:110586,NSR:Quay:110586,Rikshospitalet,59.949408,10.717772,bus,bus
+NSR:Quay:102125,NSR:Quay:102125,Gaustadveien,59.95399,10.717995,bus,bus
+NSR:Quay:101973,NSR:Quay:101973,Øvre Sogn,59.956267,10.722227,bus,bus
+NSR:Quay:102699,NSR:Quay:102699,Seterbråten,59.833007,10.827826,bus,bus
+NSR:Quay:106017,NSR:Quay:106017,Sommerro,59.829164,10.830435,bus,bus
+NSR:Quay:10519,NSR:Quay:10519,Mina Beiteplukks vei,59.831912,10.835164,bus,bus
+NSR:Quay:10523,NSR:Quay:10523,Nyjordet,59.831167,10.837632,bus,bus
+NSR:Quay:10549,NSR:Quay:10549,Bjørnholt skole,59.83432,10.838302,bus,bus
+NSR:Quay:10515,NSR:Quay:10515,Bjørnholt øvre,59.836699,10.833882,bus,bus
+NSR:Quay:10449,NSR:Quay:10449,Blakkens vei,59.84229,10.831358,bus,bus
+NSR:Quay:10445,NSR:Quay:10445,Brunas vei,59.844637,10.829591,bus,bus
+NSR:Quay:10442,NSR:Quay:10442,Lofsrudhøgda,59.847547,10.828713,bus,bus
+NSR:Quay:11792,NSR:Quay:11792,Bogstad Camping,59.962061,10.642287,bus,bus
+NSR:Quay:11797,NSR:Quay:11797,Peder Ankers plass,59.961023,10.640846,bus,bus
+NSR:Quay:11767,NSR:Quay:11767,Linhusveien,59.957652,10.641589,bus,bus
+NSR:Quay:11771,NSR:Quay:11771,Vennerstua,59.954535,10.64351,bus,bus
+NSR:Quay:11745,NSR:Quay:11745,Røa kirke,59.949419,10.643931,bus,bus
+NSR:Quay:10726,NSR:Quay:10726,Grorud T,59.960944,10.882871,bus,bus
+NSR:Quay:10606,NSR:Quay:10606,Tiurleiken,59.963043,10.890227,bus,bus
+NSR:Quay:10615,NSR:Quay:10615,Ravnkollen,59.9652,10.889554,bus,bus
+NSR:Quay:10618,NSR:Quay:10618,Ravnkollbakken,59.967025,10.890144,bus,bus
+NSR:Quay:10622,NSR:Quay:10622,Romsås kirke,59.968406,10.890474,bus,bus
+NSR:Quay:10625,NSR:Quay:10625,Røverkollen,59.971787,10.899371,bus,bus
+NSR:Quay:10628,NSR:Quay:10628,Øvre Svarttjern,59.971854,10.9044,bus,bus
+NSR:Quay:10634,NSR:Quay:10634,Svarttjern,59.969336,10.905561,bus,bus
+NSR:Quay:10638,NSR:Quay:10638,Emanuelfjell,59.966845,10.900342,bus,bus
+NSR:Quay:10607,NSR:Quay:10607,Romsås senter,59.96465,10.895254,bus,bus
+NSR:Quay:10609,NSR:Quay:10609,Orremyr,59.965169,10.898354,bus,bus
+NSR:Quay:10612,NSR:Quay:10612,Gangtunnelen,59.962232,10.896836,bus,bus
+NSR:Quay:11990,NSR:Quay:11990,Oslo bussterminal,59.9121,10.757236,bus,bus
+NSR:Quay:11143,NSR:Quay:11143,Helsfyr T,59.913117,10.802253,bus,bus
+NSR:Quay:11065,NSR:Quay:11065,Hasle,59.924402,10.794682,metro,metro
+NSR:Quay:11027,NSR:Quay:11027,Carl Berners plass,59.925981,10.7796,metro,metro
+NSR:Quay:11898,NSR:Quay:11898,Tøyen,59.915897,10.775802,metro,metro
+NSR:Quay:11635,NSR:Quay:11635,Blindern,59.94019,10.716259,metro,metro
+NSR:Quay:11654,NSR:Quay:11654,Forskningsparken,59.943674,10.720934,metro,metro
+NSR:Quay:11289,NSR:Quay:11289,Ullevål stadion,59.946754,10.732194,metro,metro
+NSR:Quay:11153,NSR:Quay:11153,Nydalen,59.949433,10.765322,metro,metro
+NSR:Quay:11117,NSR:Quay:11117,Storo,59.94481,10.778368,metro,metro
+NSR:Quay:11319,NSR:Quay:11319,Berg,59.951188,10.744801,metro,metro
+NSR:Quay:11341,NSR:Quay:11341,Tåsen,59.953702,10.752437,metro,metro
+NSR:Quay:11371,NSR:Quay:11371,Østhorn,59.956718,10.75016,metro,metro
+NSR:Quay:11388,NSR:Quay:11388,Holstein,59.960608,10.740453,metro,metro
+NSR:Quay:11401,NSR:Quay:11401,Kringsjå,59.963711,10.735008,metro,metro
+NSR:Quay:11749,NSR:Quay:11749,Ekraveien,59.95068,10.636254,metro,metro
+NSR:Quay:11729,NSR:Quay:11729,Røa,59.946692,10.644234,metro,metro
+NSR:Quay:11687,NSR:Quay:11687,Hovseter,59.946353,10.655161,metro,metro
+NSR:Quay:11670,NSR:Quay:11670,Holmen,59.945983,10.667354,metro,metro
+NSR:Quay:11644,NSR:Quay:11644,Makrellbekken,59.941889,10.673706,metro,metro
+NSR:Quay:104017,NSR:Quay:104017,Torshov,59.934504,10.764373,bus,bus
+NSR:Quay:104020,NSR:Quay:104020,Biermanns gate,59.930655,10.761122,bus,bus
+NSR:Quay:106762,NSR:Quay:106762,Nybrua,59.916828,10.757942,bus,bus
+NSR:Quay:104033,NSR:Quay:104033,Niels Juels gate,59.916358,10.71531,bus,bus
+NSR:Quay:104036,NSR:Quay:104036,Lille Frogner allé,59.918001,10.71218,bus,bus
+NSR:Quay:104039,NSR:Quay:104039,Elisenberg,59.919585,10.708666,bus,bus
+NSR:Quay:104043,NSR:Quay:104043,Frogner plass,59.921735,10.705651,bus,bus
+NSR:Quay:102319,NSR:Quay:102319,Majorstuen,59.929088,10.71591,bus,bus
+NSR:Quay:109118,NSR:Quay:109118,Holbergs plass,59.917663,10.732852,bus,bus
+NSR:Quay:102124,NSR:Quay:102124,Øvre Sogn,59.956184,10.721994,bus,bus
+NSR:Quay:102126,NSR:Quay:102126,Gaustadveien,59.953957,10.717764,bus,bus
+NSR:Quay:110567,NSR:Quay:110567,Rikshospitalet,59.947825,10.718869,bus,bus
+NSR:Quay:11869,NSR:Quay:11869,Smestaddammen,59.93445,10.67858,bus,bus
+NSR:Quay:11865,NSR:Quay:11865,Jarlsborgveien,59.930095,10.67601,bus,bus
+NSR:Quay:11858,NSR:Quay:11858,Hoff terrasse,59.927829,10.675246,bus,bus
+NSR:Quay:11855,NSR:Quay:11855,Hoff,59.925246,10.675235,bus,bus
+NSR:Quay:107539,NSR:Quay:107539,Skøyen stasjon,59.92277,10.678523,bus,bus
+NSR:Quay:7764,NSR:Quay:7764,Skillebekk,59.912849,10.710892,tram,tram
+NSR:Quay:7771,NSR:Quay:7771,Skarpsno,59.91436,10.702427,tram,tram
+NSR:Quay:7780,NSR:Quay:7780,Nobels gate,59.917708,10.69817,tram,tram
+NSR:Quay:11841,NSR:Quay:11841,Thune,59.922003,10.687388,tram,tram
+NSR:Quay:11834,NSR:Quay:11834,Skøyen,59.923837,10.68061,tram,tram
+NSR:Quay:11851,NSR:Quay:11851,Hoff,59.925047,10.674757,tram,tram
+NSR:Quay:11871,NSR:Quay:11871,Abbediengen,59.92516,10.666955,tram,tram
+NSR:Quay:11875,NSR:Quay:11875,Ullern,59.924443,10.659037,tram,tram
+NSR:Quay:11884,NSR:Quay:11884,Furulund,59.920245,10.650097,tram,tram
+NSR:Quay:11896,NSR:Quay:11896,Sollerud,59.921017,10.643158,tram,tram
+NSR:Quay:11901,NSR:Quay:11901,Lilleaker,59.920865,10.635063,tram,tram
+NSR:Quay:11746,NSR:Quay:11746,Røa kirke,59.950326,10.644609,bus,bus
+NSR:Quay:11772,NSR:Quay:11772,Vennerstua,59.954453,10.643676,bus,bus
+NSR:Quay:11765,NSR:Quay:11765,Linhusveien,59.957865,10.641656,bus,bus
+NSR:Quay:11798,NSR:Quay:11798,Peder Ankers plass,59.960568,10.641117,bus,bus
+NSR:Quay:11791,NSR:Quay:11791,Bogstad Camping,59.961935,10.641986,bus,bus
+NSR:Quay:12072,NSR:Quay:12072,Bogstad badeplass,59.969801,10.638668,bus,bus
+NSR:Quay:12078,NSR:Quay:12078,Bogstad gård,59.972677,10.629703,bus,bus
+NSR:Quay:12080,NSR:Quay:12080,Strøm,59.978219,10.623034,bus,bus
+NSR:Quay:12086,NSR:Quay:12086,Zinober,59.983185,10.621744,bus,bus
+NSR:Quay:12108,NSR:Quay:12108,Bjørnsgard,59.985827,10.621625,bus,bus
+NSR:Quay:12092,NSR:Quay:12092,Årnes,59.988066,10.6207,bus,bus
+NSR:Quay:12067,NSR:Quay:12067,Wyllerveien,59.99152,10.623305,bus,bus
+NSR:Quay:12095,NSR:Quay:12095,Bakk,59.993475,10.622468,bus,bus
+NSR:Quay:12097,NSR:Quay:12097,Søndre Solberg,59.999304,10.619619,bus,bus
+NSR:Quay:12104,NSR:Quay:12104,Nordre Solberg,60.007879,10.619177,bus,bus
+NSR:Quay:12143,NSR:Quay:12143,Stubberud,60.01315,10.616187,bus,bus
+NSR:Quay:12137,NSR:Quay:12137,Sørkedalen skole,60.016753,10.613276,bus,bus
+NSR:Quay:12132,NSR:Quay:12132,Lokalet,60.016678,10.603172,bus,bus
+NSR:Quay:12130,NSR:Quay:12130,Søndre Venner,60.017323,10.598872,bus,bus
+NSR:Quay:12125,NSR:Quay:12125,Nordre Venner,60.017967,10.594777,bus,bus
+NSR:Quay:12112,NSR:Quay:12112,Vestre Venner,60.017927,10.590788,bus,bus
+NSR:Quay:12121,NSR:Quay:12121,Sandbråten,60.018698,10.585973,bus,bus
+NSR:Quay:12117,NSR:Quay:12117,Skansebakken,60.017837,10.58378,bus,bus
+NSR:Quay:102317,NSR:Quay:102317,Rosenborg,59.924137,10.723834,bus,bus
+NSR:Quay:110711,NSR:Quay:110711,Bislett,59.927158,10.731371,bus,bus
+NSR:Quay:109119,NSR:Quay:109119,Huitfeldts gate,59.915242,10.725796,bus,bus
+NSR:Quay:109539,NSR:Quay:109539,Nationaltheatret,59.914094,10.730319,bus,bus
+NSR:Quay:10895,NSR:Quay:10895,Bryn senter,59.903535,10.822606,bus,bus
+NSR:Quay:10864,NSR:Quay:10864,Traktorveien,59.900378,10.814382,bus,bus
+NSR:Quay:10862,NSR:Quay:10862,Manglerud senter,59.896669,10.813736,bus,bus
+NSR:Quay:10903,NSR:Quay:10903,Manglerud skole,59.894308,10.821056,bus,bus
+NSR:Quay:10909,NSR:Quay:10909,Skuronnveien,59.891792,10.821785,bus,bus
+NSR:Quay:10913,NSR:Quay:10913,Treskeveien,59.889152,10.817926,bus,bus
+NSR:Quay:10929,NSR:Quay:10929,Alléen,59.887786,10.814573,bus,bus
+NSR:Quay:10925,NSR:Quay:10925,Smedberg,59.884032,10.819055,bus,bus
+NSR:Quay:10918,NSR:Quay:10918,Abildsø,59.880039,10.826814,bus,bus
+NSR:Quay:10935,NSR:Quay:10935,Bogerudmyra,59.882158,10.834298,bus,bus
+NSR:Quay:10734,NSR:Quay:10734,Jøranstien,59.887873,10.835596,bus,bus
+NSR:Quay:10731,NSR:Quay:10731,Østbyveien,59.888697,10.84356,bus,bus
+NSR:Quay:10721,NSR:Quay:10721,Ulsrud T,59.889635,10.849313,bus,bus
+NSR:Quay:10737,NSR:Quay:10737,Ulsrudveien,59.892528,10.84879,bus,bus
+NSR:Quay:11000,NSR:Quay:11000,Oppsal senter,59.893043,10.840655,bus,bus
+NSR:Quay:11004,NSR:Quay:11004,Løypeveien,59.896345,10.841773,bus,bus
+NSR:Quay:10971,NSR:Quay:10971,Skøyenåsveien,59.89906,10.840982,bus,bus
+NSR:Quay:108604,NSR:Quay:108604,Formerveien,59.900706,10.843948,bus,bus
+NSR:Quay:10975,NSR:Quay:10975,Skøyenlia,59.902075,10.841081,bus,bus
+NSR:Quay:10970,NSR:Quay:10970,Skøyenåsveien,59.899151,10.840816,bus,bus
+NSR:Quay:10962,NSR:Quay:10962,Skøyenkroken,59.897893,10.837959,bus,bus
+NSR:Quay:10957,NSR:Quay:10957,Skøyenåsen T,59.900597,10.835929,bus,bus
+NSR:Quay:10986,NSR:Quay:10986,Østensjø skole,59.89897,10.831972,bus,bus
+NSR:Quay:10899,NSR:Quay:10899,Rognerud,59.902106,10.825578,bus,bus
+NSR:Quay:10896,NSR:Quay:10896,Bryn senter,59.903535,10.822496,bus,bus
+NSR:Quay:109651,NSR:Quay:109651,Majorstuen,59.92994,10.713384,bus,bus
+NSR:Quay:12028,NSR:Quay:12028,Åsjordet T,59.92848,10.646192,bus,bus
+NSR:Quay:11976,NSR:Quay:11976,Oslo bussterminal,59.911671,10.758415,bus,bus
+NSR:Quay:12440,NSR:Quay:12440,Sloreåsen,59.842065,10.794993,bus,bus
+NSR:Quay:10564,NSR:Quay:10564,Klemetsrud skole,59.834278,10.843318,bus,bus
+NSR:Quay:10567,NSR:Quay:10567,Maurtuveien,59.83231,10.852443,bus,bus
+NSR:Quay:10574,NSR:Quay:10574,Godheim,59.832816,10.85958,bus,bus
+NSR:Quay:10579,NSR:Quay:10579,Store Stensrud,59.828303,10.866586,bus,bus
+NSR:Quay:10582,NSR:Quay:10582,Hanåveien,59.823591,10.872906,bus,bus
+NSR:Quay:10588,NSR:Quay:10588,Lille Stensrud,59.819708,10.877001,bus,bus
+NSR:Quay:10591,NSR:Quay:10591,Sværsvann bru,59.818157,10.888355,bus,bus
+NSR:Quay:11104,NSR:Quay:11104,Grefsen stasjon,59.941726,10.781708,tram,tram
+NSR:Quay:11722,NSR:Quay:11722,Ullerntoppen,59.938718,10.648225,bus,bus
+NSR:Quay:11716,NSR:Quay:11716,Aslakveien,59.94266,10.647136,bus,bus
+NSR:Quay:11711,NSR:Quay:11711,Ostadalsveien,59.945796,10.648013,bus,bus
+NSR:Quay:11691,NSR:Quay:11691,Hovseter,59.946709,10.657591,bus,bus
+NSR:Quay:11697,NSR:Quay:11697,Hovseter skole,59.949517,10.656623,bus,bus
+NSR:Quay:11701,NSR:Quay:11701,Orebakken,59.952903,10.656588,bus,bus
+NSR:Quay:11589,NSR:Quay:11589,Ryghs vei,59.956162,10.662242,bus,bus
+NSR:Quay:11584,NSR:Quay:11584,Krags vei,59.95481,10.666035,bus,bus
+NSR:Quay:11580,NSR:Quay:11580,Lybekkveien,59.95231,10.673867,bus,bus
+NSR:Quay:11546,NSR:Quay:11546,Holmenhavna,59.95069,10.680621,bus,bus
+NSR:Quay:108250,NSR:Quay:108250,Bjørnveien,59.946447,10.685428,bus,bus
+NSR:Quay:11533,NSR:Quay:11533,Tråkka,59.945436,10.689826,bus,bus
+NSR:Quay:11530,NSR:Quay:11530,Grimelundsveien,59.944763,10.692937,bus,bus
+NSR:Quay:11472,NSR:Quay:11472,Viggo Hansteens vei,59.943309,10.698642,bus,bus
+NSR:Quay:11466,NSR:Quay:11466,Vinderen T,59.942638,10.704082,bus,bus
+NSR:Quay:11443,NSR:Quay:11443,Frøensalléen,59.935337,10.709776,bus,bus
+NSR:Quay:8077,NSR:Quay:8077,Majorstuen,59.930466,10.714686,bus,bus
+NSR:Quay:10787,NSR:Quay:10787,Skullerud,59.866537,10.840169,metro,metro
+NSR:Quay:10769,NSR:Quay:10769,Bogerud,59.87606,10.842143,metro,metro
+NSR:Quay:10750,NSR:Quay:10750,Bøler,59.884197,10.84541,metro,metro
+NSR:Quay:10717,NSR:Quay:10717,Ulsrud,59.889448,10.849712,metro,metro
+NSR:Quay:10995,NSR:Quay:10995,Oppsal,59.892932,10.840062,metro,metro
+NSR:Quay:10953,NSR:Quay:10953,Skøyenåsen,59.899,10.83672,metro,metro
+NSR:Quay:10949,NSR:Quay:10949,Godlia,59.907151,10.835993,metro,metro
+NSR:Quay:12053,NSR:Quay:12053,Sørenga,59.90387,10.758823,bus,bus
+NSR:Quay:12057,NSR:Quay:12057,Loelva,59.895488,10.755953,bus,bus
+NSR:Quay:12259,NSR:Quay:12259,Ormsundbakken,59.881685,10.770043,bus,bus
+NSR:Quay:12253,NSR:Quay:12253,Mailand,59.880053,10.765279,bus,bus
+NSR:Quay:12248,NSR:Quay:12248,Kirkebakken,59.878282,10.764056,bus,bus
+NSR:Quay:12244,NSR:Quay:12244,Malmøysundet,59.874639,10.759821,bus,bus
+NSR:Quay:12240,NSR:Quay:12240,Malmøya,59.873332,10.75811,bus,bus
+NSR:Quay:12243,NSR:Quay:12243,Malmøysundet,59.874615,10.76003,bus,bus
+NSR:Quay:12247,NSR:Quay:12247,Kirkebakken,59.878419,10.764289,bus,bus
+NSR:Quay:12254,NSR:Quay:12254,Mailand,59.880079,10.765454,bus,bus
+NSR:Quay:12258,NSR:Quay:12258,Ormsundbakken,59.881709,10.770324,bus,bus
+NSR:Quay:12214,NSR:Quay:12214,Ulvøya,59.870342,10.77349,bus,bus
+NSR:Quay:10430,NSR:Quay:10430,Mortensrud T,59.849466,10.829304,bus,bus
+NSR:Quay:10520,NSR:Quay:10520,Mina Beiteplukks vei,59.831699,10.834083,bus,bus
+NSR:Quay:106018,NSR:Quay:106018,Sommerro,59.82931,10.830309,bus,bus
+NSR:Quay:10708,NSR:Quay:10708,Seterbråten,59.833174,10.827909,bus,bus
+NSR:Quay:109233,NSR:Quay:109233,Nationaltheatret,59.913851,10.73412,bus,bus
+NSR:Quay:12115,NSR:Quay:12115,Eirik Raudes vei,59.90226,10.79477,bus,bus
+NSR:Quay:10874,NSR:Quay:10874,Furuveien,59.903009,10.802203,bus,bus
+NSR:Quay:10867,NSR:Quay:10867,Manglerudveien,59.899814,10.803385,bus,bus
+NSR:Quay:10837,NSR:Quay:10837,Ryenberget,59.897521,10.802551,bus,bus
+NSR:Quay:10833,NSR:Quay:10833,Ryen T,59.895921,10.802538,bus,bus
+NSR:Quay:10839,NSR:Quay:10839,Ryensvingen,59.894316,10.806011,bus,bus
+NSR:Quay:10847,NSR:Quay:10847,Sandstuveien,59.891114,10.809833,bus,bus
+NSR:Quay:10796,NSR:Quay:10796,Skullerud,59.866297,10.83981,bus,bus
+NSR:Quay:11009,NSR:Quay:11009,Vetlandsveien,59.900159,10.846864,bus,bus
+NSR:Quay:10992,NSR:Quay:10992,Oppsal kirke,59.900931,10.841913,bus,bus
+NSR:Quay:11003,NSR:Quay:11003,Løypeveien,59.896345,10.841615,bus,bus
+NSR:Quay:10999,NSR:Quay:10999,Oppsal senter,59.893061,10.840419,bus,bus
+NSR:Quay:10738,NSR:Quay:10738,Ulsrudveien,59.892433,10.848852,bus,bus
+NSR:Quay:10753,NSR:Quay:10753,Bøler T,59.883549,10.843039,bus,bus
+NSR:Quay:8128,NSR:Quay:8128,Homansbyen,59.923525,10.727114,bus,bus
+NSR:Quay:12315,NSR:Quay:12315,Siksakveien,59.854679,10.785492,bus,bus
+NSR:Quay:10537,NSR:Quay:10537,Bjørndal,59.821369,10.839587,bus,bus
+NSR:Quay:10532,NSR:Quay:10532,Meklenborg,59.824292,10.835526,bus,bus
+NSR:Quay:10528,NSR:Quay:10528,Bjørndal senter,59.826313,10.835819,bus,bus
+NSR:Quay:12160,NSR:Quay:12160,Engelsrud,59.973054,10.7643,bus,bus
+NSR:Quay:12163,NSR:Quay:12163,Brennenga,59.977015,10.761369,bus,bus
+NSR:Quay:12168,NSR:Quay:12168,Låkeberget,59.98002,10.757136,bus,bus
+NSR:Quay:12175,NSR:Quay:12175,Skjerven,59.98618,10.752847,bus,bus
+NSR:Quay:12178,NSR:Quay:12178,Saga,59.988601,10.753027,bus,bus
+NSR:Quay:12181,NSR:Quay:12181,Hammeren,59.993982,10.75252,bus,bus
+NSR:Quay:12189,NSR:Quay:12189,Kirkeby,59.996514,10.766264,bus,bus
+NSR:Quay:12192,NSR:Quay:12192,Maridalen kirke,59.999759,10.771987,bus,bus
+NSR:Quay:12194,NSR:Quay:12194,Velhuset,60.004892,10.773924,bus,bus
+NSR:Quay:12196,NSR:Quay:12196,Hauger,60.008312,10.776156,bus,bus
+NSR:Quay:12201,NSR:Quay:12201,Turterfaret,60.01343,10.77909,bus,bus
+NSR:Quay:12203,NSR:Quay:12203,Brodin,60.016185,10.78247,bus,bus
+NSR:Quay:12205,NSR:Quay:12205,Sandermosveien,60.019365,10.786509,bus,bus
+NSR:Quay:12229,NSR:Quay:12229,Granum,60.021456,10.785385,bus,bus
+NSR:Quay:12226,NSR:Quay:12226,Øvre Vaggestein,60.024006,10.784385,bus,bus
+NSR:Quay:12208,NSR:Quay:12208,Skar,60.026691,10.779653,bus,bus
+NSR:Quay:12409,NSR:Quay:12409,Hauketo stasjon,59.845743,10.803013,bus,bus
+NSR:Quay:12470,NSR:Quay:12470,Berglyveien,59.828817,10.806585,bus,bus
+NSR:Quay:12473,NSR:Quay:12473,Høgåsveien,59.830515,10.803595,bus,bus
+NSR:Quay:10411,NSR:Quay:10411,Toppåsveien,59.828161,10.803855,bus,bus
+NSR:Quay:7639,NSR:Quay:7639,Vippetangen,59.903186,10.741397,bus,bus
+NSR:Quay:102697,NSR:Quay:102697,Oslo bussterminal,59.911556,10.762023,bus,bus
+NSR:Quay:11942,NSR:Quay:11942,Norbygata,59.912875,10.764593,bus,bus
+NSR:Quay:11950,NSR:Quay:11950,Tøyenkirken,59.91482,10.769246,bus,bus
+NSR:Quay:102997,NSR:Quay:102997,Kampen,59.912295,10.779763,bus,bus
+NSR:Quay:12135,NSR:Quay:12135,Kampen park,59.91441,10.781281,bus,bus
+NSR:Quay:11097,NSR:Quay:11097,Ensjøveien,59.91668,10.78031,bus,bus
+NSR:Quay:11092,NSR:Quay:11092,Tøyen stasjon,59.920186,10.781887,bus,bus
+NSR:Quay:11101,NSR:Quay:11101,Hasle kirke,59.921751,10.78579,bus,bus
+NSR:Quay:11076,NSR:Quay:11076,Hasle,59.92457,10.7934,bus,bus
+NSR:Quay:106830,NSR:Quay:106830,Kabelgata,59.927082,10.811926,bus,bus
+NSR:Quay:10872,NSR:Quay:10872,Nedre Risløkka,59.929806,10.811416,bus,bus
+NSR:Quay:10875,NSR:Quay:10875,Rabbeveien,59.932023,10.813948,bus,bus
+NSR:Quay:10878,NSR:Quay:10878,Anton Tschudis vei,59.935425,10.815552,bus,bus
+NSR:Quay:10894,NSR:Quay:10894,Kroklia,59.937084,10.81961,bus,bus
+NSR:Quay:10898,NSR:Quay:10898,Øvre Risløkka,59.938258,10.823596,bus,bus
+NSR:Quay:10902,NSR:Quay:10902,Økernbråten,59.940025,10.825559,bus,bus
+NSR:Quay:10916,NSR:Quay:10916,Linne hotell,59.939442,10.831023,bus,bus
+NSR:Quay:10911,NSR:Quay:10911,Linderud T,59.941381,10.838632,bus,bus
+NSR:Quay:10946,NSR:Quay:10946,Veitvetstubben,59.943714,10.841288,bus,bus
+NSR:Quay:11818,NSR:Quay:11818,Skøyen stasjon,59.922313,10.679381,bus,bus
+NSR:Quay:12468,NSR:Quay:12468,Trygve Strømbergs vei,59.82576,10.809431,bus,bus
+NSR:Quay:12465,NSR:Quay:12465,Prinsdalsbakken,59.829129,10.808873,bus,bus
+NSR:Quay:12463,NSR:Quay:12463,Prinsdal,59.834247,10.807495,bus,bus
+NSR:Quay:12417,NSR:Quay:12417,Lerdal,59.837161,10.806706,bus,bus
+NSR:Quay:12416,NSR:Quay:12416,Sveavegen,59.839856,10.805424,bus,bus
+NSR:Quay:12382,NSR:Quay:12382,Kronveien,59.850036,10.797973,bus,bus
+NSR:Quay:12379,NSR:Quay:12379,Ingiers vei,59.849381,10.788714,bus,bus
+NSR:Quay:12367,NSR:Quay:12367,Sæter,59.861836,10.799689,bus,bus
+NSR:Quay:12337,NSR:Quay:12337,Skovheim,59.865312,10.796133,bus,bus
+NSR:Quay:12338,NSR:Quay:12338,Bråten,59.867042,10.793823,bus,bus
+NSR:Quay:12324,NSR:Quay:12324,Kastellet,59.870105,10.791412,bus,bus
+NSR:Quay:12320,NSR:Quay:12320,Sørli,59.875478,10.789551,bus,bus
+NSR:Quay:101886,NSR:Quay:101886,Stortorvet,59.913131,10.745198,bus,bus
+NSR:Quay:101887,NSR:Quay:101887,Tinghuset,59.915198,10.741324,bus,bus
+NSR:Quay:102838,NSR:Quay:102838,Tullinløkka,59.916865,10.737178,bus,bus
+NSR:Quay:104059,NSR:Quay:104059,Holbergs plass,59.918788,10.7346,bus,bus
+NSR:Quay:104068,NSR:Quay:104068,Bislett,59.926067,10.731196,bus,bus
+NSR:Quay:104064,NSR:Quay:104064,Stensgata,59.929617,10.733125,bus,bus
+NSR:Quay:11502,NSR:Quay:11502,Adamstuen,59.932635,10.734903,bus,bus
+NSR:Quay:12188,NSR:Quay:12188,Ryenbergveien,59.900866,10.785911,bus,bus
+NSR:Quay:12180,NSR:Quay:12180,Simensbrekka,59.900796,10.782048,bus,bus
+NSR:Quay:12176,NSR:Quay:12176,Utsikten,59.900463,10.778967,bus,bus
+NSR:Quay:12172,NSR:Quay:12172,Brannfjellveien,59.900331,10.77332,bus,bus
+NSR:Quay:10501,NSR:Quay:10501,Tangen,59.847823,10.810472,bus,bus
+NSR:Quay:10498,NSR:Quay:10498,Kantarellen,59.849901,10.813425,bus,bus
+NSR:Quay:10490,NSR:Quay:10490,Kantarellen terrasse,59.849246,10.814927,bus,bus
+NSR:Quay:10486,NSR:Quay:10486,Kantarellen legesenter,59.848748,10.816585,bus,bus
+NSR:Quay:10482,NSR:Quay:10482,Stenbråten,59.849397,10.824532,bus,bus
+NSR:Quay:12156,NSR:Quay:12156,Tryvann,59.987825,10.666566,bus,bus
+NSR:Quay:109823,NSR:Quay:109823,Frognerseteren,59.977753,10.674967,bus,bus
+NSR:Quay:11640,NSR:Quay:11640,Thorleif Haugs vei,59.96998,10.669396,bus,bus
+NSR:Quay:11624,NSR:Quay:11624,Soria Moria,59.97498,10.656738,bus,bus
+NSR:Quay:11628,NSR:Quay:11628,Lysebu,59.979136,10.660936,bus,bus
+NSR:Quay:11631,NSR:Quay:11631,Voksenkollen T,59.980073,10.664071,bus,bus
+NSR:Quay:12157,NSR:Quay:12157,Tryvann,59.987763,10.666925,bus,bus
+NSR:Quay:12389,NSR:Quay:12389,Olasrudveien,59.852739,10.827713,bus,bus
+NSR:Quay:12386,NSR:Quay:12386,Granebakken,59.857215,10.824983,bus,bus
+NSR:Quay:12384,NSR:Quay:12384,Maikollen,59.858433,10.824433,bus,bus
+NSR:Quay:10576,NSR:Quay:10576,Jorines vei,59.953007,10.928304,bus,bus
+NSR:Quay:10570,NSR:Quay:10570,Smiuvegen,59.953011,10.92368,bus,bus
+NSR:Quay:102518,NSR:Quay:102518,Helsfyr T,59.912853,10.80238,bus,bus
+NSR:Quay:11110,NSR:Quay:11110,Ensjø T,59.91499,10.78723,bus,bus
+NSR:Quay:11912,NSR:Quay:11912,Tøyen skole,59.915101,10.773318,bus,bus
+NSR:Quay:10542,NSR:Quay:10542,Langteigåsen,59.817894,10.839925,bus,bus
+NSR:Quay:10510,NSR:Quay:10510,Bjørnholt nedre,59.836298,10.835473,bus,bus
+NSR:Quay:10456,NSR:Quay:10456,Oredalen,59.83979,10.829502,bus,bus
+NSR:Quay:10460,NSR:Quay:10460,Bjørnerud,59.844048,10.819111,bus,bus
+NSR:Quay:12407,NSR:Quay:12407,Hauketo stasjon,59.846345,10.803281,bus,bus
+NSR:Quay:12431,NSR:Quay:12431,Holmlia stasjon,59.834914,10.796653,bus,bus
+NSR:Quay:10991,NSR:Quay:10991,Oppsal kirke,59.900775,10.842041,bus,bus
+NSR:Quay:11010,NSR:Quay:11010,Vetlandsveien,59.900086,10.846781,bus,bus
+NSR:Quay:104177,NSR:Quay:104177,Tveita T,59.913474,10.842189,bus,bus
+NSR:Quay:108486,NSR:Quay:108486,Nåkkves vei,59.918281,10.846167,bus,bus
+NSR:Quay:110927,NSR:Quay:110927,Knud Bryns vei,59.928447,10.823861,bus,bus
+NSR:Quay:10257,NSR:Quay:10257,Nordre Hovin,59.931223,10.828646,bus,bus
+NSR:Quay:10922,NSR:Quay:10922,Nedre Vollebekk,59.933725,10.827517,bus,bus
+NSR:Quay:10889,NSR:Quay:10889,Vollebekkveien,59.936263,10.825911,bus,bus
+NSR:Quay:10993,NSR:Quay:10993,Bjerkedalen park,59.940361,10.82229,bus,bus
+NSR:Quay:10990,NSR:Quay:10990,Refstadsvingen,59.9418,10.816893,bus,bus
+NSR:Quay:10981,NSR:Quay:10981,Travbanen,59.942246,10.811719,bus,bus
+NSR:Quay:11773,NSR:Quay:11773,Sinsen T,59.938925,10.779557,bus,bus
+NSR:Quay:11503,NSR:Quay:11503,Adamstuen,59.932748,10.734117,bus,bus
+NSR:Quay:11620,NSR:Quay:11620,John Colletts plass,59.939943,10.729035,bus,bus
+NSR:Quay:109570,NSR:Quay:109570,Universitetet Blindern,59.940731,10.721143,bus,bus
+NSR:Quay:105728,NSR:Quay:105728,Forskningsparken T,59.944078,10.720741,bus,bus
+NSR:Quay:105731,NSR:Quay:105731,Gaustadalléen,59.945584,10.717439,bus,bus
+NSR:Quay:10431,NSR:Quay:10431,Mortensrud T,59.849305,10.829449,bus,bus
+NSR:Quay:10604,NSR:Quay:10604,Dalssvingen,59.850255,10.837353,bus,bus
+NSR:Quay:10611,NSR:Quay:10611,Dalsroa,59.848275,10.840625,bus,bus
+NSR:Quay:10613,NSR:Quay:10613,Brenna,59.846399,10.84224,bus,bus
+NSR:Quay:10617,NSR:Quay:10617,Bratli,59.844275,10.843659,bus,bus
+NSR:Quay:10623,NSR:Quay:10623,Pasop,59.842368,10.846116,bus,bus
+NSR:Quay:12213,NSR:Quay:12213,Ulvøya,59.870363,10.772939,bus,bus
+NSR:Quay:12058,NSR:Quay:12058,Loelva,59.89554,10.756077,bus,bus
+NSR:Quay:12054,NSR:Quay:12054,Sørenga,59.903761,10.75914,bus,bus
+NSR:Quay:7449,NSR:Quay:7449,Nationaltheatret,59.913224,10.731475,"bus,coach service",multimodal
+NSR:Quay:11255,NSR:Quay:11255,Grefsen stadion,59.960079,10.785659,bus,bus
+NSR:Quay:11268,NSR:Quay:11268,Lyngåsveien,59.956577,10.788424,bus,bus
+NSR:Quay:11272,NSR:Quay:11272,Brannvaktveien,59.953573,10.792308,bus,bus
+NSR:Quay:11679,NSR:Quay:11679,Arkitekt Rivertz plass,59.934085,10.750546,bus,bus
+NSR:Quay:11683,NSR:Quay:11683,Vøyenbrua,59.932886,10.758364,bus,bus
+NSR:Quay:11739,NSR:Quay:11739,Vogts gate,59.931604,10.763251,bus,bus
+NSR:Quay:10691,NSR:Quay:10691,Blåfjellet,59.86952,10.814973,bus,bus
+NSR:Quay:10626,NSR:Quay:10626,Karlsrud T,59.879756,10.805896,bus,bus
+NSR:Quay:12294,NSR:Quay:12294,Brattlikollen T,59.886345,10.799931,bus,bus
+NSR:Quay:10458,NSR:Quay:10458,Høybråten park,59.945862,10.933786,bus,bus
+NSR:Quay:10451,NSR:Quay:10451,Vardeheim,59.944613,10.930353,bus,bus
+NSR:Quay:10448,NSR:Quay:10448,Fjellborg,59.942606,10.932043,bus,bus
+NSR:Quay:10444,NSR:Quay:10444,Granliveien,59.940454,10.928331,bus,bus
+NSR:Quay:10437,NSR:Quay:10437,Karl Andersens vei,59.941656,10.925855,bus,bus
+NSR:Quay:10434,NSR:Quay:10434,Bikuben,59.944358,10.924627,bus,bus
+NSR:Quay:10425,NSR:Quay:10425,Solbakken,59.944409,10.916733,bus,bus
+NSR:Quay:10422,NSR:Quay:10422,Høybråten kirke,59.944211,10.910955,bus,bus
+NSR:Quay:10413,NSR:Quay:10413,Bjørnheim,59.942206,10.912868,bus,bus
+NSR:Quay:10724,NSR:Quay:10724,Grorud T,59.960896,10.882875,bus,bus
+NSR:Quay:10695,NSR:Quay:10695,Ammerud T,59.958161,10.870701,bus,bus
+NSR:Quay:10715,NSR:Quay:10715,Ammerudlunden,59.960724,10.87223,bus,bus
+NSR:Quay:10700,NSR:Quay:10700,Ammerudhellinga,59.962671,10.872514,bus,bus
+NSR:Quay:10705,NSR:Quay:10705,Ammerud skole,59.964454,10.871787,bus,bus
+NSR:Quay:10707,NSR:Quay:10707,Alundamveien,59.966449,10.870261,bus,bus
+NSR:Quay:10709,NSR:Quay:10709,Breisjøgrenda,59.969003,10.871119,bus,bus
+NSR:Quay:10712,NSR:Quay:10712,Huken,59.971602,10.874147,bus,bus
+NSR:Quay:10752,NSR:Quay:10752,Lillomarka barnehage,59.97006,10.876832,bus,bus
+NSR:Quay:10751,NSR:Quay:10751,Skogstad,59.967995,10.881953,bus,bus
+NSR:Quay:10748,NSR:Quay:10748,Hagelundveien,59.965398,10.883471,bus,bus
+NSR:Quay:10743,NSR:Quay:10743,Grorud senter,59.961709,10.882257,bus,bus
+NSR:Quay:105652,NSR:Quay:105652,Makrellbekken,59.941768,10.672539,bus,bus
+NSR:Quay:104060,NSR:Quay:104060,Homansbyen,59.922612,10.726588,bus,bus
+NSR:Quay:104053,NSR:Quay:104053,Bogstadveien,59.926336,10.72143,bus,bus
+NSR:Quay:11648,NSR:Quay:11648,Makrellbekken,59.941879,10.672636,bus,bus
+NSR:Quay:11735,NSR:Quay:11735,Røa T,59.947897,10.642482,bus,bus
+NSR:Quay:11753,NSR:Quay:11753,Ekraveien,59.951782,10.636533,bus,bus
+NSR:Quay:11025,NSR:Quay:11025,Tonsenhagen,59.946393,10.828188,bus,bus
+NSR:Quay:10947,NSR:Quay:10947,Veitvetstubben,59.943701,10.841709,bus,bus
+NSR:Quay:10912,NSR:Quay:10912,Linderud T,59.941408,10.838463,bus,bus
+NSR:Quay:10915,NSR:Quay:10915,Linne hotell,59.939993,10.828089,bus,bus
+NSR:Quay:10897,NSR:Quay:10897,Øvre Risløkka,59.938053,10.823781,bus,bus
+NSR:Quay:10893,NSR:Quay:10893,Kroklia,59.937131,10.819479,bus,bus
+NSR:Quay:10879,NSR:Quay:10879,Lundliveien,59.935918,10.811333,bus,bus
+NSR:Quay:10846,NSR:Quay:10846,Økern aldershjem,59.932511,10.808334,bus,bus
+NSR:Quay:10870,NSR:Quay:10870,Nedre Risløkka,59.930178,10.811808,bus,bus
+NSR:Quay:11102,NSR:Quay:11102,Hasle kirke,59.922137,10.786504,bus,bus
+NSR:Quay:11093,NSR:Quay:11093,Tøyen stasjon,59.919246,10.780503,bus,bus
+NSR:Quay:11096,NSR:Quay:11096,Ensjøveien,59.916872,10.780069,bus,bus
+NSR:Quay:12134,NSR:Quay:12134,Kampen park,59.91484,10.781646,bus,bus
+NSR:Quay:12126,NSR:Quay:12126,Kampen,59.912227,10.779634,bus,bus
+NSR:Quay:11951,NSR:Quay:11951,Tøyenkirken,59.914805,10.769045,bus,bus
+NSR:Quay:11943,NSR:Quay:11943,Norbygata,59.912922,10.764552,bus,bus
+NSR:Quay:102673,NSR:Quay:102673,Oslo bussterminal,59.911558,10.761827,bus,bus
+NSR:Quay:7638,NSR:Quay:7638,Vippetangen,59.903404,10.740485,"bus,coach service",multimodal
+NSR:Quay:11632,NSR:Quay:11632,Voksenkollen T,59.980181,10.663999,bus,bus
+NSR:Quay:11627,NSR:Quay:11627,Lysebu,59.979194,10.660582,bus,bus
+NSR:Quay:11623,NSR:Quay:11623,Soria Moria,59.97516,10.656768,bus,bus
+NSR:Quay:11639,NSR:Quay:11639,Thorleif Haugs vei,59.969916,10.669505,bus,bus
+NSR:Quay:12146,NSR:Quay:12146,Frognerseteren,59.977885,10.675833,bus,bus
+NSR:Quay:12231,NSR:Quay:12231,Solemskogen,59.979269,10.817529,bus,bus
+NSR:Quay:12238,NSR:Quay:12238,Kalland,59.978517,10.814321,bus,bus
+NSR:Quay:12241,NSR:Quay:12241,Linderudkollen,59.976467,10.810926,bus,bus
+NSR:Quay:12245,NSR:Quay:12245,Setervollveien,59.977301,10.807105,bus,bus
+NSR:Quay:12249,NSR:Quay:12249,Kringlevann,59.976455,10.803629,bus,bus
+NSR:Quay:11233,NSR:Quay:11233,Rundhaugen,59.968593,10.79576,bus,bus
+NSR:Quay:11229,NSR:Quay:11229,Rønningen,59.966712,10.7955,bus,bus
+NSR:Quay:11224,NSR:Quay:11224,Heia,59.964913,10.796176,bus,bus
+NSR:Quay:11221,NSR:Quay:11221,Gulldalen,59.962594,10.795846,bus,bus
+NSR:Quay:11218,NSR:Quay:11218,Kirketomta,59.960098,10.797423,bus,bus
+NSR:Quay:11214,NSR:Quay:11214,Trollveiskrysset,59.958386,10.798107,bus,bus
+NSR:Quay:11208,NSR:Quay:11208,Grefsenseteren,59.955343,10.798434,bus,bus
+NSR:Quay:11203,NSR:Quay:11203,Akebakken,59.952541,10.796959,bus,bus
+NSR:Quay:11189,NSR:Quay:11189,Sanatoriet,59.949575,10.792933,bus,bus
+NSR:Quay:11182,NSR:Quay:11182,Aschehougs vei,59.946507,10.792581,bus,bus
+NSR:Quay:11180,NSR:Quay:11180,Nordre Åsen,59.944237,10.786597,bus,bus
+NSR:Quay:11118,NSR:Quay:11118,Storo,59.945465,10.777322,bus,bus
+NSR:Quay:11802,NSR:Quay:11802,Storo senter,59.946477,10.774605,bus,bus
+NSR:Quay:10429,NSR:Quay:10429,Mortensrud T,59.850042,10.828614,bus,bus
+NSR:Quay:10814,NSR:Quay:10814,Skullerudkrysset,59.863437,10.83205,bus,bus
+NSR:Quay:10810,NSR:Quay:10810,Skullerudbakken,59.863948,10.837334,bus,bus
+NSR:Quay:12404,NSR:Quay:12404,Hauketo stasjon,59.845526,10.802878,bus,bus
+NSR:Quay:11345,NSR:Quay:11345,Tåsen senter,59.951991,10.75068,bus,bus
+NSR:Quay:11332,NSR:Quay:11332,Østhellinga,59.947215,10.749393,bus,bus
+NSR:Quay:11337,NSR:Quay:11337,Tåsen allé,59.944156,10.748223,bus,bus
+NSR:Quay:11699,NSR:Quay:11699,Voldsløkka,59.940419,10.750042,bus,bus
+NSR:Quay:11693,NSR:Quay:11693,Sagene,59.937846,10.749832,bus,bus
+NSR:Quay:12166,NSR:Quay:12166,Ekeberg camping,59.898082,10.776486,bus,bus
+NSR:Quay:12282,NSR:Quay:12282,Ekeberg hageby,59.897467,10.781214,bus,bus
+NSR:Quay:12265,NSR:Quay:12265,Simensbråten,59.895234,10.786713,bus,bus
+NSR:Quay:111029,NSR:Quay:111029,Fjellstuveien,59.950537,10.938571,bus,bus
+NSR:Quay:10600,NSR:Quay:10600,Engersbråten,59.814415,10.882553,bus,bus
+NSR:Quay:10595,NSR:Quay:10595,Sværsvann,59.818428,10.887516,bus,bus
+NSR:Quay:10587,NSR:Quay:10587,Lille Stensrud,59.819958,10.876513,bus,bus
+NSR:Quay:10583,NSR:Quay:10583,Hanåveien,59.824042,10.871833,bus,bus
+NSR:Quay:10577,NSR:Quay:10577,Store Stensrud,59.828749,10.866412,bus,bus
+NSR:Quay:10573,NSR:Quay:10573,Godheim,59.832895,10.860656,bus,bus
+NSR:Quay:10568,NSR:Quay:10568,Maurtuveien,59.832375,10.851292,bus,bus
+NSR:Quay:10563,NSR:Quay:10563,Klemetsrud skole,59.834374,10.843492,bus,bus
+NSR:Quay:12439,NSR:Quay:12439,Sloreåsen,59.842369,10.794953,bus,bus
+NSR:Quay:111028,NSR:Quay:111028,Fjellstuveien,59.95046,10.937916,bus,bus
+NSR:Quay:10624,NSR:Quay:10624,Pasop,59.842292,10.846108,bus,bus
+NSR:Quay:10616,NSR:Quay:10616,Bratli,59.844521,10.843712,bus,bus
+NSR:Quay:10614,NSR:Quay:10614,Brenna,59.846456,10.842299,bus,bus
+NSR:Quay:10610,NSR:Quay:10610,Dalsroa,59.848214,10.840043,bus,bus
+NSR:Quay:10605,NSR:Quay:10605,Dalssvingen,59.850255,10.837484,bus,bus
+NSR:Quay:10483,NSR:Quay:10483,Stenbråten,59.84977,10.825286,bus,bus
+NSR:Quay:10487,NSR:Quay:10487,Kantarellen legesenter,59.848709,10.816273,bus,bus
+NSR:Quay:10491,NSR:Quay:10491,Kantarellen terrasse,59.848843,10.814677,bus,bus
+NSR:Quay:10497,NSR:Quay:10497,Kantarellen,59.85017,10.812427,bus,bus
+NSR:Quay:10502,NSR:Quay:10502,Tangen,59.84772,10.810292,bus,bus
+NSR:Quay:7475,NSR:Quay:7475,Aker brygge,59.910115,10.730164,unknown,unknown
+NSR:Quay:7962,NSR:Quay:7962,Hovedøya,59.898905,10.730738,unknown,unknown
+NSR:Quay:7998,NSR:Quay:7998,Lindøya øst,59.890549,10.719607,unknown,unknown
+NSR:Quay:109468,NSR:Quay:109468,Gressholmen,59.884524,10.724789,unknown,unknown
+NSR:Quay:7990,NSR:Quay:7990,Bleikøya,59.889046,10.734917,unknown,unknown
+NSR:Quay:7976,NSR:Quay:7976,Nakkholmen,59.890735,10.696918,unknown,unknown
+NSR:Quay:7968,NSR:Quay:7968,Lindøya vest,59.890101,10.706515,unknown,unknown
+NSR:Quay:10414,NSR:Quay:10414,Nordbråtan,59.825056,10.80474,bus,bus
+NSR:Quay:10410,NSR:Quay:10410,Toppåsveien,59.828018,10.803975,bus,bus
+NSR:Quay:12472,NSR:Quay:12472,Høgåsveien,59.830939,10.80357,bus,bus
+NSR:Quay:12471,NSR:Quay:12471,Berglyveien,59.828812,10.806301,bus,bus
+NSR:Quay:104023,NSR:Quay:104023,Jernbanetorget,59.912322,10.749658,bus,bus
+NSR:Quay:11402,NSR:Quay:11402,Ole Messelts vei,59.924678,10.872243,bus,bus
+NSR:Quay:11396,NSR:Quay:11396,Lutvannsveien,59.92577,10.872852,bus,bus
+NSR:Quay:11392,NSR:Quay:11392,Lutvann skole,59.925786,10.869596,bus,bus
+NSR:Quay:11386,NSR:Quay:11386,Fagerholt,59.923514,10.867584,bus,bus
+NSR:Quay:11383,NSR:Quay:11383,Haukåsen skole,59.922356,10.863639,bus,bus
+NSR:Quay:11312,NSR:Quay:11312,Tveita T,59.913964,10.8425,bus,bus
+NSR:Quay:11271,NSR:Quay:11271,Brannvaktveien,59.953661,10.792447,bus,bus
+NSR:Quay:11267,NSR:Quay:11267,Lyngåsveien,59.956188,10.788979,bus,bus
+NSR:Quay:111061,NSR:Quay:111061,Grefsen stadion,59.960117,10.785323,bus,bus
+NSR:Quay:104659,NSR:Quay:104659,Majorstuen,59.930364,10.715889,bus,bus
+NSR:Quay:109824,NSR:Quay:109824,Frognerseteren,59.977729,10.675192,bus,bus
+NSR:Quay:12257,NSR:Quay:12257,Trollvann,59.961656,10.803206,bus,bus
+NSR:Quay:12255,NSR:Quay:12255,Grefsenkollen,59.958694,10.804093,bus,bus
+NSR:Quay:10900,NSR:Quay:10900,Rognerud,59.901735,10.825119,bus,bus
+NSR:Quay:10987,NSR:Quay:10987,Østensjø skole,59.899448,10.832568,bus,bus
+NSR:Quay:10958,NSR:Quay:10958,Skøyenåsen T,59.900511,10.836637,bus,bus
+NSR:Quay:10963,NSR:Quay:10963,Skøyenkroken,59.897597,10.838428,bus,bus
+NSR:Quay:10720,NSR:Quay:10720,Ulsrud T,59.88965,10.849138,bus,bus
+NSR:Quay:10730,NSR:Quay:10730,Østbyveien,59.888806,10.843082,bus,bus
+NSR:Quay:10732,NSR:Quay:10732,Jøranstien,59.888423,10.836213,bus,bus
+NSR:Quay:10934,NSR:Quay:10934,Bogerudmyra,59.881813,10.833515,bus,bus
+NSR:Quay:10914,NSR:Quay:10914,Treskeveien,59.889084,10.81802,bus,bus
+NSR:Quay:10907,NSR:Quay:10907,Skuronnveien,59.892059,10.821871,bus,bus
+NSR:Quay:10904,NSR:Quay:10904,Manglerud skole,59.894693,10.820782,bus,bus
+NSR:Quay:10860,NSR:Quay:10860,Manglerud senter,59.896989,10.814559,bus,bus
+NSR:Quay:12064,NSR:Quay:12064,Wyllerløypa,59.990368,10.631306,bus,bus
+NSR:Quay:12147,NSR:Quay:12147,Frognerseteren,59.977863,10.67553,bus,bus
+NSR:Quay:10264,NSR:Quay:10264,Postens godssenter,59.934063,10.851735,bus,bus
+NSR:Quay:10259,NSR:Quay:10259,Postnord,59.934337,10.848076,bus,bus
+NSR:Quay:11469,NSR:Quay:11469,Postens verksteder,59.9321,10.844193,bus,bus
+NSR:Quay:12030,NSR:Quay:12030,Åsjordet T,59.928471,10.646023,bus,bus
+NSR:Quay:10338,NSR:Quay:10338,Edvard Munchs vei,59.938927,10.911108,bus,bus
+NSR:Quay:10335,NSR:Quay:10335,Ellingsrudåsen T,59.936638,10.9171,bus,bus
+NSR:Quay:12118,NSR:Quay:12118,Skansebakken,60.017975,10.584163,bus,bus
+NSR:Quay:12122,NSR:Quay:12122,Sandbråten,60.018379,10.586741,bus,bus
+NSR:Quay:12111,NSR:Quay:12111,Vestre Venner,60.017869,10.59103,bus,bus
+NSR:Quay:12124,NSR:Quay:12124,Nordre Venner,60.017924,10.595493,bus,bus
+NSR:Quay:12129,NSR:Quay:12129,Søndre Venner,60.017386,10.598526,bus,bus
+NSR:Quay:12133,NSR:Quay:12133,Lokalet,60.01662,10.603298,bus,bus
+NSR:Quay:12136,NSR:Quay:12136,Sørkedalen skole,60.01699,10.61161,bus,bus
+NSR:Quay:12142,NSR:Quay:12142,Stubberud,60.013147,10.616059,bus,bus
+NSR:Quay:12103,NSR:Quay:12103,Nordre Solberg,60.007808,10.619139,bus,bus
+NSR:Quay:12098,NSR:Quay:12098,Søndre Solberg,59.999224,10.619501,bus,bus
+NSR:Quay:12096,NSR:Quay:12096,Bakk,59.993443,10.622328,bus,bus
+NSR:Quay:12068,NSR:Quay:12068,Wyllerveien,59.99052,10.622012,bus,bus
+NSR:Quay:12090,NSR:Quay:12090,Årnes,59.988067,10.620467,bus,bus
+NSR:Quay:12107,NSR:Quay:12107,Bjørnsgard,59.985866,10.621432,bus,bus
+NSR:Quay:12085,NSR:Quay:12085,Zinober,59.983274,10.621556,bus,bus
+NSR:Quay:12082,NSR:Quay:12082,Strøm,59.979354,10.621491,bus,bus
+NSR:Quay:12077,NSR:Quay:12077,Bogstad gård,59.97296,10.628618,bus,bus
+NSR:Quay:12074,NSR:Quay:12074,Bogstad badeplass,59.96937,10.638231,bus,bus
+NSR:Quay:101620,NSR:Quay:101620,Sognsvann T,59.967239,10.733168,bus,bus
+NSR:Quay:11405,NSR:Quay:11405,Kringsjå,59.964062,10.734187,bus,bus
+NSR:Quay:11358,NSR:Quay:11358,Haugerudveien,59.917363,10.851054,bus,bus
+NSR:Quay:11419,NSR:Quay:11419,Rundtjernveien,59.915522,10.850673,bus,bus
+NSR:Quay:110913,NSR:Quay:110913,Postkassene,59.911913,10.850873,bus,bus
+NSR:Quay:11962,NSR:Quay:11962,Oslo bussterminal,59.911348,10.759298,bus,bus
+NSR:Quay:10334,NSR:Quay:10334,Ellingsrudåsen T,59.936482,10.917183,bus,bus
+NSR:Quay:10339,NSR:Quay:10339,Edvard Munchs vei,59.93898,10.910931,bus,bus
+NSR:Quay:10594,NSR:Quay:10594,Sværsvann,59.818358,10.887336,bus,bus
+NSR:Quay:10601,NSR:Quay:10601,Engersbråten,59.813786,10.882071,bus,bus
+NSR:Quay:11145,NSR:Quay:11145,Helsfyr T,59.912651,10.801143,bus,bus
+NSR:Quay:104052,NSR:Quay:104052,Bogstadveien,59.926119,10.721605,bus,bus
+NSR:Quay:104061,NSR:Quay:104061,Homansbyen,59.92252,10.726503,bus,bus
+NSR:Quay:102839,NSR:Quay:102839,Tullinløkka,59.916767,10.737272,bus,bus
+NSR:Quay:106026,NSR:Quay:106026,Stortorvet,59.912826,10.745675,bus,bus
+NSR:Quay:104022,NSR:Quay:104022,Jernbanetorget,59.912237,10.750119,bus,bus
+NSR:Quay:106761,NSR:Quay:106761,Nybrua,59.917224,10.758601,bus,bus
+NSR:Quay:104021,NSR:Quay:104021,Biermanns gate,59.930173,10.76113,bus,bus
+NSR:Quay:104018,NSR:Quay:104018,Torshov,59.934749,10.764764,bus,bus
+NSR:Quay:10824,NSR:Quay:10824,Ryen T,59.895371,10.80437,bus,bus
+NSR:Quay:10635,NSR:Quay:10635,Lambertseter T,59.873488,10.81011,bus,bus
+NSR:Quay:10649,NSR:Quay:10649,Søndre Hellerud,59.871609,10.805217,bus,bus
+NSR:Quay:12329,NSR:Quay:12329,Ringshusveien,59.871923,10.800121,bus,bus
+NSR:Quay:12327,NSR:Quay:12327,Nordseter gård,59.871015,10.796406,bus,bus
+NSR:Quay:12325,NSR:Quay:12325,Kastellet,59.870089,10.791222,bus,bus
+NSR:Quay:12339,NSR:Quay:12339,Bråten,59.866903,10.793799,bus,bus
+NSR:Quay:12336,NSR:Quay:12336,Skovheim,59.86522,10.796039,bus,bus
+NSR:Quay:12366,NSR:Quay:12366,Sæter,59.861244,10.800073,bus,bus
+NSR:Quay:10637,NSR:Quay:10637,Lambertseter T,59.873459,10.810517,bus,bus
+NSR:Quay:10566,NSR:Quay:10566,Haugenstua skole,59.952559,10.92177,bus,bus
+NSR:Quay:10521,NSR:Quay:10521,Jacobine Ryes vei,59.96627,10.918887,bus,bus
+NSR:Quay:10517,NSR:Quay:10517,Gullberget,59.968551,10.922682,bus,bus
+NSR:Quay:10514,NSR:Quay:10514,Vestli T,59.971295,10.928374,bus,bus
+NSR:Quay:11186,NSR:Quay:11186,Brynseng T,59.909466,10.813707,bus,bus
+NSR:Quay:10725,NSR:Quay:10725,Grorud T,59.960751,10.882883,bus,bus
+NSR:Quay:10740,NSR:Quay:10740,Grorudkrysset,59.959302,10.885971,bus,bus
+NSR:Quay:104534,NSR:Quay:104534,Sinsenkrysset,59.938639,10.784779,tram,tram
+NSR:Quay:12256,NSR:Quay:12256,Trollvann,59.96153,10.803337,bus,bus
+NSR:Quay:11754,NSR:Quay:11754,Ekraveien,59.951545,10.636595,bus,bus
+NSR:Quay:11736,NSR:Quay:11736,Røa T,59.947799,10.642456,bus,bus
+NSR:Quay:10706,NSR:Quay:10706,Nylænde,59.875714,10.819446,bus,bus
+NSR:Quay:10704,NSR:Quay:10704,Marmorveien,59.874549,10.821651,bus,bus
+NSR:Quay:10699,NSR:Quay:10699,Feltspatveien,59.873058,10.820645,bus,bus
+NSR:Quay:10696,NSR:Quay:10696,Glimmerveien,59.870364,10.820455,bus,bus
+NSR:Quay:10694,NSR:Quay:10694,Mellombølgen,59.869902,10.815431,bus,bus
+NSR:Quay:104042,NSR:Quay:104042,Frogner plass,59.921771,10.705364,bus,bus
+NSR:Quay:104038,NSR:Quay:104038,Elisenberg,59.919402,10.708781,bus,bus
+NSR:Quay:104037,NSR:Quay:104037,Lille Frogner allé,59.917866,10.712225,bus,bus
+NSR:Quay:104032,NSR:Quay:104032,Niels Juels gate,59.91633,10.714974,bus,bus
+NSR:Quay:10826,NSR:Quay:10826,Ryen T,59.896336,10.804804,bus,bus
+NSR:Quay:12405,NSR:Quay:12405,Hauketo stasjon,59.845515,10.803382,bus,bus
+NSR:Quay:12385,NSR:Quay:12385,Granebakken,59.857108,10.825127,bus,bus
+NSR:Quay:12390,NSR:Quay:12390,Olasrudveien,59.852209,10.82771,bus,bus
+NSR:Quay:10518,NSR:Quay:10518,Gullberget,59.96868,10.922446,bus,bus
+NSR:Quay:10522,NSR:Quay:10522,Jacobine Ryes vei,59.966249,10.918694,bus,bus
+NSR:Quay:10565,NSR:Quay:10565,Haugenstua skole,59.953933,10.922191,bus,bus
+NSR:Quay:12321,NSR:Quay:12321,Sørli,59.875182,10.789567,bus,bus
+NSR:Quay:11985,NSR:Quay:11985,Oslo bussterminal,59.912004,10.756997,bus,bus
+NSR:Quay:10977,NSR:Quay:10977,Persveien,59.922954,10.816316,bus,bus
+NSR:Quay:10973,NSR:Quay:10973,Haraldrudveien,59.924407,10.825712,bus,bus
+NSR:Quay:11468,NSR:Quay:11468,Arvesetveien,59.928772,10.847046,bus,bus
+NSR:Quay:11470,NSR:Quay:11470,Postens verksteder,59.931471,10.844514,bus,bus
+NSR:Quay:10260,NSR:Quay:10260,Postnord,59.934531,10.848712,bus,bus
+NSR:Quay:10263,NSR:Quay:10263,Postens godssenter,59.934393,10.850949,bus,bus
+NSR:Quay:12449,NSR:Quay:12449,Nordåsveien,59.829719,10.794121,bus,bus
+NSR:Quay:11450,NSR:Quay:11450,Steinerud T,59.939148,10.704557,bus,bus
+NSR:Quay:11473,NSR:Quay:11473,Vinderen T,59.942864,10.705353,bus,bus
+NSR:Quay:11482,NSR:Quay:11482,Gaustad T,59.946464,10.710905,bus,bus
+NSR:Quay:11511,NSR:Quay:11511,Ris T,59.948389,10.704066,bus,bus
+NSR:Quay:11522,NSR:Quay:11522,Slemdal T,59.951158,10.69384,bus,bus
+NSR:Quay:11564,NSR:Quay:11564,Svenstua,59.957717,10.689783,bus,bus
+NSR:Quay:11596,NSR:Quay:11596,Midtstuen,59.959459,10.683995,bus,bus
+NSR:Quay:11601,NSR:Quay:11601,Besserud T,59.957974,10.674763,bus,bus
+NSR:Quay:12326,NSR:Quay:12326,Nordseter gård,59.871081,10.79701,bus,bus
+NSR:Quay:12330,NSR:Quay:12330,Ringshusveien,59.872302,10.800837,bus,bus
+NSR:Quay:10650,NSR:Quay:10650,Søndre Hellerud,59.871628,10.806041,bus,bus
+NSR:Quay:11600,NSR:Quay:11600,Besserud T,59.957928,10.674779,bus,bus
+NSR:Quay:11597,NSR:Quay:11597,Midtstuen,59.959368,10.685022,bus,bus
+NSR:Quay:11562,NSR:Quay:11562,Svenstua,59.957108,10.689684,bus,bus
+NSR:Quay:11523,NSR:Quay:11523,Slemdal T,59.951531,10.693401,bus,bus
+NSR:Quay:11512,NSR:Quay:11512,Ris T,59.947978,10.704986,bus,bus
+NSR:Quay:11483,NSR:Quay:11483,Gaustad T,59.9461,10.710559,bus,bus
+NSR:Quay:7193,NSR:Quay:7193,Jernbanetorget,59.912323,10.751251,bus,bus
+NSR:Quay:12450,NSR:Quay:12450,Nordåsveien,59.830004,10.793995,bus,bus
+NSR:Quay:7995,NSR:Quay:7995,Gressholmen,59.886458,10.7254,unknown,unknown
+NSR:Quay:11169,NSR:Quay:11169,Disen,59.946151,10.787448,tram,tram
+NSR:Quay:7479,NSR:Quay:7479,Aker brygge,59.910762,10.730099,unknown,unknown
+NSR:Quay:106704,NSR:Quay:106704,Løren T,59.929626,10.791769,bus,bus
+NSR:Quay:11991,NSR:Quay:11991,Oslo bussterminal,59.91174,10.758952,"bus,coach service",multimodal
+NSR:Quay:559,NSR:Quay:559,Oslo S,59.910818,10.755399,rail,rail
+NSR:Quay:477,NSR:Quay:477,Nationaltheatret stasjon,59.915362,10.727551,rail,rail
+NSR:Quay:571,NSR:Quay:571,Oslo S,59.9104,10.754999,rail,rail
+NSR:Quay:553,NSR:Quay:553,Oslo S,59.910677,10.755264,rail,rail
+NSR:Quay:237,NSR:Quay:237,Skøyen stasjon,59.922407,10.678784,rail,rail
+NSR:Quay:238,NSR:Quay:238,Skøyen stasjon,59.922325,10.678694,rail,rail
+NSR:Quay:568,NSR:Quay:568,Oslo S,59.910324,10.754926,rail,rail
+NSR:Quay:561,NSR:Quay:561,Oslo S,59.910605,10.755195,rail,rail
+NSR:Quay:551,NSR:Quay:551,Oslo S,59.910464,10.75506,rail,rail
+NSR:Quay:872,NSR:Quay:872,Kjelsås stasjon,59.966261,10.783167,rail,rail
+NSR:Quay:494,NSR:Quay:494,Nydalen stasjon,59.951739,10.771783,rail,rail
+NSR:Quay:584,NSR:Quay:584,Grefsen stasjon,59.941613,10.780261,rail,rail
+NSR:Quay:550,NSR:Quay:550,Oslo S,59.910741,10.755326,rail,rail
+NSR:Quay:577,NSR:Quay:577,Grefsen stasjon,59.94162,10.780367,rail,rail
+NSR:Quay:873,NSR:Quay:873,Kjelsås stasjon,59.966105,10.782925,rail,rail
+NSR:Quay:566,NSR:Quay:566,Oslo S,59.910882,10.755461,rail,rail
+NSR:Quay:353,NSR:Quay:353,Movatn stasjon,60.037767,10.81298,rail,rail
+NSR:Quay:1099,NSR:Quay:1099,Snippen stasjon,60.02401,10.810005,rail,rail
+NSR:Quay:572,NSR:Quay:572,Tøyen stasjon,59.920943,10.780489,rail,rail
+NSR:Quay:573,NSR:Quay:573,Tøyen stasjon,59.920846,10.780676,rail,rail
+NSR:Quay:515,NSR:Quay:515,Høybråten stasjon,59.948136,10.927673,rail,rail
+NSR:Quay:276,NSR:Quay:276,Haugenstua stasjon,59.951603,10.908233,rail,rail
+NSR:Quay:600,NSR:Quay:600,Grorud stasjon,59.949801,10.88755,rail,rail
+NSR:Quay:505,NSR:Quay:505,Nyland stasjon,59.94398,10.871594,rail,rail
+NSR:Quay:641,NSR:Quay:641,Alna stasjon,59.932439,10.835194,rail,rail
+NSR:Quay:869,NSR:Quay:869,Bryn stasjon,59.908289,10.818738,rail,rail
+NSR:Quay:555,NSR:Quay:555,Oslo S,59.91054,10.755133,rail,rail
+NSR:Quay:870,NSR:Quay:870,Bryn stasjon,59.908399,10.819564,rail,rail
+NSR:Quay:640,NSR:Quay:640,Alna stasjon,59.932402,10.835344,rail,rail
+NSR:Quay:504,NSR:Quay:504,Nyland stasjon,59.943902,10.871696,rail,rail
+NSR:Quay:604,NSR:Quay:604,Grorud stasjon,59.949751,10.887694,rail,rail
+NSR:Quay:278,NSR:Quay:278,Haugenstua stasjon,59.951519,10.908155,rail,rail
+NSR:Quay:516,NSR:Quay:516,Høybråten stasjon,59.948048,10.927637,rail,rail
+NSR:Quay:721,NSR:Quay:721,Ljan stasjon,59.852531,10.7845,rail,rail
+NSR:Quay:474,NSR:Quay:474,Hauketo stasjon,59.845973,10.802798,rail,rail
+NSR:Quay:329,NSR:Quay:329,Holmlia stasjon,59.835165,10.797092,rail,rail
+NSR:Quay:94,NSR:Quay:94,Rosenholm stasjon,59.823626,10.797766,rail,rail
+NSR:Quay:463,NSR:Quay:463,Nordstrand stasjon,59.863728,10.785578,rail,rail
+NSR:Quay:95,NSR:Quay:95,Rosenholm stasjon,59.823621,10.797949,rail,rail
+NSR:Quay:330,NSR:Quay:330,Holmlia stasjon,59.835161,10.79724,rail,rail
+NSR:Quay:473,NSR:Quay:473,Hauketo stasjon,59.845777,10.80295,rail,rail
+NSR:Quay:723,NSR:Quay:723,Ljan stasjon,59.852522,10.784667,rail,rail
+NSR:Quay:462,NSR:Quay:462,Nordstrand stasjon,59.863733,10.785639,rail,rail
+NSR:Quay:556,NSR:Quay:556,Oslo S,59.909844,10.754467,rail,rail
+NSR:Quay:567,NSR:Quay:567,Oslo S,59.909906,10.754527,rail,rail
+NSR:Quay:564,NSR:Quay:564,Oslo S,59.909982,10.754599,rail,rail
+NSR:Quay:562,NSR:Quay:562,Oslo S,59.910049,10.754663,rail,rail
+NSR:Quay:569,NSR:Quay:569,Oslo S,59.910189,10.754798,rail,rail
+NSR:Quay:876,NSR:Quay:876,Bryn stasjon,59.908792,10.818005,rail,rail
+NSR:Quay:1,NSR:Quay:1,Oslo S Trelastgata,59.909548,10.75525,rail,rail
+NSR:Quay:103440,NSR:Quay:103440,Skøyen stasjon,59.921837,10.678891,rail,rail
+NSR:Quay:103764,NSR:Quay:103764,Skøyen stasjon,59.922002,10.677359,rail,rail
+NSR:Quay:102541,NSR:Quay:102541,Oslo Tollbugata,59.909038,10.748827,rail,rail
+NSR:Quay:7450,NSR:Quay:7450,Nationaltheatret,59.912763,10.73132,coach service,coach service
