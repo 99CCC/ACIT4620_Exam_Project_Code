@@ -25,6 +25,9 @@ const OSLO_FYLKE = "03";
 // Greater Oslo / all fylker you care about
 const FYLKER = ["03", "32", "33", "31"]; // Oslo, Akershus, Buskerud, Østfold
 
+/**
+ * Function for loading in all counties
+ */
 async function buildRegion(
     label: "OSLO" | "ALL_FYLKER",
     geoms: any[],
