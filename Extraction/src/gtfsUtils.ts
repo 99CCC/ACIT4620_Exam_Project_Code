@@ -12,7 +12,7 @@ import { parse } from "csv-parse";
 export const OSLO_BBOX = { minLat: 59.75, maxLat: 60.25, minLon: 10.20, maxLon: 11.10 };
 
 // i only want ruter/sporveien/vy. no random ferries from tromsø please.
-export const AGENCY_ALLOW = /ruter|sporveien|vy/i;
+export const AGENCY_ALLOW = null///ruter|sporveien|vy/i;
 
 // ------------------------------
 // utility graveyard
@@ -33,6 +33,7 @@ export function hmsToSec(s?: string) {
 // whoever made GTFS route_type constants deserves mild pain
 export function routeTypeToMode(rt: number | string): string {
     const n = Number(rt);
+    //Standard GTFS
     if (n === 0) return "tram";
     if (n === 1) return "metro";
     if (n === 2) return "rail";
@@ -43,11 +44,20 @@ export function routeTypeToMode(rt: number | string): string {
     if (n === 7) return "funicular";
     if (n === 11) return "bus";
     if (n === 12) return "rail";
-    if (n >= 700 && n < 800) return "bus";
-    if (n >= 900 && n < 1000) return "tram";
-    if (n >= 300 && n < 400) return "metro";
-    if ((n >= 100 && n < 300) || (n >= 400 && n < 500)) return "rail";
-    if (n >= 1000 && n < 1100) return "water";
+    //Extended GTFS
+    if (n >= 100 && n <= 117) return "rail";
+    if (n >= 200 && n <= 209) return "coach service";
+    if (n >= 400 && n <= 405) return "metro";
+    if (n >= 700 && n <= 716) return "bus";
+    if (n == 800) return "trolleybus";
+    if (n >= 900 && n <= 906) return "tram";
+    if (n == 1000 || n == 1200) return "water";
+    if (n == 1100) return "air";
+    if (n >= 1300 && n <= 1307) return "aerial lift";
+    if (n == 1400) return "funicular service";
+    if (n >= 1500 && n <= 1507) return "taxi";
+    if (n == 1700) return "miscellaneous service";
+    if (n == 1702) return "horse-drawn carriage";
     return "unknown";
 }
 

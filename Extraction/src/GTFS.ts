@@ -4,7 +4,7 @@ import StreamZip from "node-stream-zip";
 import Papa from "papaparse";
 
 import {
-    AGENCY_ALLOW,
+    //AGENCY_ALLOW,
     inOslo,
     hmsToSec,
     routeTypeToMode,
@@ -39,7 +39,7 @@ async function run() {
         if (!id) return;
         const name = row["agency_name"] || id;
         agencyName.set(id, name);
-        if (!AGENCY_ALLOW || AGENCY_ALLOW.test(name)) allowedAgencies.add(id);
+        /*if (!AGENCY_ALLOW || AGENCY_ALLOW.test(name))*/ allowedAgencies.add(id);
     });
 
     // --- routes ---
