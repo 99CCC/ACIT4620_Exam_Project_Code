@@ -151,7 +151,6 @@ export async function journeyPlannerTripCounter() {
     console.log("Done enriching edges with tripsOn2025_11_17.");
 }
 
-// Direct run after transpile (node journeyPlannerTripCounter.js)
 journeyPlannerTripCounter().catch(err => {
     console.error("journeyPlannerTripCounter failed:", err);
     process.exit(1);
