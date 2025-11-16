@@ -12,6 +12,7 @@ import {
 } from "./gtfsUtils.js";
 
 import { loadGeometry, pointInGeom } from "./polyMapping.js";
+import { journeyPlannerTripCounter } from "./journeyPlannerTripCounter.js";
 
 // config
 const GTFS_URL =
@@ -265,6 +266,9 @@ async function run() {
     console.log(
         "All regions done. If these numbers look small, something broke upstream."
     );
+
+    //Doing separate extraction from Entur to grab actual tripcounts for a monday
+    await journeyPlannerTripCounter()
 }
 
 run().catch(err => {
