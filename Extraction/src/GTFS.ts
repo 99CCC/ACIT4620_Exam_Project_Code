@@ -98,7 +98,8 @@ async function buildRegion(
                 tB = b.arr ?? b.dep;
             const dur =
                 tA != null && tB != null && tB >= tA ? tB - tA : undefined;
-            if (!edges.has(key))
+
+            if (!edges.has(key)) {
                 edges.set(key, {
                     from: a.sid,
                     to: b.sid,
@@ -106,8 +107,13 @@ async function buildRegion(
                     mode,
                     authority,
                     durs: [],
+                    trips: 0, // 👈 count how many times this edge appears
                 });
-            if (dur) edges.get(key).durs.push(dur);
+            }
+
+            const edge = edges.get(key);
+            if (dur) edge.durs.push(dur);
+            edge.trips += 1; // 👈 increment counter for every observed traversal
         }
     }
 
@@ -119,6 +125,7 @@ async function buildRegion(
         mode: e.mode,
         authority: e.authority,
         travelTimeSec: median(e.durs),
+        tripsInFeed: e.trips, // 👈 new column: how many times this edge showed up in stop_times
     }));
 
     console.log(
@@ -255,7 +262,9 @@ async function run() {
     await buildRegion("ALL_FYLKER", allGeoms, zip, routes, trips, agencyName);
 
     await zip.close();
-    console.log("All regions done. If these numbers look small, something broke upstream.");
+    console.log(
+        "All regions done. If these numbers look small, something broke upstream."
+    );
 }
 
 run().catch(err => {
