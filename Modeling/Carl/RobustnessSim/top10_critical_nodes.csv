@@ -1,0 +1,61 @@
+scenario,experiment,graph,step,node_id,flow_after_removal,flow_ratio
+Center→Outer,exp1,oslo_only,1,NSR:Quay:550,3715470.0,0.97703791163856
+Center→Outer,exp1,oslo_only,2,NSR:Quay:11991,3797550.0,0.9986220643264552
+Center→Outer,exp1,oslo_only,3,NSR:Quay:11962,3798350.0,0.9988324361850116
+Center→Outer,exp1,oslo_only,4,NSR:Quay:561,3626990.0,0.9537707840822132
+Center→Outer,exp1,oslo_only,5,NSR:Quay:555,3214830.0,0.8453872025539143
+Center→Outer,exp1,oslo_only,6,NSR:Quay:553,3626990.0,0.9537707840822132
+Center→Outer,exp1,oslo_only,7,NSR:Quay:551,3214830.0,0.8453872025539143
+Center→Outer,exp1,oslo_only,8,NSR:Quay:11971,3793850.0,0.9976490944806312
+Center→Outer,exp1,oslo_only,9,NSR:Quay:11970,3791500.0,0.9970311271461216
+Center→Outer,exp1,oslo_only,10,NSR:Quay:11963,3798350.0,0.9988324361850116
+Outer→Center,exp2,oslo_only,1,NSR:Quay:103595,4696680.0,0.9978711198929188
+Outer→Center,exp2,oslo_only,2,NSR:Quay:473,4696680.0,0.9978711198929188
+Outer→Center,exp2,oslo_only,3,NSR:Quay:11135,4696680.0,0.9978711198929188
+Outer→Center,exp2,oslo_only,4,NSR:Quay:12410,4696680.0,0.9978711198929188
+Outer→Center,exp2,oslo_only,5,NSR:Quay:12406,4696680.0,0.9978711198929188
+Outer→Center,exp2,oslo_only,6,NSR:Quay:474,4696680.0,0.9978711198929188
+Outer→Center,exp2,oslo_only,7,NSR:Quay:10724,4696680.0,0.9978711198929188
+Outer→Center,exp2,oslo_only,8,NSR:Quay:10726,4696680.0,0.9978711198929188
+Outer→Center,exp2,oslo_only,9,NSR:Quay:10723,4696680.0,0.9978711198929188
+Outer→Center,exp2,oslo_only,10,NSR:Quay:10722,4696680.0,0.9978711198929188
+Center→Outer (Ext.),exp1,extended,1,NSR:Quay:11970,4511110.0,0.9969347930819584
+Center→Outer (Ext.),exp1,extended,2,NSR:Quay:11987,4517960.0,0.9984486119275664
+Center→Outer (Ext.),exp1,extended,3,NSR:Quay:11991,4517160.0,0.9982718155660356
+Center→Outer (Ext.),exp1,extended,4,NSR:Quay:550,4435080.0,0.9801325088729674
+Center→Outer (Ext.),exp1,extended,5,NSR:Quay:553,4346600.0,0.960578831287652
+Center→Outer (Ext.),exp1,extended,6,NSR:Quay:561,4346600.0,0.960578831287652
+Center→Outer (Ext.),exp1,extended,7,NSR:Quay:11962,4517960.0,0.9984486119275664
+Center→Outer (Ext.),exp1,extended,8,NSR:Quay:11971,4513460.0,0.9974541323939552
+Center→Outer (Ext.),exp1,extended,9,NSR:Quay:551,3876200.0,0.8566225707074948
+Center→Outer (Ext.),exp1,extended,10,NSR:Quay:555,3928840.0,0.8682557712962268
+Outer→Center (Ext.),exp2,extended,1,NSR:Quay:103595,5334390.0,0.9977909543226964
+Outer→Center (Ext.),exp2,extended,2,NSR:Quay:106024,5334390.0,0.9977909543226964
+Outer→Center (Ext.),exp2,extended,3,NSR:Quay:236,5268310.0,0.9854307732595114
+Outer→Center (Ext.),exp2,extended,4,NSR:Quay:11135,5334390.0,0.9977909543226964
+Outer→Center (Ext.),exp2,extended,5,NSR:Quay:473,5334390.0,0.9977909543226964
+Outer→Center (Ext.),exp2,extended,6,NSR:Quay:238,5334390.0,0.9977909543226964
+Outer→Center (Ext.),exp2,extended,7,NSR:Quay:237,5334390.0,0.9977909543226964
+Outer→Center (Ext.),exp2,extended,8,NSR:Quay:12406,5334390.0,0.9977909543226964
+Outer→Center (Ext.),exp2,extended,9,NSR:Quay:11818,5334390.0,0.9977909543226964
+Outer→Center (Ext.),exp2,extended,10,NSR:Quay:10723,5334390.0,0.9977909543226964
+Asker→Lillestrøm,exp3_a2l,extended,1,NSR:Quay:698,99403410.0,0.7995946660660528
+Asker→Lillestrøm,exp3_a2l,extended,2,NSR:Quay:697,99541170.0,0.8007027986864252
+Asker→Lillestrøm,exp3_a2l,extended,3,NSR:Quay:700,99564130.0,0.8008874874564873
+Asker→Lillestrøm,exp3_a2l,extended,4,NSR:Quay:699,101212770.0,0.8141490420677742
+Asker→Lillestrøm,exp3_a2l,extended,5,NSR:Quay:5729,102052610.0,0.820904661259801
+Asker→Lillestrøm,exp3_a2l,extended,6,NSR:Quay:5730,102054160.0,0.8209171293605674
+Asker→Lillestrøm,exp3_a2l,extended,7,NSR:Quay:695,103297090.0,0.8309151787060927
+Asker→Lillestrøm,exp3_a2l,extended,8,NSR:Quay:5734,104523070.0,0.8407768833367856
+Asker→Lillestrøm,exp3_a2l,extended,9,NSR:Quay:696,109043810.0,0.8771414264713867
+Asker→Lillestrøm,exp3_a2l,extended,10,NSR:Quay:5731,109476940.0,0.8806254964616737
+Lillestrøm→Asker,exp3_l2a,extended,1,NSR:Quay:698,99834860.0,0.8002569226308742
+Lillestrøm→Asker,exp3_l2a,extended,2,NSR:Quay:697,99972620.0,0.8013611801383383
+Lillestrøm→Asker,exp3_l2a,extended,3,NSR:Quay:700,99995580.0,0.8015452230562491
+Lillestrøm→Asker,exp3_l2a,extended,4,NSR:Quay:699,101644220.0,0.8147604023325676
+Lillestrøm→Asker,exp3_l2a,extended,5,NSR:Quay:5729,102484060.0,0.8214923972880602
+Lillestrøm→Asker,exp3_l2a,extended,6,NSR:Quay:5730,102485610.0,0.8215048217881805
+Lillestrøm→Asker,exp3_l2a,extended,7,NSR:Quay:695,103728540.0,0.8314679081975329
+Lillestrøm→Asker,exp3_l2a,extended,8,NSR:Quay:5734,104954520.0,0.8412951266862151
+Lillestrøm→Asker,exp3_l2a,extended,9,NSR:Quay:696,109475260.0,0.8775325038950808
+Lillestrøm→Asker,exp3_l2a,extended,10,NSR:Quay:5731,109908390.0,0.881004390177078
