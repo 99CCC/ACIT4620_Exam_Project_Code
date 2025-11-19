@@ -1,3 +1,6 @@
 Extraction/dist
 Extraction/node_modules
 Extraction/out/gtfs.zip
+Modeling\Vera\trips.txt
+Modeling\Vera\stop_times.txt
+Modeling\Vera\calender_dates.txt
