@@ -1,3 +1,6 @@
+/**
+ * @author Carl Christian Roll-Lund
+ */
 import fs from "node:fs";
 import path from "node:path";
 const OUT_DIR = "out";

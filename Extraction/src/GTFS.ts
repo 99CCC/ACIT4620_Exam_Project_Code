@@ -1,3 +1,7 @@
+/**
+ * @author Carl Christian Roll-Lund
+ */
+
 import fs from "node:fs";
 import path from "node:path";
 import StreamZip from "node-stream-zip";

@@ -1,5 +1,8 @@
-// journeyPlannerTripCounter.ts
+/**
+ * @author Carl Christian Roll-Lund
+ */
 
+// journeyPlannerTripCounter.ts
 import fs from "node:fs";
 import Papa from "papaparse";
 

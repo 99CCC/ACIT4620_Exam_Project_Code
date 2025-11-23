@@ -1,3 +1,7 @@
+/**
+ * @author Carl Christian Roll-Lund
+ */
+
 import fs from "node:fs";
 import path from "node:path";
 import { pipeline } from "node:stream/promises";
@@ -5,13 +9,13 @@ import fetch from "node-fetch";
 import { parse } from "csv-parse";
 
 // ------------------------------
-// shared config (don’t argue)
+// shared config 
 // ------------------------------
 
-// bounding box for oslo area
+// bounding box for oslo area (yeah bounding boxes are bad)
 export const OSLO_BBOX = { minLat: 59.75, maxLat: 60.25, minLon: 10.20, maxLon: 11.10 };
 
-// i only want ruter/sporveien/vy. no random ferries from tromsø please.
+// i only want ruter/sporveien/vy. no random ferries from tromsø please, okay realised i want the random ferries afterall.
 export const AGENCY_ALLOW = null///ruter|sporveien|vy/i;
 
 // ------------------------------

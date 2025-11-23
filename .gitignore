@@ -4,3 +4,14 @@ Extraction/out/gtfs.zip
 Modeling\Vera\trips.txt
 Modeling\Vera\stop_times.txt
 Modeling\Vera\calender_dates.txt
+Modeling/Vera/agency.txt
+Modeling/Vera/calendar_dates.txt
+Modeling/Vera/calendar.txt
+Modeling/Vera/feed_info.txt
+Modeling/Vera/routes.txt
+Modeling/Vera/shapes.txt
+Modeling/Vera/stop_times.txt
+Modeling/Vera/stops.txt
+Modeling/Vera/transfers.txt
+.gitignore
+Modeling/Vera/trips.txt
