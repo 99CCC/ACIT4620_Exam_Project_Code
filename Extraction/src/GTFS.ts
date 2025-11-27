@@ -14,7 +14,6 @@
  * The added monday trips were in this case collected from Enturs JourneyPlanner API, which we found out
  * later was a bit redundant, as we found a much easier way to just use the given files from GTFS later on
  * can be seen in the Rail Headway workbook. 
- * 
  */
 
 import fs from "node:fs";
