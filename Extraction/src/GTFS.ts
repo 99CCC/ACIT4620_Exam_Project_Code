@@ -127,13 +127,13 @@ async function buildRegion(
                     mode,
                     authority,
                     durs: [],
-                    trips: 0, // 👈 count how many times this edge appears
+                    trips: 0, // count how many times this edge appears
                 });
             }
 
             const edge = edges.get(key);
             if (dur) edge.durs.push(dur);
-            edge.trips += 1; // 👈 increment counter for every observed traversal
+            edge.trips += 1; // increment counter for every observed traversal
         }
     }
 
@@ -145,7 +145,7 @@ async function buildRegion(
         mode: e.mode,
         authority: e.authority,
         travelTimeSec: median(e.durs),
-        tripsInFeed: e.trips, // 👈 new column: how many times this edge showed up in stop_times
+        tripsInFeed: e.trips, //how many times this edge showed up in stop_times
     }));
 
     console.log(
