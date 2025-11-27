@@ -1,5 +1,7 @@
 /**
  * @author Carl Christian Roll-Lund
+ * Standard GIS approach to filtering
+ * 
  */
 import fs from "node:fs";
 import path from "node:path";

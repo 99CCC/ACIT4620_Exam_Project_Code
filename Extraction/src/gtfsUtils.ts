@@ -1,5 +1,10 @@
 /**
  * @author Carl Christian Roll-Lund
+ * 
+ * Plan was to move most functionality inside here, to give a clearer view in the GTFS.ts
+ * Some of this is legacy, as I first used a bounding box, but then created the polyMapping.ts later on
+ * as i wasnt happy with the results of bounding boxes
+ * 
  */
 
 import fs from "node:fs";
@@ -8,19 +13,11 @@ import { pipeline } from "node:stream/promises";
 import fetch from "node-fetch";
 import { parse } from "csv-parse";
 
-// ------------------------------
-// shared config 
-// ------------------------------
-
 // bounding box for oslo area (yeah bounding boxes are bad)
 export const OSLO_BBOX = { minLat: 59.75, maxLat: 60.25, minLon: 10.20, maxLon: 11.10 };
 
 // i only want ruter/sporveien/vy. no random ferries from tromsø please, okay realised i want the random ferries afterall.
 export const AGENCY_ALLOW = null///ruter|sporveien|vy/i;
-
-// ------------------------------
-// utility graveyard
-// ------------------------------
 
 export function inOslo(lat: number, lon: number) {
     return lat >= OSLO_BBOX.minLat && lat <= OSLO_BBOX.maxLat &&

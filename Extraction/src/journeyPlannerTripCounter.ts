@@ -1,21 +1,26 @@
 /**
  * @author Carl Christian Roll-Lund
+ * 
+ * A quite standard approach to looping through data points using graphQL
+ * We read through our CSV made by the GTFS.ts then we append trips to edges,
+ * based on how many trips we find for the given day.
+ * 
  */
 
 // journeyPlannerTripCounter.ts
 import fs from "node:fs";
 import Papa from "papaparse";
 
-// Your two edge CSVs
+//outpaths
 const edgesPaths = [
     "./out/edges_GTFS_OSLO.csv",
     "./out/edges_GTFS_ALL_FYLKER.csv",
 ];
 
-// Entur Journey Planner endpoint
+// Journey Planner endpoint
 const ENTUR_ENDPOINT = "https://api.entur.io/journey-planner/v3/graphql";
 
-// The specific Monday you care about
+// Our representative weekday
 const TARGET_DATE = "2025-11-17";
 
 // Entur wants a client header. Change this to something sane.

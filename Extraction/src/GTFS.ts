@@ -1,5 +1,20 @@
 /**
  * @author Carl Christian Roll-Lund
+ * 
+ * The GTFS.ts script acts as the "main" file for the extraction part.
+ * The script downloads the full Norwegian GTFS dataset 
+ * (or uses the cached zip, if the program has already been run on the client),
+ * it clips it to the regions we specified making 2 datasets, one for Oslo-Only
+ * and one with extended regions added (Oslo, Akershus, Østfold & Buskerud).
+ * It filters stops by fylke/county geometry, rebuilds every edge by walking through stop_times
+ * in sequence, calculates median travel times, counts how many trips actually use each edge,
+ * and ssigns mode/authorities. The result is written out as CSV and JSON, we ended up using
+ * the edges/nodes+_GTFS_ALL_FYLKER_with_mondayTrips.csv and edges/nodes+_GTFS_OSLO_with_mondayTrips.csv
+ * for the majority of our work.
+ * The added monday trips were in this case collected from Enturs JourneyPlanner API, which we found out
+ * later was a bit redundant, as we found a much easier way to just use the given files from GTFS later on
+ * can be seen in the Rail Headway workbook. 
+ * 
  */
 
 import fs from "node:fs";
