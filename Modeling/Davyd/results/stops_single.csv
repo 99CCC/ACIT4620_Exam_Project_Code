@@ -1,0 +1,10 @@
+experiment,removed_stop_id,removed_stop_name,status,new_time_min,delta_time_min
+stop_remove_1,NSR:Quay:7159,Jernbanetorget,path_exists,15.0,0.0
+stop_remove_1,NSR:Quay:101778,Kvadraturen,path_exists,22.0,7.0
+stop_remove_1,NSR:Quay:101777,Wessels plass,path_exists,22.0,7.0
+stop_remove_1,NSR:Quay:7350,Nationaltheatret,path_exists,22.0,7.0
+stop_remove_1,NSR:Quay:104030,Solli,path_exists,22.0,7.0
+stop_remove_1,NSR:Quay:7813,Frogner kirke,path_exists,18.0,3.0
+stop_remove_1,NSR:Quay:7835,Olav Kyrres plass,path_exists,22.0,7.0
+stop_remove_1,NSR:Quay:11844,Thune,path_exists,22.0,7.0
+stop_remove_1,NSR:Quay:11817,Skøyen stasjon,path_exists,22.0,7.0

@@ -1,0 +1,9 @@
+experiment,removed_cluster_ids,removed_cluster_stop_ids,removed_cluster_stop_names,status,new_time_min,delta_time_min
+cluster_remove_2_consecutive,118|600,NSR:Quay:105756|NSR:Quay:101778|NSR:Quay:122003|NSR:Quay:7224|NSR:Quay:7158|NSR:Quay:7159,Jernbanetorget|Kvadraturen,path_exists,22.0,7.0
+cluster_remove_2_consecutive,600|117,NSR:Quay:101778|NSR:Quay:7311|NSR:Quay:101777,Kvadraturen|Wessels plass,path_exists,22.0,7.0
+cluster_remove_2_consecutive,117|116,NSR:Quay:109233|NSR:Quay:7373|NSR:Quay:7349|NSR:Quay:7350|NSR:Quay:101777|NSR:Quay:109539|NSR:Quay:7311,Nationaltheatret|Wessels plass,path_exists,22.0,7.0
+cluster_remove_2_consecutive,116|93,NSR:Quay:109233|NSR:Quay:7747|NSR:Quay:7739|NSR:Quay:7373|NSR:Quay:7349|NSR:Quay:104030|NSR:Quay:7350|NSR:Quay:104031|NSR:Quay:109539,Nationaltheatret|Solli,path_exists,22.0,7.0
+cluster_remove_2_consecutive,93|115,NSR:Quay:7747|NSR:Quay:7739|NSR:Quay:7813|NSR:Quay:104030|NSR:Quay:7812|NSR:Quay:104031,Frogner kirke|Solli,path_exists,22.0,7.0
+cluster_remove_2_consecutive,115|114,NSR:Quay:7812|NSR:Quay:7836|NSR:Quay:7835|NSR:Quay:7813,Frogner kirke|Olav Kyrres plass,path_exists,22.0,7.0
+cluster_remove_2_consecutive,114|250,NSR:Quay:7836|NSR:Quay:7835|NSR:Quay:11845|NSR:Quay:11844,Olav Kyrres plass|Thune,path_exists,22.0,7.0
+cluster_remove_2_consecutive,250|251,NSR:Quay:11824|NSR:Quay:11818|NSR:Quay:11819|NSR:Quay:11845|NSR:Quay:11844|NSR:Quay:11817|NSR:Quay:107539,Skøyen stasjon|Thune,no_path,,

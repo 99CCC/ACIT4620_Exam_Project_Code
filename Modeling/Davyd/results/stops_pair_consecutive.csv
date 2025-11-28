@@ -1,0 +1,9 @@
+experiment,removed_stop_ids,removed_stop_names,status,new_time_min,delta_time_min
+stop_remove_2_consecutive,NSR:Quay:7159|NSR:Quay:101778,Jernbanetorget|Kvadraturen,path_exists,22.0,7.0
+stop_remove_2_consecutive,NSR:Quay:101778|NSR:Quay:101777,Kvadraturen|Wessels plass,path_exists,22.0,7.0
+stop_remove_2_consecutive,NSR:Quay:101777|NSR:Quay:7350,Wessels plass|Nationaltheatret,path_exists,22.0,7.0
+stop_remove_2_consecutive,NSR:Quay:7350|NSR:Quay:104030,Nationaltheatret|Solli,path_exists,22.0,7.0
+stop_remove_2_consecutive,NSR:Quay:104030|NSR:Quay:7813,Solli|Frogner kirke,path_exists,22.0,7.0
+stop_remove_2_consecutive,NSR:Quay:7813|NSR:Quay:7835,Frogner kirke|Olav Kyrres plass,path_exists,22.0,7.0
+stop_remove_2_consecutive,NSR:Quay:7835|NSR:Quay:11844,Olav Kyrres plass|Thune,path_exists,22.0,7.0
+stop_remove_2_consecutive,NSR:Quay:11844|NSR:Quay:11817,Thune|Skøyen stasjon,path_exists,22.0,7.0

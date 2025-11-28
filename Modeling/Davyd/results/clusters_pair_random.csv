@@ -1,0 +1,11 @@
+experiment,removed_cluster_ids,removed_cluster_stop_ids,removed_cluster_stop_names,status,new_time_min,delta_time_min
+cluster_remove_2_random_run_1,600|93,NSR:Quay:7747|NSR:Quay:101778|NSR:Quay:7739|NSR:Quay:104030|NSR:Quay:104031,Kvadraturen|Solli,path_exists,22.0,7.0
+cluster_remove_2_random_run_2,93|251,NSR:Quay:11824|NSR:Quay:11818|NSR:Quay:11819|NSR:Quay:7747|NSR:Quay:7739|NSR:Quay:104030|NSR:Quay:104031|NSR:Quay:11817|NSR:Quay:107539,Skøyen stasjon|Solli,no_path,,
+cluster_remove_2_random_run_3,117|93,NSR:Quay:7747|NSR:Quay:7739|NSR:Quay:104030|NSR:Quay:104031|NSR:Quay:101777|NSR:Quay:7311,Solli|Wessels plass,path_exists,22.0,7.0
+cluster_remove_2_random_run_4,117|114,NSR:Quay:7836|NSR:Quay:7835|NSR:Quay:7311|NSR:Quay:101777,Olav Kyrres plass|Wessels plass,path_exists,22.0,7.0
+cluster_remove_2_random_run_5,118|93,NSR:Quay:7747|NSR:Quay:105756|NSR:Quay:7739|NSR:Quay:122003|NSR:Quay:104030|NSR:Quay:104031|NSR:Quay:7224|NSR:Quay:7158|NSR:Quay:7159,Jernbanetorget|Solli,path_exists,22.0,7.0
+cluster_remove_2_random_run_6,116|251,NSR:Quay:109233|NSR:Quay:11824|NSR:Quay:11818|NSR:Quay:11819|NSR:Quay:7373|NSR:Quay:7349|NSR:Quay:7350|NSR:Quay:109539|NSR:Quay:11817|NSR:Quay:107539,Nationaltheatret|Skøyen stasjon,no_path,,
+cluster_remove_2_random_run_7,600|114,NSR:Quay:101778|NSR:Quay:7836|NSR:Quay:7835,Kvadraturen|Olav Kyrres plass,path_exists,22.0,7.0
+cluster_remove_2_random_run_8,116|93,NSR:Quay:109233|NSR:Quay:7747|NSR:Quay:7739|NSR:Quay:7373|NSR:Quay:7349|NSR:Quay:104030|NSR:Quay:7350|NSR:Quay:104031|NSR:Quay:109539,Nationaltheatret|Solli,path_exists,22.0,7.0
+cluster_remove_2_random_run_9,116|250,NSR:Quay:109233|NSR:Quay:11845|NSR:Quay:7373|NSR:Quay:7349|NSR:Quay:11844|NSR:Quay:7350|NSR:Quay:109539,Nationaltheatret|Thune,path_exists,22.0,7.0
+cluster_remove_2_random_run_10,600|116,NSR:Quay:109233|NSR:Quay:101778|NSR:Quay:7373|NSR:Quay:7349|NSR:Quay:7350|NSR:Quay:109539,Kvadraturen|Nationaltheatret,path_exists,22.0,7.0

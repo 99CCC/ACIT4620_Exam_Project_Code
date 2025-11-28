@@ -1,0 +1,11 @@
+experiment,removed_stop_ids,removed_stop_names,status,new_time_min,delta_time_min
+stop_remove_2_random_run_1,NSR:Quay:7159|NSR:Quay:7835,Jernbanetorget|Olav Kyrres plass,path_exists,22.0,7.0
+stop_remove_2_random_run_2,NSR:Quay:101778|NSR:Quay:104030,Kvadraturen|Solli,path_exists,22.0,7.0
+stop_remove_2_random_run_3,NSR:Quay:101777|NSR:Quay:11817,Wessels plass|Skøyen stasjon,path_exists,22.0,7.0
+stop_remove_2_random_run_4,NSR:Quay:101777|NSR:Quay:104030,Wessels plass|Solli,path_exists,22.0,7.0
+stop_remove_2_random_run_5,NSR:Quay:7159|NSR:Quay:104030,Jernbanetorget|Solli,path_exists,22.0,7.0
+stop_remove_2_random_run_6,NSR:Quay:101778|NSR:Quay:11844,Kvadraturen|Thune,path_exists,22.0,7.0
+stop_remove_2_random_run_7,NSR:Quay:101777|NSR:Quay:11844,Wessels plass|Thune,path_exists,22.0,7.0
+stop_remove_2_random_run_8,NSR:Quay:101777|NSR:Quay:7350,Wessels plass|Nationaltheatret,path_exists,22.0,7.0
+stop_remove_2_random_run_9,NSR:Quay:104030|NSR:Quay:11844,Solli|Thune,path_exists,22.0,7.0
+stop_remove_2_random_run_10,NSR:Quay:7350|NSR:Quay:11844,Nationaltheatret|Thune,path_exists,22.0,7.0
